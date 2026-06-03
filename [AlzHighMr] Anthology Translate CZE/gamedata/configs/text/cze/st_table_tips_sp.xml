@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="windows-1250" standalone="yes" ?>
+<string_table>
+
+<string id="st_esc_sidor_talk_sms">
+    <text>%c[255,0,255,0]Shroud, zastav se, až budeš poblíž — mám pro tebe něco.</text>
+</string>
+
+<string id="st_esc_quest_fee_sms_1">
+    <text>%c[255,255,128,128]Jak to jde, radioaktivní maso? Máš poslední den na prachy, jinak víš, co se stane.</text>
+</string>
+
+<string id="st_esc_quest_fee_sms_2">
+    <text>%c[255,255,128,128]A kde jsou ty peníze, co jsi slíbil? Fajn, máš ještě 12 hodin. Zkazíš to a je to na tobě!</text>
+</string>
+
+<string id="st_esc_quest_fee_sms_3">
+    <text>%c[255,255,128,128]Čas vypršel. Tvého kámoše už sežrali psi a dlouho běhat nebudeš taky.</text>
+</string>
+
+<string id="st_esc_sms_wolf_quest_trimming">
+    <text>%c[255,0,255,0]Hej Shroud, pořád potřebuješ prachy? Mám pro tebe práci. Stav se, vysvětlím ti to.</text>
+</string>
+
+<string id="st_esc_sms_wolf_quest_insurance">
+    <text>%c[255,0,255,0]Tady zase já. Potřebuju pomoct, víš kde mě najdeš.</text>
+</string>
+
+<string id="st_esc_sms_wolf_quest_talk_wolf_work">
+    <text>%c[255,0,255,0]Zastav se kdykoliv, vždycky se pro tebe nějaká práce najde…</text>
+</string>
+
+<string id="st_esc_sms_logoped_predlog">
+    <text>%c[255,255,128,128]No ne! Koukejme, kdo se nám tady objevil! Jsi na našem území, tuláku. Pojď sem, promluvíme si. Třeba pro tebe něco najdeme — pro dobro našich kluků.</text>
+</string>
+
+<string id="st_esc_sidor_esc_quest_serious_business_sms">
+    <text>%c[255,0,255,0]Shroud, mám pro tebe vážnou práci. Čekám.</text>
+</string>
+
+<string id="st_esc_sidor_esc_quest_dangerous_business_sms">
+    <text>%c[255,0,255,0]Tak co, připraven? Přijď rychle, čas běží.</text>
+</string>
+
+<string id="st_esc_nps_wood_goblin_quest_sms">
+    <text>%c[255,0,255,0]Shroud, nezůstávej pozadu!</text>
+</string>
+
+<string id="st_esc_borland_quest_line_sms">
+    <text>%c[255,0,255,0]Shroud, až budeš mít čas, najdi mě. Musíme si promluvit.</text>
+</string>
+
+<string id="st_esc_sms_borland_posle_napadenia">
+    <text>%c[255,0,255,0]Kde jsi sakra zmizel?! Okamžitě ke mně, jsem ve vesnici nováčků a čekám.</text>
+</string>
+
+<string id="st_esc_sms_borland_assistance_conditional">
+    <text>%c[255,0,255,0]Neboj se, Shroud, dostaneme tě ven.</text>
+</string>
+
+<string id="st_esc_sms_logoped_gopstop_fail">
+    <text>%c[255,255,128,128]Ty idiote, nezvládl jsi tak jednoduchou práci!</text>
+</string>
+
+<string id="st_esc_borland_underground_1_sms">
+    <text>%c[255,0,255,0]Nesahej za námi, Shroud!</text>
+</string>
+
+<string id="st_esc_borland_underground_2_sms">
+    <text>%c[255,0,255,0]Musíme držet pohromadě!</text>
+</string>
+
+<string id="st_esc_sidor_underground_sms">
+    <text>%c[255,0,255,0]Shroud, dobré zprávy. Díky kontaktům jsem získal hlavní přístupový kód do laboratoře. Tady je: 7200</text>
+</string>
+
+<string id="st_esc_shaman_group_sms">
+    <text>%c[255,0,255,0]Ahoj, Shroud. Jsem připraven tě přijmout do naší skupiny.</text>
+</string>
+
+<string id="st_esc_nps_student_quest_sms">
+    <text>%c[255,0,255,0]Kam jdeš? Počkej!</text>
+</string>
+
+<string id="st_esc_nps_student_quest_sms_2">
+    <text>%c[255,0,255,0]Haha! Takový průvodce z tebe je.</text>
+</string>
+
+<string id="st_esc_shaman_worke">
+    <text>%c[255,0,255,0]Hej Shroud, slyšel jsem, že nejsi proti vydělání pár prachů. Stav se, možná pro tebe najdu nějakou práci.</text>
+</string>
+<string id="st_esc_sms_wolf_quest_conductor">
+    <text>%c[255,0,255,0]Potrebuješ prachy? Stav se, našel jsem pro tebe vhodnou práci.</text>
+</string>
+
+<string id="st_esc_risovalshik_open_zakaz_sms">
+    <text>%c[255,0,255,0]Vykupuju jakékoliv zbraně v jakémkoliv stavu na díly. Platím dobře!</text>
+</string>
+
+<string id="st_esc_borland_bar_surget_sms">
+    <text>%c[255,0,255,0]Shroud! Musíme držet pohromadě!</text>
+</string>
+
+<string id="st_esc_borland_bar_surget_2_sms">
+    <text>%c[255,0,255,0]Shroud! Rychleji! Jinak jsme mrtví!</text>
+</string>
+
+<string id="st_bar_sidor_new_details_sms_1">
+    <text>%c[255,0,255,0]Shroud, jak se máš? Pořád žiješ? Od tebe ani slovo — žádné zprávy, žádná stopa! Dozvěděl jsem se, že už jsi v Baru. Jestli jsi našel něco zajímavého… ty dokumenty z Laboratoře X5, co jsem chtěl, dones je Barmanovi. A zeptej se ho na ten artefakt — má užitečné informace.</text>
+</string>
+
+<string id="st_bar_sidor_new_details_sms_2">
+    <text>%c[255,0,255,0]Shroud, jak se máš? Žiješ? Od tebe ani slovo — žádné zprávy, žádná stopa! Už mi hlásili z checkpointu v Skládce…</text>
+</string>
+
+<string id="st_bar_barmen_new_details_sms">
+    <text>%c[255,0,255,0]Shroud, mám pro tebe práci, pamatuješ? Stav se, promluvíme si.</text>
+</string>
+
+<string id="st_bar_send_5_time">
+    <text>Uplynulo 5 h 12 min.</text>
+</string>
+
+<string id="st_bar_expectation_barmen_sms">
+    <text>%c[255,0,255,0]Shroud, čas vypršel. Je čas se rozhodnout. Jestli jsi připravený — přijď, promluvíme si.</text>
+</string>
+
+<string id="st_bar_dangerous_duty_voronin_sms">
+    <text>%c[255,0,255,0]Shroud, nastal čas. Jdi na checkpoint a promluv s velitelem stráže — řekne ti, co dál.</text>
+</string>
+
+<string id="st_bar_azot_work_sms">
+    <text>%c[255,0,255,0]Hej stalkere, chceš vydělat? Stav se za mnou. Jsem na základně Duty.</text>
+</string>
+
+<string id="st_bar_barmen_work_arena">
+    <text>%c[255,0,255,0]Můžeš jít do Arény, ale buď opatrný.</text>
+</string>
+
+<string id="st_bar_end_barmen_sms">
+    <text>%c[255,0,255,0]Žiješ? Rozmyslel sis to? Než půjdeš dolů, stav se. Mám pro tebe něco na cestu.</text>
+</string>
+
+<string id="st_city_sms_genarmy_1">
+    <text>%c[255,255,128,128]Pozor všichni bojovníci! Hlavní síly SPEKTRUM jsou na centrálním náměstí. Útočíme zepředu. Shroud, kryj křídlo. To je rozkaz.</text>
+</string>
+
+<string id="st_city_sms_genarmy_1_1">
+    <text>%c[255,255,128,128]ZRÁDCE!</text>
+</string>
+
+<string id="st_city_sms_genarmy_2">
+    <text>%c[255,255,128,128]Shroud, přibliž se k BVP, jsi moc daleko. Detonátor nebude fungovat.</text>
+</string>
+
+<string id="st_city_sms_genarmy_3">
+    <text>%c[255,255,128,128]Ti parchanti nastartovali helikoptéru. Shroud, běž na střechu! Nesmíš je nechat utéct!</text>
+</string>
+<string id="st_city_sms_genarmy_3_1">
+    <text>%c[255,255,128,128]Nechali jste jim utéct!!!</text>
+</string>
+
+<string id="st_city_sms_genarmy_4">
+    <text>%c[255,255,128,128]Pozor! Byl spatřen bojový vrtulník směřující k náměstí. Shroud, sestřel ho. Moji muži zajistí evakuační trasu.</text>
+</string>
+
+<string id="st_city_sms_genarmy_5">
+    <text>%c[255,255,128,128]Všichni na palubu! Útočíme na Dům kultury! Jsou tam zabarikádovaní žoldáci a vedení SPEKTRUM. Žádné zajatce!</text>
+</string>
+
+<string id="st_city_sms_genarmy_5_1">
+    <text>%c[255,255,128,128]Shroud, zkontroluj druhé patro!</text>
+</string>
+
+<string id="st_city_sms_genarmy_5_2">
+    <text>%c[255,255,128,128]Shroud, zkontroluj sklep!</text>
+</string>
+
+<string id="st_city_sms_genarmy_6">
+    <text>%c[255,255,128,128]Shroud, máš ten kufr? Dones ho ke mně. Pohyb!</text>
+</string>
+
+<string id="st_city_sms_genarmy_7">
+    <text>%c[255,255,128,128]Shroud, co to sakra děláš, ty bastarde? Jsi mrtvej! Všechny jednotky — zničit zrádce!</text>
+</string>
+
+<string id="st_bar_send_12_time">
+    <text>Uplynulo 12 h 08 min.</text>
+</string>
+
+</string_table>

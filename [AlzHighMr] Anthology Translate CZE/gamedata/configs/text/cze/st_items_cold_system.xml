@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+	<string id="st_food_very_hot">
+	<text>Velmi horké</text>
+</string>
+
+<string id="st_food_hot">
+	<text>Horké</text>
+</string>
+
+<string id="st_food_warm">
+	<text>Teplé</text>
+</string>
+
+<string id="st_cold_cold">
+	<text>Chladno</text>
+</string>
+
+<string id="st_cold_fever">
+	<text>Horečka</text>
+</string>
+
+<string id="cold_main_hud_value">
+	<text>Hodnoty</text>
+</string>
+
+<string id="cold_main_hud_percent">
+	<text>Procenta</text>
+</string>
+
+<string id="cold_main_sickness_val">
+	<text>horečka:</text>
+</string>
+
+<string id="cold_thermo_short_str">
+	<text>chlad/s: </text>
+</string>
+
+<string id="cold_thermo_long_env">
+	<text>Prostředí: </text>
+</string>
+
+<string id="cold_thermo_long_prot">
+	<text>Ochrana: </text>
+</string>
+
+<string id="cold_thermo_long_tot">
+	<text>Celkem: </text>
+</string>
+
+<string id="cold_thermo_hud_short">
+	<text>Krátké</text>
+</string>
+
+<string id="cold_thermo_hud_long">
+	<text>Plné</text>
+</string>
+
+</string_table>

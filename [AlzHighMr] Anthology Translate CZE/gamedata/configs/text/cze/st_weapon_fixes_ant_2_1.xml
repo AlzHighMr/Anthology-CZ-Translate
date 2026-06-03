@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+
+<string id="st_addon_sil_agram2000">
+    <text>Tlumič Agram2000</text>
+</string>
+
+<string id="st_addon_sil_agram2000_descr">
+    <text>Kompaktní tlumič navržený pro moderní pistole a karabiny. Snižuje záblesk a zvuk výstřelu, přičemž minimálně ovlivňuje ovladatelnost zbraně.\n \n
+V Zóně je ceněn pro rovnováhu mezi velikostí a účinností. Ze zbraně neudělá tichou, ale stačí to k udržení utajení při boji na krátkou vzdálenost nebo při plížení.\n \n
+Praktická volba pro ty, kteří spoléhají na nenápadnost.</text>
+</string>
+
+<string id="st_addon_scope_zf39">
+    <text>Puškohled ZF39</text>
+</string>
+
+<string id="st_addon_scope_zf39_descr">
+    <text>Německý optický zaměřovač původně vyvinutý pro vojenské pušky s otočným závěrem. Nabízí solidní zvětšení a jednoduchý, přehledný záměrný kříž vhodný pro střelbu na dlouhou vzdálenost.\n \n
+V Zóně se často používá na loveckých a odstřelovacích puškách díky své odolnosti a spolehlivosti v drsných podmínkách. Postrádá moderní funkce, ale zůstává spolehlivý v terénu.\n \n
+Přímý optický zaměřovač pro přesné a rozvážné výstřely.</text>
+</string>
+
+<string id="st_addon_scope_1p69">
+    <text>Puškohled 1P69</text>
+</string>
+
+<string id="st_addon_scope_1p69_descr">
+    <text>Ruský variabilní optický zaměřovač určený pro odstřelovací a marksman pušky. 1P69 nabízí nastavitelné přiblížení a univerzální záměrný obrazec pro střední až dlouhé vzdálenosti.\n \n
+V Zóně je oblíbený zkušenými stalkery, kteří potřebují flexibilitu v různých bojových situacích. Kombinuje přehlednost, odolnost a přizpůsobivost v jednom balení.\n \n
+Spolehlivý zaměřovač pro nepředvídatelné situace.</text>
+</string>
+
+<string id="st_grenade_laucher_m320">
+    <text>Granátomet M320</text>
+</string>
+
+<string id="st_grenade_laucher_m320_descr">
+    <text>Podvěsný granátomet určený pro moderní útočné pušky. Umožňuje rychlé zásahy nepřátel za krytem nebo uvnitř opevněných pozic pomocí výbušné munice.\n \n
+V Zóně se používá opatrně kvůli hmotnosti a omezené zásobě munice, ale je extrémně účinný proti skupinám mutantů i opevněným cílům.\n \n
+Tvrdé, ale efektivní řešení, když samotná palná zbraň nestačí.</text>
+</string>
+
+<string id="st_sight_elbit_falcon2">
+    <text>Zaměřovač Elbit Falcon 2</text>
+</string>
+
+<string id="st_sight_elbit_falcon2_descr">
+    <text>Moderní elektro-optický zaměřovač vyvinutý pro lepší rychlost zaměření v různých bojových podmínkách. Oproti klasické optice nabízí vyšší čistotu obrazu a rychlejší sledování cíle.\n \n
+V Zóně je ceněn pro stabilitu a přizpůsobivost v podmínkách nízké viditelnosti, jako je mlha, déšť nebo podzemní prostory. Pokročilá elektronika jej činí účinným, ale závislým na napájení a údržbě.\n \n
+Vysoce kvalitní nástroj pro stalkery, kteří spoléhají na přesnost a moderní technologie.</text>
+</string>
+
+<string id="st_fg42_scope">
+    <text>Puškohled FG42</text>
+</string>
+
+<string id="st_fg42_scope_descr">
+    <text>Německý optický zaměřovač původně určený pro pušku FG42. Nabízí střední zvětšení a jednoduchý funkční záměrný obrazec pro poloautomatickou i automatickou střelbu.\n \n
+V Zóně přežívá jako relikt, který je znovu používán na různých zbraních. Není nejmodernější, ale jeho robustní konstrukce z něj dělá překvapivě spolehlivý kus i po desetiletích.\n \n
+Stará technika, která stále drží krok.</text>
+</string>
+
+<string id="st_addon_garand_scope">
+    <text>Puškohled M1 Garand</text>
+</string>
+
+<string id="st_addon_garand_scope_descr">
+    <text>Dobově odpovídající optický zaměřovač upravený pro platformu M1 Garand. Nabízí základní zvětšení a jednoduchý záměrný obrazec vhodný pro střelbu na střední vzdálenost.\n \n
+V Zóně se často objevuje na upravených loveckých puškách nebo renovovaných vojenských zbraních. Přestože je zastaralý, zůstává funkční a spolehlivý v terénu.\n \n
+Jednoduchá optika pro disciplinovanou střelbu.</text>
+</string>
+
+<string id="st_addon_scope_pks07">
+    <text>Puškohled PKS-07</text>
+</string>
+
+<string id="st_addon_scope_pks07_descr">
+    <text>Sovětský optický zaměřovač určený pro odstřelovací a marksman pušky. PKS-07 nabízí čisté zvětšení a odolné tělo navržené pro vojenské podmínky.\n \n
+V Zóně je široce používán díky své rovnováze mezi spolehlivostí a snadnou údržbou. Funguje konzistentně i po silném vystavení prachu, vlhkosti a nárazům.\n \n
+Osvědčený zaměřovač mezi veterány Zóny.</text>
+</string>
+
+<string id="st_sight_komz_rusak">
+    <text>Zaměřovač KOMZ Rusak</text>
+</string>
+
+<string id="st_sight_komz_rusak_descr">
+    <text>Robustní sovětský optický zaměřovač vyráběný firmou KOMZ, známý svou jednoduchostí a mechanickou odolností. Rusak nabízí základní zvětšení s minimem funkcí, zaměřený čistě na spolehlivost.\n \n
+V Zóně se často objevuje na loveckých puškách a improvizovaných odstřelovacích sestavách. Postrádá moderní vylepšení, ale jen zřídka selže i v extrémních podmínkách.\n \n
+Hrubý, ale spolehlivý kus staré techniky.</text>
+</string>
+
+<string id="st_grenade_laucher_groza">
+    <text>Granátomet Groza</text>
+</string>
+
+<string id="st_grenade_laucher_groza_descr">
+    <text>Podvěsný granátomet integrovaný se zbraňovým systémem Groza. Navržen pro roli přímé podpory, umožňuje rychlé použití výbušné munice bez nutnosti výměny zbraně.\n \n
+V Zóně se používá k likvidaci mutantů, ničení krytů nebo průniku opevněnými pozicemi. Omezená munice vyžaduje opatrné použití, ale jeho dopad je v rozhodujících chvílích zásadní.\n \n
+Brutální nástroj přímé podpory pro nebezpečné situace.</text>
+</string>
+
+<string id="st_addon_sil_groza">
+    <text>Tlumič Groza</text>
+</string>
+
+<string id="st_addon_sil_groza_descr">
+    <text>Kompaktní tlumič určený specificky pro zbraňový systém Groza. Snižuje záblesk a zvuk výstřelu při zachování kompaktních rozměrů zbraně.\n \n
+V Zóně se používá hlavně pro řízené operace a boj na krátkou vzdálenost, kde je utajení důležitější než dlouhodobá palba. Přehřívání omezuje dlouhé dávky.\n \n
+Praktické příslušenství pro krátké a přesné střety.</text>
+</string>
+
+<string id="st_addon_l26">
+    <text>Tlumič L26</text>
+</string>
+
+<string id="st_addon_l26_descr">
+    <text>Lehký tlumič určený pro zbraně středního kalibru. Nabízí rovnováhu mezi útlumem zvuku, odolností a minimálním vlivem na ovladatelnost zbraně.\n \n
+V Zóně se často objevuje na upravených karabinách a služebních puškách. Spolehlivě funguje i v drsných podmínkách, i když dlouhodobá střelba může snížit jeho účinnost.\n \n
+Univerzální řešení pro tlumené operace.</text>
+</string>
+
+<string id="st_addon_sil_agram2000">
+    <text>Tlumič Agram2000</text>
+</string>
+
+<string id="st_addon_sil_agram2000_descr">
+    <text>Kompaktní tlumič pro pistole a lehké karabiny. Snižuje záblesk a zvuk výstřelu, aniž by výrazně zhoršoval ovladatelnost.\n \n
+V Zóně je ceněn pro jednoduchost a účinnost při stealth operacích. Zvuk zcela neeliminuje, ale pomáhá maskovat pozici střelce na krátkou vzdálenost.\n \n
+Spolehlivá volba pro nenápadný pohyb.</text>
+</string>
+
+<string id="st_addon_silencer_shak12">
+    <text>Tlumič ShAK-12</text>
+</string>
+
+<string id="st_addon_silencer_shak12_descr">
+    <text>Těžký tlumič navržený pro platformu ShAK-12. Určen pro extrémní tlaky a velkorážovou munici, upřednostňuje odolnost před maximálním útlumem zvuku.\n \n
+V Zóně se používá zřídka kvůli hmotnosti a rozměrům, ale je účinný ve specializovaných útočných rolích, kde je důležitější zastavovací účinek než stealth.\n \n
+Brutální nástroj pro extrémní boj na krátkou vzdálenost.</text>
+</string>
+
+<string id="st_addon_sil_six_68_qd">
+    <text>Tlumič Six-68 QD</text>
+</string>
+
+<string id="st_addon_sil_six_68_qd_descr">
+    <text>Rychloodnímatelný tlumič navržený pro rychlou montáž a demontáž v polních podmínkách. Poskytuje střední útlum zvuku při zachování vyvážení zbraně.\n \n
+V Zóně je oblíbený u stalkerů, kteří často přecházejí mezi stealth a přímým kontaktem. Modulární konstrukce z něj dělá praktické, ale o něco méně odolné řešení.\n \n
+Flexibilní příslušenství pro adaptivní styl boje.</text>
+</string>
+
+<string id="st_addon_sil_sten">
+    <text>Tlumič Sten</text>
+</string>
+
+<string id="st_addon_sil_sten_descr">
+    <text>Improvizovaný tlumič původně navržený pro samopal Sten. Jednoduchá konstrukce poskytuje základní útlum zvuku s minimálními nároky na spolehlivost.\n \n
+V Zóně se často vyskytuje jako polní úprava spíše než tovární vybavení. Není efektivní podle moderních standardů, ale snadno se opravuje a nahrazuje.\n \n
+Hrubé, ale funkční řešení vzniklé z nutnosti.</text>
+</string>
+
+
+<string id="st_addon_scope_garand_proto">
+    <text>Prototypový puškohled Garand</text>
+</string>
+
+<string id="st_addon_scope_garand_proto_descr">
+    <text>Experimentální optický zaměřovač vyvinutý pro rané úpravy platformy M1 Garand. Nabízí základní zvětšení se zjednodušeným záměrným systémem určeným pro rychlé zaměření cíle.\n \n
+V Zóně se objevuje převážně na experimentálních nebo upravených puškách. Postrádá jemné doladění, ale jeho odolnost a jednoduchá konstrukce jej činí použitelným i v drsných podmínkách.\n \n
+Raný pokus o vylepšení bojové optiky.</text>
+</string>
+
+<string id="st_wpn_addon_scope_pu">
+    <text>Puškohled PU</text>
+</string>
+
+<string id="st_wpn_addon_scope_pu_descr">
+    <text>\n \n%c[ui_gray_2]KOMPATIBILITA:\n \n%c[d_cyan] • %c[ui_gray_2] historické ruské pušky\n \n%c[ui_gray_1]Standardní teleskopický zaměřovač Rudé armády z druhé světové války a poválečných let, určený pro pěchotní a přesné pušky jako Mosin-Nagant nebo SVT-40. Nabízí pevné 3,5× zvětšení, což z něj dělá dobrou volbu pro boj na dlouhou vzdálenost. Stejně jako většina sovětských konstrukcí je odolný a funkční a používá se dodnes.\n \n
+%c[d_purple] • %c[ui_gray_2] Zvětšení: %c[ui_gray_1]3,5×\n
+%c[d_purple] • %c[ui_gray_2] Stav: %c[ui_gray_1]průměrný\n
+%c[d_purple] • %c[ui_gray_2] Záměrný obrazec: %c[ui_gray_1]PU</text>
+</string>
+
+<string id="st_wpn_addon_scope_zf4">
+    <text>Puškohled ZF-4</text>
+</string>
+
+<string id="st_wpn_addon_scope_zf4_descr">
+    <text>ZF-4 je starý vojenský teleskopický zaměřovač původně navržený pro služební pušky z poloviny 20. století. Navzdory stáří je stále ceněn pro čistou optiku, jednoduchou konstrukci a odolnost v náročných polních podmínkách.\n \n
+V Zóně se často používá na opakovačkách a loveckých puškách jako Sharps 1874, kde je důležitější přesnost než moderní funkce. Postrádá pokročilé nastavení, ale nabízí spolehlivost a stabilní obraz i za špatného počasí.\n \n
+Robustní optika pro stalkery, kteří důvěřují základům více než technologiím.</text>
+</string>
+
+<string id="st_wpn_dvl_10">
+    <text>DVL-10 Urbana</text>
+</string>
+
+<string id="st_wpn_dvl_10_descr">
+    <text>DVL-10 je lehká a kompaktní odstřelovací puška v proprietárních a moderních vojenských subsonických rážích, vyvinutá pro speciální a bojové mise, kde je vyžadována mimořádná přesnost a dostřel.\n \n
+%c[ui_gray_2]PŘÍSLUŠENSTVÍ:\n
+%c[d_purple] • %c[ui_gray_2] Optiky: všechny puškohledy pro Picatinny/Weaver kromě kolimátorů\n
+%c[d_purple] • %c[ui_gray_2] Tlumič: žádný\n</text>
+</string>
+
+<string id="st_wpn_beretta_92fs">
+    <text>Beretta 92FS</text>
+</string>
+
+<string id="st_wpn_beretta_92fs_descr">
+    <text>Beretta 92FS je známá italská samonabíjecí pistole široce používaná vojenskými a policejními složkami po celém světě. Je ceněna pro robustní konstrukci, hladký chod a vysokou spolehlivost i po dlouhodobém používání.\n \n
+V Zóně je považována za spolehlivou záložní zbraň, která funguje konzistentně i v drsných podmínkách. Není nejmodernější, ale její přesnost a snadná údržba ji udržují relevantní mezi stalkery, kteří preferují ověřené zbraně před experimenty.\n \n
+Stabilní pistole bez překvapení, která splní svůj účel, když se situace zhorší.</text>
+</string>
+
+<string id="ammo_tbg_29">
+    <text>Munice TBG-29</text>
+</string>
+
+<string id="ammo_tbg_29_descr">
+    <text>Velkorážový výbušný projektil nejasného původu, běžně nacházený ve starých vojenských skladech a opuštěných zásobovacích depotech. Konstrukce naznačuje určení pro těžké protimateriální nebo bunkrové role.\n \n
+V Zóně jsou tyto náboje vzácné a nestabilní, ale vysoce ceněné pro svou ničivou sílu proti obrněným cílům a velkým skupinám mutantů. Manipulace vyžaduje opatrnost, protože staré zásoby mohou vykazovat nekonzistentní chování.\n \n
+Na obalech často chybí označení výrobce, zůstaly jen improvizované skladové kódy neznámých vojenských jednotek.</text>
+</string>
+
+<string id="ammo_pg_26">
+    <text>Munice PG-26</text>
+</string>
+
+<string id="ammo_pg_26_descr">
+    <text>Protipancéřový tvarovaný projektil neznámého vojenského původu, pravděpodobně určený pro raketomety. Konstrukce vychází ze starších sovětských konceptů, ale přesný zdroj výroby nelze potvrdit.\n \n
+Nalezen převážně v zapečetěných bednách a na bojištích, PG-26 je stále účinný proti lehkým vozidlům, opevněním i velkým mutantům. Dlouhé skladování v podmínkách Zóny však může ovlivnit spolehlivost.\n \n
+Označení je částečně setřené, což naznačuje přebalování nebo redistribuci přes neoficiální vojenské kanály.</text>
+</string>
+
+<string id="st_wpn_am17">
+    <text>AM-17</text>
+</string>
+
+<string id="st_wpn_am17_descr">
+    <text>Kompaktní a ergonomická útočná puška vyvinutá jako moderní náhrada za AKS-74U pro ruské speciální síly a vnitřní bezpečnostní složky.\n \n
+AM-17 vychází z konceptu experimentální kompaktní pušky navržené Jevgenijem Dragunovem. Na rozdíl od většiny standardních ruských služebních zbraní (rodiny AK, PK, SVD) používá moderní modulární konstrukci s polymerovým horním pouzdrem a samostatným spoušťovým blokem, podobně jako historické konstrukce typu PPŠ, PPS nebo StG 44.\n \n
+Horní pouzdro kombinuje ocelové vyztužení s polymerem, zatímco spodní část a šachta zásobníku jsou plně polymerové. Zbraň funguje na plynovém principu s krátkým zdvihem pístu a uzamčení závěru je řešeno rotačním závorníkem se třemi ozuby. Integrované lišty Picatinny, sklopná a stavitelná teleskopická pažba a oboustranné ovládací prvky zvyšují ergonomii.\n \n
+Její kompaktní rozměry a přizpůsobivost ji činí efektivní jak v boji na krátkou vzdálenost, tak ve středním dosahu.\n \n
+%c[0,255,255,255]VÝROBA:\n
+%c[d_cyan] • %c[0,255,255,255] Země: %c[ui_gray_2]Rusko\n
+%c[d_cyan] • %c[0,255,255,255] Výrobce: %c[ui_gray_2]Kalashnikov\n
+</text>
+</string>
+
+
+	<string id="st_wpn_amb17">
+	<text>AM-17</text>
+</string>
+
+<string id="st_wpn_amb17_descr">
+	<text>Kompaktní a ergonomická útočná puška vyvinutá jako moderní náhrada za AKS-74U pro jednotky ruských speciálních sil. AM-17 vychází z konstrukční filozofie experimentálních kompaktních zbraní vyvíjených Jevgenijem Dragunovem.\n \n
+AM-17 je lehká moderní palná zbraň. Její konstrukce využívá polymerové horní pouzdro kombinované se spodní spoušťovou jednotkou, což zlepšuje modularitu a snižuje celkovou hmotnost. Zbraň je navržena pro lepší ovladatelnost v uzavřených prostorách při zachování účinnosti ve středním dosahu.\n \n
+Její kompaktní design, oboustranné ovládací prvky a stavitelná sklopná pažba ji činí vhodnou pro širokou škálu bojových situací, od boje zblízka po městské operace.\n \n
+%c[pda_white]VÝROBA:\n
+%c[d_cyan] • %c[pda_white] Země: %c[ui_gray_2]Rusko\n
+%c[d_cyan] • %c[pda_white] Výrobce: %c[ui_gray_2]Kalashnikov\n
+	</text>
+</string>
+
+<string id="st_wpn_pk">
+    <text>PK</text>
+</string>
+
+<string id="st_wpn_saiga12c_dolg">
+    <text>Saiga-12C „DUTY“</text>
+</string>
+
+<string id="st_wpn_saiga12c_dolg_descr">
+    <text>Saiga-12C je ruská samonabíjecí brokovnice založená na platformě Kalašnikov, upravená pro hladkostřelné brokové náboje. Speciální varianta „Duty“ je vydávána výhradně operativcům Duty a obsahuje zesílené vnitřní díly, lepší kontrolu zpětného rázu a tovární ladění pro vyšší spolehlivost při dlouhodobém boji.\n \n
+Navržena pro boj na krátkou vzdálenost, vyniká v městských operacích a úzkých koridorech typických pro zásahové akce v Zóně. Její vysoká zastavovací síla a zásobníkové podávání z ní dělají brutální, ale efektivní nástroj pro likvidaci mutantů i nepřátelských frakcí.\n \n</text>
+</string>
+
+<string id="st_wpn_toz34_hunter">
+    <text>TOZ-34 HUNTER BROKOVNICE</text>
+</string>
+
+<string id="st_wpn_toz34_hunter_descr">
+    <text>TOZ-34 je klasická sovětská dvouhlavňová brokovnice typu „over-under“, široce používaná lovci a civilisty po celá desetiletí. Je známá svou jednoduchou konstrukcí a spolehlivostí, která přetrvává i přes stáří. Varianta „Hunter“ bývá lépe udržovaná a obvykle v lepším stavu než standardní opotřebené kusy.\n \n
+V Zóně je TOZ-34 běžná u nováčků i zkušených stalkerů. Její silný účinek na krátkou vzdálenost ji činí ideální pro boj s mutanty, ale omezená kapacita a pomalejší přebíjení vyžadují přesné míření.\n \n</text>
+</string>
+
+<string id="st_wpn_mossberg590a1_s">
+    <text>Mossberg B590a1</text>
+</string>
+
+<string id="st_wpn_sw917_snub_short">
+    <text>S&W 1917 Snub</text>
+</string>
+
+<string id="st_wpn_mossberg590a1_wood_s">
+    <text>Mossberg B590a1</text>
+</string>
+
+<string id="st_wpn_automav">
+    <text>AutoMAV pistole</text>
+</string>
+
+<string id="st_wpn_automav_descr">
+    <text>Kompaktní automatická pistole určená pro boj na krátkou vzdálenost. AutoMAV nabízí vysokou kadenci střelby v lehkém rámu, což ji činí účinnou v těsných situacích, kde je důležitější rychlost než přesnost. 
+Její nižší zastavovací účinek a malá kapacita zásobníku ji činí méně vhodnou pro delší přestřelky.</text>
+</string>
+
+<string id="st_wpn_sw1917_snub">
+    <text>S&W 1917 Snub</text>
+</string>
+
+<string id="st_wpn_sw1917_snub_descr">
+    <text>Kompaktní zkrácená varianta klasického revolveru Smith & Wesson 1917 ráže .45 ACP. Zkrácená hlaveň zlepšuje ovladatelnost a rychlost tasení, což ji činí vhodnou pro střety na krátkou vzdálenost. 
+Navzdory vysokému zastavovacímu účinku ji omezená kapacita válce a pomalejší přebíjení znevýhodňují v delších přestřelkách.</text>
+</string>
+
+<string id="st_wpn_p320">
+    <text>SIG P320</text>
+</string>
+
+<string id="st_wpn_p320_descr">
+    <text>Modulární samonabíjecí pistole vyvinutá firmou SIG Sauer. P320 si získala popularitu díky spolehlivosti, jednoduché konstrukci a možnosti snadné výměny rámů a hlavní podle potřeb uživatele. V Zóně je ceněna pro přesnost, dostupnou munici a solidní zastavovací účinek. Dobrá volba pro stalkery hledající vyváženou a univerzální záložní zbraň.</text>
+</string>
+
+<string id="st_wpn_benelli_m4">
+    <text>BENELLI M4 BROKOVNICE</text>
+</string>
+
+<string id="st_wpn_benelli_m4_descr">
+    <text>Benelli M4 je samonabíjecí brokovnice vyvinutá italskou firmou Benelli Armi S.p.A. Používá spolehlivý plynový automatický systém navržený pro vojenské účely, který zajišťuje konzistentní funkci i v náročných a znečištěných podmínkách.\n \n
+Zbraň byla přijata několika armádami po celém světě díky své odolnosti, hladkému chodu a vysokému zastavovacímu účinku. Její konstrukce kombinuje moderní spolehlivost s praktickým použitím v terénu, což z ní dělá důvěryhodnou zbraň pro boj na krátkou vzdálenost.\n \n
+V Zóně je ceněna zkušenými stalkery, kteří potřebují brokovnici, na kterou se mohou spolehnout, když se situace zkomplikuje.</text>
+</string>
+<string id="st_wpn_kriss_cust">
+    <text>KRISS VECTOR CUSTOM</text>
+</string>
+
+<string id="st_wpn_kriss_cust_descr">
+    <text>KRISS Vector Custom je upravený samopal postavený na neobvyklém systému tlumení zpětného rázu, který odvádí energii směrem dolů a udržuje zbraň stabilní při rychlé palbě. Custom varianta v Zóně bývá často laděná a upravovaná nezávislými zbrojíři, kteří ji přizpůsobují polním podmínkám.\n \n
+Vyniká v boji na krátkou vzdálenost, kde je rychlost důležitější než přesnost. Vysoká kadence, dobře kontrolovatelný zpětný ráz a kompaktní rozměry z ní dělají nebezpečnou zbraň v uzavřených prostorech jako jsou bunkry, chodby a městské ruiny.\n \n
+V Zóně je to zbraň pro stalkery, kteří chtějí ukončit boj dřív, než vůbec začne.</text>
+</string>
+
+<string id="st_wpn_wincheaster1300_trapper">
+    <text>WINCHESTER 1300 TRAPPER</text>
+</string>
+
+<string id="st_wpn_wincheaster1300_trapper_descr">
+    <text>Stará pumpovací brokovnice zkrácená pro rychlou práci v těsných prostorech. Winchester 1300 Trapper není nijak složitý, ale přebíjí plynule a zasahuje dost silně na to, aby i mutanti dvakrát zvážili útok.\n \n
+Oblíbená mezi stalkery, kteří tráví více času v opuštěných budovách a podzemních tunelech než na otevřeném prostranství. Je lehká, rychlá do ramene a odpouští chyby v chaotických přestřelkách.\n \n
+V Zóně platí jednoduché pravidlo—spolehlivost vítězí nad rafinovaností, a tahle zbraň prostě funguje i tehdy, kdy by neměla.</text>
+</string>
+
+<string id="st_wpn_benelli_m1014">
+    <text>BENELLI M1014 BROKOVNICE</text>
+</string>
+
+<string id="st_wpn_benelli_m1014_descr">
+    <text>Benelli M1014 je samonabíjecí brokovnice vyráběná italskou firmou Benelli Armi S.p.A., čtvrtý a poslední model řady Super 90. Používá patentovaný systém „auto-regulating gas-operated“ (ARGO), vyvinutý přímo pro tuto zbraň. Navržena v roce 1998, byla přijata ozbrojenými silami Itálie, USA a Velké Británie a nasazena v řadě konfliktů.\n \n
+%c[ui_gray_2]PŘÍSLUŠENSTVÍ:\n
+%c[d_purple] • %c[ui_gray_2] Optiky: 0kp2, e0t2, eot, ac10632, c-more, ekp8_18, rmr, deltapoint, aim_low, d0cter\n
+%c[d_purple] • %c[ui_gray_2] Tlumič: SALVO12\n</text>
+</string>
+
+<string id="st_wpn_benelli_m3">
+    <text>BENELLI M3 BROKOVNICE</text>
+</string>
+
+<string id="st_wpn_benelli_m3_descr">
+    <text>Benelli M3 je brokovnice s duálním režimem výroby od italské firmy Benelli Armi S.p.A. Nabízí možnost přepínání mezi samonabíjecím a pumpovacím režimem, což ji činí velmi přizpůsobivou různým bojovým situacím. Díky této univerzálnosti spolehlivě funguje s širokou škálou munice, od standardních nábojů po méně výkonné střelivo.\n \n
+V Zóně je M3 ceněna pro svou flexibilitu a odolnost v náročných podmínkách. Ať už jde o čištění úzkých prostor nebo boj s tvrdšími cíli, zůstává spolehlivou volbou pro stalkery, kteří potřebují sílu i variabilitu.\n \n
+</text>
+</string>
+
+<string id="st_deagle_niger">
+    <text>Desert Eagle (tlumený)</text>
+</string>
+
+<string id="st_deagle_super">
+    <text>Desert Eagle (tlumený)</text>
+</string>
+
+<string id="st_st_deagle_niger_descr">
+    <text>Upravená verze pistole Desert Eagle vybavená tlumičem. Zachovává vysoký zastavovací účinek při snížení hluku střelby, což z ní dělá smrtící nástroj pro stealth operace. 
+Stále však trpí silným zpětným rázem a omezenou kapacitou zásobníku.</text>
+</string>
+
+<string id="st_deagle_niger_descr">
+    <text>Upravená verze pistole Desert Eagle vybavená tlumičem. Zachovává vysoký zastavovací účinek při snížení hluku střelby, což z ní dělá smrtící nástroj pro stealth operace. 
+Stále však trpí silným zpětným rázem a omezenou kapacitou zásobníku.</text>
+</string>
+
+<string id="st_wpn_fn2000_camo_short">
+    <text>FN 2000 Camo</text>
+</string>
+
+<string id="st_wpn_fn2000_tact_short">
+    <text>FN 2000 Tac</text>
+</string>
+
+<string id="st_wpn_sig320_u2p2g0r">
+    <text>SIG Sauer P320</text>
+</string>
+
+<string id="st_wpn_sig320_u2p2g0r_short">
+    <text>SIG P320</text>
+</string>
+
+<string id="st_wpn_sig320_u2p2g0r_descr">
+    <text>SIG Sauer P320 je moderní samonabíjecí pistole široce používaná vojenskými a policejními jednotkami. Vyznačuje se modulární konstrukcí, vysokou spolehlivostí a dobrou ergonomií. V Zóně slouží jako spolehlivá záložní zbraň s dobrou přesností, zvládnutelným zpětným rázem a kompatibilitou s různým taktickým příslušenstvím.</text>
+</string>
+
+<string id="st_wpn_sig320_upg220">
+	<text>SIG Sauer P320</text>
+</string>
+
+<string id="st_wpn_sig320_upg220_short">
+	<text>SIG P320</text>
+</string>
+
+<string id="st_wpn_sig320_upg220_descr">
+	<text>
+		SIG Sauer P320 je samonabíjecí pistole s vyšším zastavovacím účinkem určená pro boj na krátkou vzdálenost.
+		Oproti menším rážím nabízí větší účinnost na cíl za cenu silnějšího zpětného rázu a nižší kapacity zásobníku.
+		V Zóně je tato varianta oblíbená u zkušených stalkerů, kteří dávají přednost surové síle a spolehlivosti před rychlými následnými výstřely.
+	</text>
+</string>
+
+<string id="st_wpn_molot_101">
+    <text>Molot 101</text>
+</string>
+
+<string id="st_wpn_molot_101_descr">
+    <text>Molot 101 je ruská samonabíjecí pistole vyvinutá pro civilní a bezpečnostní použití. Je známá svou spolehlivostí a kompaktní konstrukcí. Používá standardní munici 9×18 Makarov a pracuje na jednoduchém principu zákluzu. Vhodná pro sebeobranu na krátkou vzdálenost a široce používaná bezpečnostními složkami i policií.\n \n
+%c[ui_gray_2]PŘÍSLUŠENSTVÍ:\n
+%c[d_purple] • %c[ui_gray_2] Zaměřovače: standardní pevná mířidla\n
+%c[d_purple] • %c[ui_gray_2] Volitelný tlumič (pokud je kompatibilní)\n \n</text>
+</string>
+
+
+
+</string_table>

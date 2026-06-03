@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!-- 
+	MCM
+-->
+<string_table>
+
+
+	<string id="ui_mcm_cold_system_title">
+		<text>Cold System</text>
+	</string>
+	<string id="ui_mcm_menu_cold_system">
+		<text>Cold System</text>
+	</string>
+
+		<!-- FACTORS -->
+	<string id="ui_mcm_cold_system_header_main">
+	<text>Faktory chladu</text>
+</string>
+
+<string id="ui_mcm_cold_system_winter">
+	<text>Zima</text>
+</string>
+<string id="ui_mcm_cold_system_winter_desc">
+	<text>Povolí zimní režim, vítr a časové faktory budou výrazně tvrdší.</text>
+</string>
+
+<string id="ui_mcm_cold_system_wind">
+	<text>Vítr</text>
+</string>
+<string id="ui_mcm_cold_system_wind_desc">
+	<text>Vyšší násobič znamená větší chlad, závisí na rychlosti větru a neovlivňuje hráče uvnitř budov. „0“ faktor vypne. \n 
+				\n Výchozí: 1.0</text>
+</string>
+
+<string id="ui_mcm_cold_system_rain">
+	<text>Déšť</text>
+</string>
+<string id="ui_mcm_cold_system_rain_desc">
+	<text>Vyšší násobič znamená větší chlad, závisí na hustotě deště a neovlivňuje hráče pod střechou nebo jinými překážkami. „0“ faktor vypne. \n 
+				\n Výchozí: 1.0</text>
+</string>
+
+<string id="ui_mcm_cold_system_time">
+	<text>Čas</text>
+</string>
+<string id="ui_mcm_cold_system_time_desc">
+	<text>Vyšší násobič znamená větší chlad, závisí na denní době, přičemž noci jsou nejchladnější. „0“ faktor vypne. \n 
+				\n Výchozí: 1.0</text>
+</string>
+
+<string id="ui_mcm_cold_system_sun">
+	<text>Slunce</text>
+</string>
+<string id="ui_mcm_cold_system_sun_desc">
+	<text>Vyšší násobič znamená větší teplo, závisí na barvě slunce, přičemž nejjasnější slunce má maximální hodnotu. V interiérech sníženo na polovinu. „0“ faktor vypne. \n 
+				\n Výchozí: 1.0</text>
+</string>
+
+<string id="ui_mcm_cold_system_campfire">
+	<text>Oheň</text>
+</string>
+<string id="ui_mcm_cold_system_campfire_desc">
+	<text>Vyšší násobič znamená větší teplo, poskytuje silné snížení chladu v blízkosti zapáleného ohně. „0“ faktor vypne. \n 
+				\n Výchozí: 1.0</text>
+</string>
+
+<string id="ui_mcm_cold_system_move">
+	<text>Pohyb</text>
+</string>
+<string id="ui_mcm_cold_system_move_desc">
+	<text>Vyšší násobič znamená větší teplo, zahřívá při pohybu, přičemž sprint poskytuje největší efekt. „0“ faktor vypne. \n 
+				\n Výchozí: 1.0</text>
+</string>
+
+<string id="ui_mcm_cold_system_outfit">
+	<text>Oblečení</text>
+</string>
+<string id="ui_mcm_cold_system_outfit_desc">
+	<text>Vyšší násobič znamená větší teplo, těžké a sci-fi obleky poskytují největší ochranu. „0“ faktor vypne. \n 
+				\n Výchozí: 1.0</text>
+</string>
+
+<string id="ui_mcm_cold_system_artefact">
+	<text>Artefakty / kůže</text>
+</string>
+<string id="ui_mcm_cold_system_artefact_desc">
+	<text>Násobič předmětů v opasku. Termo artefakty a mutantí kůže jsou pozitivní, elektrické negativní. Hodnota závisí na tieru. „0“ faktor vypne. \n 
+				\n Výchozí: 1.0</text>
+</string>
+
+<!-- HUD -->
+<string id="ui_mcm_cold_system_header_hud">
+	<text>HUD</text>
+</string>
+
+<string id="ui_mcm_cold_system_hud">
+	<text>Vždy zobrazit HUD</text>
+</string>
+
+<string id="ui_mcm_cold_system_keybind">
+	<text>Klávesová zkratka HUD</text>
+</string>
+<string id="ui_mcm_cold_system_keybind_desc">
+	<text>Klávesa pro zobrazení ukazatele chladu.</text>
+</string>
+
+			<!-- hud cold -->
+	<string id="ui_mcm_cold_system_main_hud_position_x">
+	<text>Pozice chladu X</text>
+</string>
+<string id="ui_mcm_cold_system_main_hud_position_x_desc">
+	<text>Výchozí: 884</text>
+</string>
+
+<string id="ui_mcm_cold_system_main_hud_position_y">
+	<text>Pozice chladu Y</text>
+</string>
+<string id="ui_mcm_cold_system_main_hud_position_y_desc">
+	<text>Výchozí: 189</text>
+</string>
+
+<string id="ui_mcm_cold_system_main_bar_text_mode">
+	<text>Textový režim chladu</text>
+</string>
+<string id="ui_mcm_cold_system_main_bar_text_mode_desc">
+	<text>Povolí nahrazení ukazatele chladu textovou hodnotou.</text>
+</string>
+
+<string id="ui_mcm_cold_system_main_hud_font">
+	<text>Písmo chladu (textový režim)</text>
+</string>
+
+<string id="ui_mcm_cold_system_main_hud_descr_type">
+	<text>Popis chladu (textový režim)</text>
+</string>
+
+			<!-- hud thermo -->
+	<string id="ui_mcm_cold_system_thermo_hud_position_x">
+	<text>Pozice teploměru X</text>
+</string>
+<string id="ui_mcm_cold_system_thermo_hud_position_x_desc">
+	<text>Výchozí: 980</text>
+</string>
+
+<string id="ui_mcm_cold_system_thermo_hud_position_y">
+	<text>Pozice teploměru Y</text>
+</string>
+<string id="ui_mcm_cold_system_thermo_hud_position_y_desc">
+	<text>Výchozí: 50</text>
+</string>
+
+<string id="ui_mcm_cold_system_thermo_bar_text_mode">
+	<text>Textový režim teploměru</text>
+</string>
+<string id="ui_mcm_cold_system_thermo_bar_text_mode_desc">
+	<text>Povolí nahrazení ukazatele teploměru textovou hodnotou.</text>
+</string>
+
+<string id="ui_mcm_cold_system_thermo_hud_font">
+	<text>Písmo teploměru (textový režim)</text>
+</string>
+
+<string id="ui_mcm_cold_system_thermo_hud_descr_type">
+	<text>Popis teploměru (textový režim)</text>
+</string>
+
+			<!-- MISC -->
+	<string id="ui_mcm_cold_system_header_misc">
+	<text>Ostatní</text>
+</string>
+
+<string id="ui_mcm_cold_system_sickness">
+	<text>Horečka</text>
+</string>
+<string id="ui_mcm_cold_system_sickness_desc">
+	<text>Násobič šance na získání hodnoty horečky. \n 
+				\n Výchozí: 1.0</text>
+</string>
+
+<string id="ui_mcm_cold_system_medicine">
+	<text>Léky</text>
+</string>
+<string id="ui_mcm_cold_system_medicine_desc">
+	<text>Násobič snížení horečky pomocí léků. \n 
+				\n Výchozí: 1.0</text>
+</string>
+
+<string id="ui_mcm_cold_system_sleep">
+	<text>Spánek</text>
+</string>
+<string id="ui_mcm_cold_system_sleep_desc">
+	<text>Násobič toho, o kolik se sníží chlad během spánku, závisí na počtu hodin. „0“ faktor vypne. \n 
+				\n Výchozí: 1.0</text>
+</string>
+
+<string id="ui_mcm_cold_system_food_cooling">
+	<text>Rychlost chladnutí jídla</text>
+</string>
+<string id="ui_mcm_cold_system_food_cooling_desc">
+	<text>Násobič rychlosti, jak rychle jídlo chladne po uvaření, vyšší hodnota = rychlejší chladnutí. \n 
+				\n Výchozí: 1.0</text>
+</string>
+
+<string id="ui_mcm_cold_system_consumables">
+	<text>Spotřební předměty</text>
+</string>
+<string id="ui_mcm_cold_system_consumables_desc">
+	<text>Násobič toho, o kolik se snižuje chlad pomocí spotřebních předmětů (jídlo, alkohol). „0“ faktor vypne. \n 
+				\n Výchozí: 1.0</text>
+</string>
+
+<string id="ui_mcm_cold_system_ppe">
+	<text>Obrazový efekt</text>
+</string>
+<string id="ui_mcm_cold_system_ppe_desc">
+	<text>Povolí/zakáže zesvětlování obrazovky podle úrovně chladu.</text>
+</string>
+
+<string id="ui_mcm_cold_system_debugx">
+	<text>Debug</text>
+</string>
+<string id="ui_mcm_cold_system_debugx_desc">
+	<text>Zobrazuje různé informace pro ladění.</text>
+</string>
+
+
+</string_table>

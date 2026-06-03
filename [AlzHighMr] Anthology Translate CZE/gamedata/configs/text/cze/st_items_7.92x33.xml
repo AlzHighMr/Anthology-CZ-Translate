@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Ammunition
+-->
+
+<string_table>
+	<!-- descriptors -->
+	
+	<string id="st_ammo_7.92x33_fmj">
+	<text>8x33 FNM FMJ BT</text>
+</string>
+<string id="st_ammo_7.92x33_fmj_descr">
+	<text>8mm (7.92x33 Kurz) náboj s 8gramovou plášťovanou střelou typu FMJ s boat-tail tvarem, olověným jádrem a měděným pláštěm v mosazné nábojnici, vyráběný společností Fabrica Nacional de Municoes de Armas Ligeiras. Jde o moderní úpravu náboje Mauser Kurz, která nabízí výrazně vyšší přesnost než standardní Wehrmacht munice. Dokáže prorazit základní balistickou ochranu, ale má také střední šanci odrazu od povrchů.</text>
+</string>
+<string id="st_ammo_7.92x33_fmj_s">
+	<text>8x33 FNM FMJ BT</text>
+</string>
+
+<string id="st_ammo_7.92x33_p43me">
+	<text>7.92x33 Kurzpatrone 43 m.E.</text>
+</string>
+<string id="st_ammo_7.92x33_p43me_descr">
+	<text>Náboj 7.92x33mm Kurzpatrone 43 mit Eisenkern (krátký náboj 1943 s železným jádrem) s 8,1gramovou střelou se železným jádrem, olověnou strukturou a bimetalickým pláštěm ve ocelové nábojnici. 7.9 Kurz byl první sériově vyráběný mezilehlý náboj na světě, vznikl zkrácením standardní 7.92x57mm Mauser patrony. Byl vyvinut speciálně pro pušky Mkb 42 a StG 44 a navzdory omezenému nasazení dosáhl velkého úspěchu. Dokáže prorazit základní balistickou ochranu a část střední úrovně, má však vysokou pravděpodobnost odrazu od různých povrchů.</text>
+</string>
+<string id="st_ammo_7.92x33_p43me_s">
+	<text>7.92x33 Kurzpatrone 43 m.E.</text>
+</string>
+
+<string id="st_ammo_7.92x33_sp">
+	<text>7.92x33 SP</text>
+</string>
+<string id="st_ammo_7.92x33_sp_descr">
+	<text>Moderní civilní úprava munice 7.9 Kurz. 7.92x33mm SP byla navržena jako expanzní střela určená pro lov a sportovní střelbu. Obsahuje měkkou špičku v mosazné nábojnici. Způsobuje výrazně vyšší poškození než standardní 7.9x33, ale její balistické vlastnosti jsou výrazně horší.</text>
+</string>
+<string id="st_ammo_7.92x33_sp_s">
+	<text>7.92x33 SP</text>
+</string>
+
+<string id="st_ammo_7.92x33_p43mh">
+	<text>7.92x33 Kurzpatrone 43 m.H.</text>
+</string>
+<string id="st_ammo_7.92x33_p43mh_descr">
+	<text>Náboj 7.92x33mm Kurzpatrone 43 mit Hartkern (krátký náboj 1943 s tvrdým jádrem) s 8gramovou střelou s wolframovým jádrem, olověnou strukturou a bimetalickým pláštěm v ocelové nábojnici. Průbojná varianta 7.9 Kurz, vyráběná ve velmi omezeném množství pro německé útočné jednotky během posledních let 2. světové války. Dokáže prorazit základní i střední balistickou ochranu a má vysoký zastavovací účinek, ale zároveň vysokou pravděpodobnost odrazu od povrchů.</text>
+</string>
+<string id="st_ammo_7.92x33_p43mh_s">
+	<text>7.92x33 Kurzpatrone 43 m.H.</text>
+</string>
+
+<string id="st_mag_stg44_7.925x33">
+	<text>Zásobník StG44 (7.92x33K)</text>
+</string>
+<string id="st_mag_stg44_7.925x33_descr">
+	<text>Zásobník pro StG44 v ráži 7.92x33 Kurzpatrone má kapacitu 30 nábojů.</text>
+</string>
+
+</string_table>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+
+
+<string_table>
+	<string id="st_wpn_lewd_stg44">
+	<text>Sturmgewehr 44 (StG 44)</text>
+</string>
+
+<string id="st_wpn_lewd_stg44_descr">
+	<text>StG 44 (zkratka z Sturmgewehr 44, „útočná puška 44“) je německá útočná puška vyvinutá během druhé světové války Hugem Schmeisserem. Je také známá pod svými dřívějšími označeními MP 43 a MP 44 (Maschinenpistole 43 a 44). StG 44 byla vylepšením dřívější konstrukce Maschinenkarabiner 42(H).\n \n
+StG 44 byla první úspěšná útočná puška s prvky jako mezilehlý náboj 7,92×33 mm Kurz, kontrolovatelná automatická palba, kompaktnější konstrukce než klasické pušky a vyšší kadence. Zbraně té doby byly navrženy pro zásahy na vzdálenost přes 1000 metrů, ale ukázalo se, že většina bojových střetů probíhá na mnohem kratší vzdálenost.\n \n
+StG 44 plnila svou roli efektivně, zejména na východní frontě, kde nabízela výrazně vyšší palebnou sílu oproti standardním pěchotním puškám. Výrazně ovlivnila sovětský AK-47, který byl zaveden dva roky po válce. Její vliv je patrný i v moderních útočných puškách, které se po druhé světové válce staly standardem pěchotních zbraní.\n \n
+%c[ui_gray_2]PŘÍSLUŠENSTVÍ:\n
+%c[d_purple] • %c[ui_gray_2] Optika: Hensdolt & Soehne x4 (ZF39)\n
+%c[d_purple] • %c[ui_gray_2] Tlumič: L26\n</text>
+</string>
+
+<string id="st_addon_scope_lewd_zf39">
+	<text>Hensoldt & Soehne x4 (ZF39)</text>
+</string>
+
+<string id="st_addon_scope_lewd_zf39_descr">
+	<text>V roce 1939 zahájilo vrchní velení Wehrmachtu odstřelovací program. Výsledkem byl montážní systém Zf.39, který se původně používal hlavně na Kar98k, ale později umožnil montáž optiky i na další zbraně, včetně StG44.\n
+Firma Hensoldt & Soehne vyráběla tuto 4× optiku, další výrobci byli Zeiss, Kahles, Ajack a Schneider. Záměrný obrazec je klasický německý „post“ s centrálním sloupkem a horizontálními pomocnými čárami.</text>
+</string>
+
+<string id="st_addon_lewd_l26">
+	<text>Tlumič L26</text>
+</string>
+
+<string id="st_addon_lewd_l26_descr">
+	<text>Patentovaný v Německu jako systém Schäztle, L26 byl odklonem od ruských „wipe“ tlumičů. Používal šest identických kuželových kovových přepážek uvnitř jednoduché trubky. Připevňoval se pomocí objímky na přední mířidlo, podobně jako granátomet pro K98k.\n\n
+Základní konstrukce byla použita pro více variant; téměř veškeré zbraně Wehrmachtu ráže 8 mm (kromě protitankových pušek). Existovala i verze pro MG42 a přibližně 200 kusů bylo skutečně nasazeno s MG42 v poli.</text>
+</string>
+
+</string_table>

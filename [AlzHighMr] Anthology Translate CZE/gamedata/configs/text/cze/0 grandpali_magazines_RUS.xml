@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+<string id="st_mag_m24_300">
+    <text>.300 Winchester Magnum zásobník</text>
+</string>
+<string id="st_mag_m24_300_descr">
+    <text>
+Vyjímatelný 10ranný zásobník určený pro vysoce přesnou odstřelovací pušku M24 upravenou na výkonný náboj .300 Winchester Magnum. Zajišťuje spolehlivé podávání munice při střelbě na dlouhé vzdálenosti. Díky zvýšené úsťové rychlosti a vysoké průraznosti se používá zkušenými střelci k likvidaci pancéřovaných cílů a velkých mutantů.\nVzácná a cenná součást nacházená u elitních bojovníků a v tajných skrýších.
+    </text>
+</string>
+
+<string id="st_mag_m24_308">
+    <text>.308 Winchester (7.62x51 mm NATO) zásobník</text>
+</string>
+<string id="st_mag_m24_308_descr">
+    <text>
+Vyjímatelný 10ranný zásobník určený pro odstřelovací pušku M24 s opakovacím mechanismem upravenou na náboje .308 Winchester (7.62x51 mm NATO). Zajišťuje stabilní podávání a spolehlivé uzamčení zbraně. Používán lovci, žoldáky a profesionálními střelci v Zóně.\nKompatibilní s různými typy munice .308, včetně průbojné a expanzní.
+    </text>
+</string>
+
+<string id="st_mag_m82_50_bmg">
+    <text>M82 .50 BMG (12.7x99 mm NATO) zásobník</text>
+</string>
+<string id="st_mag_m82_50_bmg_descr">
+    <text>
+Vyjímatelný 10ranný zásobník pro poloautomatickou velkorážní odstřelovací pušku Barrett M82 ráže .50 BMG (12.7x99 mm). Používán k likvidaci silně pancéřovaných cílů, vozidel a vysoce nebezpečných mutantů. Vyznačuje se velmi spolehlivým podáváním i v extrémních podmínkách.\nKvůli své velikosti a hmotnosti vyžaduje zkušenou manipulaci. Extrémně vzácný trofejní předmět v Zóně, obvykle u elitních žoldáků a bezpečnostních složek.
+    </text>
+</string>
+
+<string id="st_mag_vityaz_9x21_sn">
+    <text>Zásobník Vityaz (9x21 SP)</text>
+</string>
+<string id="st_mag_vityaz_9x21_sn_descr">
+    <text>
+Vyjímatelný 30ranný zásobník pro samopal PP-19-01 „Vityaz“, určený pro munici 9x21 mm SP — speciální náboje se zvýšenou průrazností. Zajišťuje spolehlivé podávání i při intenzivní střelbě. Používán speciálními jednotkami a bezpečnostními složkami v situacích vyžadujících vysokou kadenci palby a průraznost pancíře.\nVzácnost munice z něj dělá cennou volbu pro zkušené stalkery, kteří preferují kompaktní, ale silné zbraně pro boj na krátkou vzdálenost.
+    </text>
+</string>
+
+<string id="st_mag_bizon_357_p">
+    <text>Zásobník Bizon .357</text>
+</string>
+
+<string id="st_mag_bizon_357_p_descr">
+    <text>
+42ranný odnímatelný zásobník určený pro upravené verze samopalu PP-19 „Bizon“ v ráži .357.\nDíky šnekovému podávání nabízí vysokou kapacitu munice v kompaktním provedení a zajišťuje stabilní podávání i při dlouhé dávkové střelbě.\nPoužíván zkušenými stalkery a bojovníky pro boj na krátkou vzdálenost, kteří spoléhají na rychlé, přesné dávky a vysoký zastavovací účinek.\nVzácná alternativní konfigurace ceněná pro svou spolehlivost a zvýšenou smrtící účinnost na krátkou až střední vzdálenost.
+    </text>
+</string>
+
+<string id="st_mag_300_Blk_default">
+    <text>Standardní zásobník .300 Blackout</text>
+</string>
+
+<string id="st_mag_300_Blk_default_descr">
+    <text>
+Standardní 30ranný zásobník určený pro zbraně v ráži 7.62x35 (.300 Blackout).\nPoskytuje spolehlivé podávání, stabilní výkon a nízkou hmotnost, což jej činí vhodným pro všestranné bojové role v Zóně.\nVyvážená kapacita a odolnost z něj dělají běžnou volbu stalkerů, žoldáků a hlídek.\nŠiroce dostupný a kompatibilní s většinou moderních platforem upravených pro tuto munici.
+    </text>
+</string>
+
+<string id="st_mag_300_Blk_extended">
+    <text>Prodloužený zásobník .300 Blackout</text>
+</string>
+
+<string id="st_mag_300_Blk_extended_descr">
+    <text>
+Prodloužený 40ranný zásobník pro zbraně v ráži 7.62x35 (.300 Blackout).\nNabízí zvýšenou kapacitu munice při zachování spolehlivého podávání, což jej činí ideálním pro dlouhé přestřelky, potlačovací palbu a vysoce intenzivní boj.\nOblíbený u útočných jednotek a zkušených stalkerů, kteří potřebují více palebné síly bez častého přebíjení.\nTěžší než standardní varianta, ale vysoce ceněný pro zvýšenou bojovou výdrž.
+    </text>
+</string>
+
+		
+	</string_table>
+
+
+
+
+
+
+
+
+
+

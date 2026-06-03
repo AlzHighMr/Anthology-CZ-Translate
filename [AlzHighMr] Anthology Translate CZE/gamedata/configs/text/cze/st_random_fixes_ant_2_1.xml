@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+<!-- ===================================== -->
+<!--    Faction names                     -->
+<!-- ===================================== -->
+<string id="atribute">
+	<text>Atribut</text>
+</string>
+
+<string id="milstalk">
+	<text>Militarní Stalker</text>
+</string>
+
+
+
+<!-- ===================================== -->
+<!--    Misc                               -->
+<!-- ===================================== -->
+<string id="ui_mcm_menu_companions_dont_die">
+	<text>Společníci neumírají</text>
+</string>
+
+<string id="ui_mcm_menu_companions_dont_die_immortal_companions">
+	<text>Povoleno</text>
+</string>
+
+<string id="drx_sl_start_msg_isg">
+	<text>Je k dispozici nový úkol od velení ISG. Detaily jsou utajené, ale cíle jsou kriticky důležité. Hlaste se na velitelství ISG pro kompletní briefing.</text>
+</string>
+
+<string id="drx_sl_start_msg_renegade">
+	<text>Poslouchej — Zóna se o tebe nestará, ale já ano. Jestli se tu chceš potloukat, budeš poslouchat mě. Dostaň se sem a řeknu ti, co máš dělat.</text>
+</string>
+
+<!-- ===================================== -->
+<!--    QUESTS                             -->
+<!-- ===================================== -->
+<!-- ===================== -->
+<!--   DUTY — DEFEND AREA  -->
+<!-- ===================== -->
+<string id="sim_default_dolg_trader_task_1_name">
+    <text>Obrana území Povinnosti</text>
+</string>
+
+<string id="sim_default_dolg_trader_task_1_text">
+    <text>Povinnost hlásí nepřátelskou aktivitu poblíž jednoho z jejich opěrných bodů. Vyraz tam, zlikviduj nepřátelské síly a zajisti pozici dřív, než padne.</text>
+</string>
+
+<string id="gar_dolg_blokpost_commander_task_1_about">
+    <text>Velitel potřebuje posily na ohrožené pozici. Vydej se na označené místo a pomoz bojovníkům Povinnosti udržet linii.</text>
+</string>
+
+<string id="sim_default_dolg_trader_task_1_finish">
+    <text>Podařilo se ti ubránit oblast a pomohl jsi Povinnosti udržet kontrolu. Velitel oceňuje tvé nasazení.</text>
+</string>
+
+<!-- ===================== -->
+<!--   DUTY — CAPTURE AREA -->
+<!-- ===================== -->
+<string id="sim_default_dolg_trader_task_2_name">
+    <text>Obsazení území pro Povinnost</text>
+</string>
+
+<string id="sim_default_dolg_trader_task_2_text">
+    <text>Povinnost identifikovala důležitý strategický bod obsazený nepřátelskými silami. Tvým úkolem je zaútočit na oblast a zajistit ji pro Povinnost.</text>
+</string>
+
+<string id="gar_dolg_blokpost_commander_task_2_about">
+    <text>Nepřátelské síly okupují území, které právem patří Povinnosti. Probij se dovnitř, zlikviduj odpor a zajisti lokalitu.</text>
+</string>
+
+<string id="sim_default_dolg_trader_task_2_finish">
+    <text>Oblast byla vyčištěna, což umožnilo silám Povinnosti postoupit a převzít kontrolu. Dobrá práce.</text>
+</string>
+
+<!-- ===================== -->
+<!--   DUTY — ASSASSINATION -->
+<!-- ===================== -->
+<string id="sim_default_dolg_trader_task_3_name">
+    <text>Eliminace prioritního cíle</text>
+</string>
+
+<string id="sim_default_dolg_trader_task_3_text">
+    <text>Povinnost označila vysoce nebezpečný cíl k likvidaci. Najdi ho a zlikviduj dřív, než způsobí další škody.</text>
+</string>
+
+<string id="gar_dolg_blokpost_commander_task_3_about">
+    <text>Byla objevena nebezpečná osoba. Úkol vyžaduje rychlost a přesnost. Vystopuj cíl a eliminuj ho.</text>
+</string>
+
+<string id="sim_default_dolg_trader_task_3_finish">
+    <text>Nepřátelský cíl byl neutralizován. Povinnost oceňuje tvou efektivitu.</text>
+</string>
+
+<!-- =============================== -->
+<!--   LONERS — TOOLKIT LEVEL 1     -->
+<!-- =============================== -->
+<string id="sim_default_stalker_mechanic_task_1_name">
+    <text>Najdi základní sadu nářadí</text>
+</string>
+
+<string id="sim_default_stalker_mechanic_task_1_text">
+    <text>Mechanik potřebuje základní sadu nářadí, aby mohl pokračovat v běžných opravách. Prohledej Zónu a přines jednu zpět.</text>
+</string>
+
+<string id="sim_default_stalker_mechanic_task_1_about">
+    <text>Dělám tu se značně opotřebovaným nářadím. Přines mi základní sadu, ať můžu zase normálně opravovat.</text>
+</string>
+
+<string id="sim_default_stalker_mechanic_task_1_fetch_about">
+    <text>Přines mechanikovi základní sadu nářadí.</text>
+</string>
+
+<string id="sim_default_stalker_mechanic_task_1_fetch_finish">
+    <text>Perfektní. Tohle mi hodně pomůže — díky.</text>
+</string>
+
+<!-- =============================== -->
+<!--   LONERS — TOOLKIT LEVEL 2     -->
+<!-- =============================== -->
+<string id="sim_default_stalker_mechanic_task_2_name">
+    <text>Najdi pokročilou sadu nářadí</text>
+</string>
+
+<string id="sim_default_stalker_mechanic_task_2_text">
+    <text>Pro vylepšení své dílny mechanik potřebuje pokročilou sadu nářadí.</text>
+</string>
+
+<string id="sim_default_stalker_mechanic_task_2_about">
+    <text>S pokročilou sadou nářadí budu schopný pracovat na složitějších vylepšeních. Přines ji, pokud ji někde najdeš.</text>
+</string>
+
+<string id="sim_default_stalker_mechanic_task_2_fetch_about">
+    <text>Přines mechanikovi pokročilou sadu nářadí.</text>
+</string>
+
+<string id="sim_default_stalker_mechanic_task_2_fetch_finish">
+    <text>Skvělé — teď můžu začít dělat vážnější upgrady.</text>
+</string>
+
+<!-- =============================== -->
+<!--   LONERS — TOOLKIT LEVEL 3     -->
+<!-- =============================== -->
+<string id="sim_default_stalker_mechanic_task_3_name">
+    <text>Najdi expertní sadu nářadí</text>
+</string>
+
+<string id="sim_default_stalker_mechanic_task_3_text">
+    <text>Pro špičkové úpravy zbraní a výstroje mechanik potřebuje expertní sadu nářadí.</text>
+</string>
+
+<string id="sim_default_stalker_mechanic_task_3_about">
+    <text>Pokud se ti podaří sehnat expertní sadu nářadí, budu schopný dělat špičkové modifikace.</text>
+</string>
+
+<string id="sim_default_stalker_mechanic_task_3_fetch_about">
+    <text>Přines mechanikovi expertní sadu nářadí.</text>
+</string>
+
+<string id="sim_default_stalker_mechanic_task_3_fetch_finish">
+    <text>Výborně — s tímhle můžu konečně pracovat na plný výkon.</text>
+</string>
+
+</string_table>

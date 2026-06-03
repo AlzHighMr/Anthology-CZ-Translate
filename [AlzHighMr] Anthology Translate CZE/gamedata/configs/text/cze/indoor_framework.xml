@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	<string id="ui_mcm_menu_indoor_framework">
+		<text>Indoor Framework</text>
+	</string>
+	<string id="ui_mcm_indoor_framework_enable">
+	<text>Povolit</text>
+</string>
+<string id="ui_mcm_indoor_framework_tick_interval">
+	<text>Interval tikání (v ms)</text>
+</string>
+<string id="ui_mcm_indoor_framework_npc_tick_interval">
+	<text>Interval tikání NPC (v ms)</text>
+</string>
+<string id="ui_mcm_indoor_framework_volume">
+	<text>Hlasitost</text>
+</string>
+<string id="ui_mcm_indoor_framework_ray_bounce_count">
+	<text>Počet odrazů paprsku</text>
+</string>
+<string id="ui_mcm_indoor_framework_npc_ray_bounce_count">
+	<text>Počet odrazů paprsku NPC</text>
+</string>
+<string id="ui_mcm_indoor_framework_ray_lenght_mult">
+	<text>Násobek délky paprsku</text>
+</string>
+<string id="ui_mcm_indoor_framework_dbug">
+	<text>Debug režim</text>
+</string>
+<string id="ui_mcm_indoor_framework_ray_dbug">
+	<text>Debug režim paprsků</text>
+</string>
+<string id="ui_mcm_indoor_framework_show_replaced_sound">
+	<text>Zobrazit nahrazený zvuk</text>
+</string>
+<string id="ui_mcm_indoor_framework_new_threshold">
+	<text>Práh</text>
+</string>
+<string id="ui_mcm_indoor_framework_new_threshold_desc">
+	<text>Pokud je indoor skóre (počet zásahů paprsku) nad tímto prahem, přehraje se indoor zvuk</text>
+</string>
+<string id="ui_mcm_indoor_framework_max_threshold">
+	<text>Maximální práh</text>
+</string>
+<string id="ui_mcm_indoor_framework_max_threshold_desc">
+	<text>Když je indoor skóre nad prahem, ale stále není dost vysoké, nastává přechodová fáze (míchání venkovního a vnitřního zvuku). Toto určuje část, kdy se přehrává plný venkovní zvuk. 0 = vyžaduje zásah všech paprsků, 1 = žádná přechodová fáze</text>
+</string>
+<string id="ui_mcm_indoor_framework_ray_drop_off_lenght">
+	<text>Délka útlumu hlasitosti</text>
+</string>
+<string id="ui_mcm_indoor_framework_ray_drop_off_lenght_desc">
+	<text>Když průměrná délka všech paprsků překročí tuto hodnotu, hlasitost začne klesat</text>
+</string>
+<string id="ui_mcm_indoor_framework_tail_volume">
+	<text>Hlasitost dozvuku</text>
+</string>
+<string id="ui_mcm_indoor_framework_tail_volume_desc">
+	<text>Hlasitost pro vlastní dozvukové zvuky ve velkých vnitřních prostorách</text>
+</string>
+<string id="ui_mcm_indoor_framework_tail_threshold">
+	<text>Práh dozvuku</text>
+</string>
+<string id="ui_mcm_indoor_framework_tail_threshold_desc">
+	<text>Množství skóre potřebné k aktivaci vnitřního dozvuku</text>
+</string>
+<string id="ui_mcm_indoor_framework_tail_length">
+	<text>Délka dozvuku</text>
+</string>
+<string id="ui_mcm_indoor_framework_tail_length_desc">
+	<text>Průměrná délka potřebná k přehrání dozvuku na maximální hlasitost, před/po tomto bodě se hlasitost postupně zvyšuje a snižuje</text>
+</string>
+<string id="ui_mcm_indoor_framework_bak_tail">
+	<text>Povolit záložní dozvuky</text>
+</string>
+<string id="ui_mcm_indoor_framework_bak_tail_desc">
+	<text>Přehrát dozvuk, pokud pro tuto zbraň není nakonfigurován žádný (doporučeno)</text>
+</string>
+<string id="ui_mcm_indoor_framework_tail_enable_for_non">
+	<text>Povolit dozvuky pro zbraně bez indoor zvuků</text>
+</string>
+<string id="ui_mcm_indoor_framework_desc_ray">
+	<text>Nastavení paprsků</text>
+</string>
+<string id="ui_mcm_indoor_framework_desc_threshold">
+	<text>Nastavení prahů</text>
+</string>
+<string id="ui_mcm_indoor_framework_desc_tail">
+	<text>Nastavení dozvuků</text>
+</string>
+<string id="ui_mcm_indoor_framework_desc_dbug">
+	<text>Dev věci</text>
+</string>
+</string_table>

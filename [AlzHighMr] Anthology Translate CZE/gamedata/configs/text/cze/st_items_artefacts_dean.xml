@@ -1,0 +1,2033 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Artefacts (active)
+-->
+
+<string_table>
+
+	<string id="st_af_prujina_name">
+	<text>"Pružina"</text>
+</string>
+<string id="st_af_prujina_descr">
+	<text>%c[255,128,255,128,128]Vzácný, unikátní artefakt. Zvyšuje odolnost vůči tepelným anomáliím a podporuje hojení ran. Radioaktivní, plné vlastnosti zatím nebyly prozkoumány. Vzniká v tepelných anomáliích.</text>
+</string>
+
+<string id="st_af_itching1_name">
+	<text>"Křišťálové Svědění"</text>
+</string>
+<string id="st_af_itching1_descr">
+	<text>%c[255,128,255,128]Vzácný artefakt. Zvyšuje tělesný tonus, ale je radioaktivní.</text>
+</string>
+
+<string id="st_af_slizen_name">
+	<text>"Slimák"</text>
+</string>
+<string id="st_af_slizen_descr">
+	<text>%c[255,128,255,255,128]Vzácný, unikátní a velmi cenný artefakt. Zvyšuje odolnost vůči chemickým anomáliím a odstraňuje z těla radioaktivní izotopy. Vzniká v chemických anomáliích.</text>
+</string>
+
+<string id="st_af_crystal_ice_descr">
+	<text>%c[255,128,255,255,128]Navenek artefakt připomíná „Kolobok“; všeobecně se věří, že jde o křížence Koloboku a Flash artefaktu. Dokáže výrazně zvýšit svalový tonus nositele. Radioaktivní.</text>
+</string>
+<string id="st_af_crystal_ice_name">
+	<text>"Křišťálový Flash"</text>
+</string>
+
+<string id="st_af_crystal_blood_descr">
+	<text>%c[255,128,255,128]Načervenalý útvar ze zhutněných a zkamenělých rostlinných, půdních a živočišných zbytků. Má schopnost částečně neutralizovat chemikálie škodlivé pro člověka. Radioaktivní.</text>
+</string>
+<string id="st_af_crystal_blood_name">
+	<text>"Křišťálová Kamenná Krev"</text>
+</string>
+
+<string id="st_af_crystal_glassbeads_descr">
+	<text>%c[255,128,255,255,128]Mnoho o tomto artefaktu zůstává záhadou. Bylo však spolehlivě potvrzeno, že radiace vznikající pulzací ztluštěnin Křišťálových Korálků způsobuje velmi rychlé srážení krve v otevřených ranách. Radioaktivní.</text>
+</string>
+<string id="st_af_crystal_glassbeads_name">
+	<text>"Křišťálové Korálky"</text>
+</string>
+
+<string id="st_af_crystal_vyvert_descr">
+	<text>%c[255,128,255,255,128]Bizarně tvarovaný artefakt vznikající v oblastech zvýšené gravitační aktivity. Funguje jako druh houby absorbující radioaktivní prvky. Úspěšně chrání nositele jak před indukovanou radiací, tak před radioaktivními částicemi, které již pronikly do těla.</text>
+</string>
+<string id="st_af_crystal_vyvert_name">
+	<text>"Křišťálový Vyvert"</text>
+</string>
+
+<string id="st_af_crystal_gravi_descr">
+	<text>%c[255,128,255,255,128]Artefakt vznikající dlouhodobým působením gravitace na látky obsahující kov. Dokáže kolem sebe udržovat malé antigravitační pole. Mnoho stalkerů jej používá ke znatelnému snížení hmotnosti batohu. Radioaktivní.</text>
+</string>
+<string id="st_af_crystal_gravi_name">
+	<text>"Křišťálový Gravi"</text>
+</string>
+
+<string id="st_af_ledenec_descr">
+	<text>%c[255,128,255,255,128]Artefakt připomínající kámen podobný žule. Vzniká v gravitačních polích obrovské intenzity. Dokáže zcela nebo částečně chránit mysl nositele před psi účinky. Radioaktivní.</text>
+</string>
+<string id="st_af_ledenec_name">
+	<text>"Lízátko"</text>
+</string>
+
+<string id="st_af_dark_soul_descr">
+	<text>%c[255,128,255,128]Málo prozkoumaný artefakt. Výrazně zvyšuje výdrž využíváním vnitřních rezerv těla, ale kvůli silné radioaktivitě není příliš žádaný.</text>
+</string>
+<string id="st_af_dark_soul_name">
+	<text>"Temná Duše"</text>
+</string>
+
+<string id="st_af_ameba_descr">
+	<text>%c[255,128,255,128]Vzniká v chemických anomáliích. Bylo pozorováno, že zvyšuje imunitu organismu a chrání před toxickými účinky, ale je radioaktivní.</text>
+</string>
+<string id="st_af_ameba_name">
+	<text>"Améba"</text>
+</string>
+
+<string id="st_af_atom_descr">
+	<text>%c[255,128,255,128]Nový artefakt. Zvyšuje odolnost vůči ohni. Radioaktivní.</text>
+</string>
+
+<string id="st_af_busic_name">
+	<text>"Dceřiny Korálky"</text>
+</string>
+
+<string id="st_af_magnito_descr">
+	<text>%c[255,128,255,128]Nový artefakt. Nachází se v tepelných anomáliích. Bylo zaznamenáno, že zvyšuje odolnost vůči ohni a urychluje hojení ran. Radioaktivní.</text>
+</string>
+<string id="st_af_magnito_name">
+	<text>"Magneto"</text>
+</string>
+
+<string id="st_af_mahovik_descr">
+	<text>%c[255,128,255,128]Nový artefakt. Nejčastěji vzniká v gravitačních anomáliích. Bylo zaznamenáno, že usnadňuje nošení těžkých nákladů. Radioaktivní.</text>
+</string>
+<string id="st_af_mahovik_name">
+	<text>"Setrvačník"</text>
+</string>
+
+<string id="st_af_propeller_descr">
+	<text>%c[255,128,255,128]Nový artefakt. Jeho vlastnosti zatím nebyly plně prozkoumány, ale mezi stalkery je ceněný díky schopnosti výrazně zvýšit nosnost. Radioaktivní.</text>
+</string>
+<string id="st_af_propeller_name">
+	<text>"Vrtule"</text>
+</string>
+
+<string id="st_af_volchok_descr">
+	<text>%c[255,128,255,255,128]Artefakt gravitační struktury, poměrně vzácný. Při nošení na opasku zvyšuje nosnost. Radioaktivní.</text>
+</string>
+<string id="st_af_volchok_name">
+	<text>"Volchok"</text>
+</string>
+
+<string id="st_af_diablo_descr">
+	<text>%c[255,128,255,128]Nový artefakt. Má tvar černého srdce, podle čehož získal své jméno. Zvyšuje odolnost organismu vůči psi vlivům. Radioaktivní.</text>
+</string>
+<string id="st_af_diablo_name">
+	<text>"Srdce Ďábla"</text>
+</string>
+
+<string id="st_af_glas_diablo_descr">
+	<text>%c[255,128,255,128]Vzácný artefakt. Jeho vlastnosti nebyly prozkoumány. Radioaktivní.</text>
+</string>
+<string id="st_af_glas_diablo_name">
+	<text>"Ďáblovo Oko"</text>
+</string>
+
+<string id="st_af_crystal_generator_descr">
+	<text>%c[255,128,255,255,128]Artefakt elektrické struktury. Vytváří kolem sebe pole schopné rozptylovat elektrickou energii. Radioaktivní.</text>
+</string>
+<string id="st_af_crystal_generator_name">
+	<text>"Generátor"</text>
+</string>
+
+<string id="st_af_angel_descr">
+	<text>%c[255,128,255,128]Generátor je kus hmoty připomínající kruhové tvary. Pomáhá zvyšovat tělesný tonus. Radioaktivní.</text>
+</string>
+<string id="st_af_angel_name">
+	<text>"Anděl"</text>
+</string>
+
+<string id="st_af_microb_descr">
+	<text>%c[255,128,255,255,128]Poměrně vzácný artefakt. Jeho vlastnosti nejsou plně pochopeny, ale bylo zaznamenáno, že podporuje hojení ran a částečně odstraňuje radiaci.</text>
+</string>
+<string id="st_af_microb_name">
+	<text>"Mikrob"</text>
+</string>
+
+<string id="st_af_karusel_descr">
+	<text>%c[255,128,255,128]Všechny vlastnosti zůstávají neprozkoumané. Je známo, že urychluje hojení ran a chrání organismus před účinky toxinů. Radioaktivní.</text>
+</string>
+<string id="st_af_karusel_name">
+	<text>"Kolotoč"</text>
+</string>
+
+<string id="st_af_padshi_angel_descr">
+	<text>%c[255,128,255,255,128]Poměrně vzácný artefakt, urychluje hojení ran. Radioaktivní.</text>
+</string>
+<string id="st_af_padshi_angel_name">
+	<text>"Mlž"</text>
+</string>
+
+<string id="st_af_gauss_name">
+	<text>"Gauss"</text>
+</string>
+<string id="st_af_gauss_descr">
+	<text>%c[255,128,255,255,128]Velmi vzácný artefakt. Výrazně zvyšuje odolnost vůči elektrickému poškození. Radioaktivní.</text>
+</string>
+
+<string id="st_af_clear_sky_name">
+	<text>"Čisté Nebe"</text>
+</string>
+<string id="st_af_clear_sky_descr">
+	<text>%c[255,128,255,255,128]Pravděpodobně existuje pouze v jediném exempláři, druhý název je Srdce Monolitu. Poskytuje imunitu vůči téměř všem negativním účinkům Zóny.</text>
+</string>
+
+<string id="st_af_joker_name">
+	<text>"Joker"</text>
+</string>
+<string id="st_af_joker_descr">
+	<text>%c[255,128,255,255,128]Velmi vzácný artefakt. Věřilo se, že byl vytvořen vědci v některé z laboratoří křížením několika artefaktů. Tyto zvěsti však nikdy nebyly potvrzeny.</text>
+</string>
+
+<string id="st_af_plasma_name">
+	<text>"Plazma"</text>
+</string>
+<string id="st_af_plasma_descr">
+	<text>%c[255,128,255,255,128]Velmi vzácný artefakt. Zvyšuje celkový tonus organismu a čistí tělo od radiace...</text>
+</string>
+
+<string id="st_af_necklace_name">
+	<text>"Dceřin Náhrdelník"</text>
+</string>
+<string id="st_af_necklace_descr">
+	<text>%c[255,128,255,255,128]Možná existuje pouze v jediném exempláři. Podle pověstí byl vytvořen vědci v některé laboratoři zkřížením artefaktů „Čisté Nebe“ a „Plazma“.</text>
+</string>
+
+<string id="st_af_metamorf_name">
+	<text>"Metamorf"</text>
+</string>
+<string id="st_af_metamorf_descr">
+	<text>%c[255,128,255,128]Vzácný artefakt. Má schopnost potlačovat psi radiaci a odvádět toxiny z těla, ale kvůli vysoké radioaktivitě není příliš žádaný.</text>
+</string>
+
+<string id="st_af_sponge_name">
+	<text>"Houba"</text>
+</string>
+<string id="st_af_sponge_descr">
+	<text>%c[255,128,255,128]Vzácný artefakt. Jeho vlastnosti jsou špatně prozkoumány. Bylo zaznamenáno, že částečně odstraňuje radionuklidy z těla.</text>
+</string>
+
+<string id="st_af_itching_low_name">
+	<text>"Křišťálová Houba"</text>
+</string>
+<string id="st_af_itching_low_descr">
+	<text>%c[255,128,255,128]Vzácný artefakt. Jeho vlastnosti jsou téměř neprozkoumané. Radioaktivní.</text>
+</string>
+	<string id="st_af_midi_name">
+	<text>"Šnek"</text>
+</string>
+<string id="st_af_midi_descr">
+	<text>%c[255,128,255,128]Vzácný artefakt. Zvyšuje odolnost vůči ohni a detoxikuje organismus. Radioaktivní.</text>
+</string>
+
+<string id="st_af_klaksa_name">
+	<text>"Klaksa"</text>
+</string>
+<string id="st_af_klaksa_descr">
+	<text>%c[255,128,255,255,128]Vzniká pouze v anomálii Klaksa, podle které získal své jméno. Vlastnosti nejsou prozkoumány. Radioaktivní.</text>
+</string>
+
+<string id="st_af_sea_urchin_name">
+	<text>"Mořský ježek"</text>
+</string>
+<string id="st_af_sea_urchin_descr">
+	<text>%c[255,128,255,128]Vzácný artefakt. Obnovuje sílu a poskytuje výraznou odolnost vůči psi efektům, ale je radioaktivní.</text>
+</string>
+
+<string id="st_af_crystal_oko_name">
+	<text>"Vševědoucí oko"</text>
+</string>
+<string id="st_af_crystal_oko_descr">
+	<text>%c[255,128,255,128]Tento velmi vzácný artefakt připomíná oko, podle čehož získal své jméno. Při zranění urychluje metabolické procesy, což podporuje rychlé hojení ran. Radioaktivní.</text>
+</string>
+
+<string id="st_af_brain_name">
+	<text>"Mozek"</text>
+</string>
+<string id="st_af_brain_descr">
+	<text>%c[255,128,255,128]Tento velmi vzácný artefakt vypadá i působí jako přesná kopie mozku, podle čehož je pojmenován. Při zranění urychluje metabolické procesy, což napomáhá rychlejšímu hojení ran. Zároveň oslabuje účinky radiace.</text>
+</string>
+
+<string id="st_af_absorbent_name">
+	<text>"Absorbent"</text>
+</string>
+<string id="st_af_absorbent_descr">
+	<text>%c[255,128,255,128]Vzácný artefakt. Vlastnosti nejsou prozkoumány. Může vzniknout v jakékoli anomálii. Radioaktivní.</text>
+</string>
+
+<string id="st_af_pendulum_name">
+	<text>"Kyvadlo"</text>
+</string>
+<string id="st_af_pendulum_descr">
+	<text>%c[255,128,255,128]Vzácný artefakt. Plné vlastnosti nebyly prozkoumány. Vzniká v gravitačních anomáliích. Je známo, že pomáhá odolávat psi efektům.</text>
+</string>
+
+<string id="st_af_swivel_name">
+	<text>"Otočný kloub"</text>
+</string>
+<string id="st_af_swivel_descr">
+	<text>%c[255,128,255,128]Vzácný artefakt. Vlastnosti nejsou prozkoumány. Vzniká v elementárních anomáliích. Radioaktivní.</text>
+</string>
+
+<string id="st_af_morf_name">
+	<text>"Morf"</text>
+</string>
+<string id="st_af_morf_descr">
+	<text>%c[255,128,255,255,128]Neprozkoumaná radioaktivní formace vznikající v chemických strukturálních anomáliích.</text>
+</string>
+
+<string id="st_af_pero_name">
+	<text>"Křišťálové pírko"</text>
+</string>
+<string id="st_af_pero_descr">
+	<text>%c[255,128,255,255,128]Velmi vzácný artefakt, jehož existenci někteří tuláci považují za mýtus. Má slabou radiaci, ale zvyšuje odolnost vůči chemickým anomáliím. Při nošení v batohu výrazně snižuje váhu jeho obsahu.</text>
+</string>
+
+<string id="st_af_vereteno_name">
+	<text>"Vřeteno"</text>
+</string>
+<string id="st_af_vereteno_descr">
+	<text>%c[255,128,255,255,128]Vzácný, unikátní artefakt. Má slabou radiaci, zvyšuje odolnost vůči chemickým anomáliím. Plné vlastnosti nebyly prozkoumány, ale říká se, že podporuje hojení ran.</text>
+</string>
+
+<string id="st_af_bumerang_name">
+	<text>"Bumerang"</text>
+</string>
+<string id="st_af_bumerang_descr">
+	<text>%c[255,128,255,255,128]Vzácný, unikátní artefakt. Má slabou radiaci, zvyšuje odolnost vůči tepelným a elektrickým anomáliím. Vzniká v oblastech kombinujících elektru a žár.</text>
+</string>
+
+<string id="st_af_pulsar_name">
+	<text>"Pulsar"</text>
+</string>
+<string id="st_af_pulsar_descr">
+	<text>%c[255,128,255,255,128]Vzácný, unikátní artefakt, jehož vlastnosti jsou špatně pochopeny. Nejčastěji vzniká v chemických anomáliích. Říká se, že je žádaný mimo Zónu pro schopnost rušit rádiové signály.</text>
+</string>
+
+<string id="st_af_deformer_name">
+	<text>"Deformátor"</text>
+</string>
+<string id="st_af_deformer_descr">
+	<text>%c[255,128,255,255,128]Unikátní artefakt nalezený v jediném exempláři v trhlinách Zatonu. Dodnes není jasné, zda vzniká v místě poruchy zemské kůry, nebo ji sám vytváří. Zvyšuje odolnost vůči všem typům anomálií. Radioaktivní.</text>
+</string>
+
+	<string id="st_af_itcher_name">
+	<text>Svědivka</text>
+</string>  
+<string id="st_af_itcher_descr">
+	<text>
+Formace tepelného původu. Svědivka se skládá ze dvou oddělených vrstev. Povrch tvoří tvrdá, hustá metamorfovaná hornina s hlubokými jizvami pokrývajícími celé tělo. Je zcela neaktivní a nevykazuje žádné zjevné vlastnosti. Naproti tomu měkké žlutě svítící jádro má neznámý organický původ. Aktivně pohlcuje přebytečné teplo a zůstává neustále chladné.
+\nDoporučuje se nepřibližovat se s artefaktem k chemickým a kyselinovým anomáliím, protože zvyšuje nepříznivé účinky kyselin a toxinů v krevním oběhu uživatele.
+\n \nEmise radiace je na nízké úrovni.
+	</text>
+</string> 
+
+<string id="st_af_pin_name">
+	<text>Špendlík</text>
+</string>  
+<string id="st_af_pin_descr">
+	<text>
+Malý artefakt vzniklý v tepelných anomáliích Zóny při extrémních teplotách. Vzhled naznačuje, že šlo o orgán cévnaté rostliny. Další výzkumy ukázaly, že hluboko uvnitř jsou splynuté další organické tkáně.
+\nStonek nemá žádné užitečné vlastnosti. Naopak drobné jehličky snižují tělesnou teplotu nositele a ochlazují objekty v jeho okolí.
+\nArtefakt poskytuje mírnou psi ochranu, protože rezonuje pod vlivem psi vln. Na druhou stranu se nedoporučuje přibližovat k chemickým a kyselinovým anomáliím, protože zvyšuje jejich škodlivý účinek v krevním oběhu.
+\n \nEmise radiace je na průměrné úrovni.
+	</text>
+</string>  
+
+<string id="st_af_cristall_name">
+	<text>Křišťál</text>
+</string>
+<string id="st_af_cristall_descr">
+	<text>
+Tento artefakt vzniká v anomálních zónách s intenzivní tepelnou aktivitou. Aktivně pohlcuje přebytečné teplo a zůstává neustále chladný.
+\nChrání uživatele proti elektrickým výbojům, avšak vystavení těmto podmínkám zvyšuje jeho vodivost neznámým mechanismem. Proto je nutné pečlivě zvážit jeho použití v oblastech s vysokou vodivostí.
+\nArtefakt je velmi ceněný mimo Zónu, protože jeho vnitřní jádro není radioaktivní a po vybroušení je považováno za esteticky výjimečné. Pouze první 1 cm vnější vrstvy vyzařuje radiaci.
+\nJe však třeba opatrnosti při transportu, protože dlouhodobé vystavení i malým dávkám radiace může být smrtelné. Je velmi tvrdý a relativně těžký.
+\n \nEmise radiace je na průměrné úrovni.
+	</text>
+</string>
+
+<string id="st_af_fireball_name">
+	<text>Ohnivá koule</text>
+</string>
+<string id="st_af_fireball_descr">
+	<text>
+Sférický artefakt z červeného krystalu vzniklý v anomálii „Burner“.
+\nMá unikátní vlastnost — udržuje konstantní teplotu 75 °F / 24 °C bez ohledu na okolí. Tím pohlcuje teplo a vytváří kolem uživatele zónu, která chrání před plameny.
+\nNevýhodou je zvýšená elektrická vodivost, což výrazně zvyšuje riziko zásahu elektrickým proudem, zejména během bouří a v blízkosti elektrických anomálií. Artefakt je také poměrně těžký kvůli vysoké hustotě materiálu.
+\n \nEmise radiace je na vysoké úrovni.
+	</text>
+</string>
+
+<string id="st_af_blood_name">
+	<text>Kamenná krev</text>
+</string>
+<string id="st_af_blood_descr">
+	<text>
+Načervenalý útvar ze zhutnělých zkamenělých rostlin, půdy a živočišných zbytků. Dokáže částečně neutralizovat chemické jedy jejich pohlcováním a snižováním toxicity v krevním oběhu.
+\nMá však tendenci zhoršovat chemické popáleniny a může se vznítit při kontaktu s otevřeným ohněm nebo dokonce samovolně vzplanout.
+\nDalší výhodou je urychlení srážení krve při nošení u těla. Dlouhodobé používání však může být nebezpečné kvůli tvorbě krevních sraženin.
+\n \nEmise radiace je na nízké úrovni.
+	</text>
+</string>
+
+<string id="st_af_mincer_meat_name">
+	<text>Kousek masa</text>
+</string>
+<string id="st_af_mincer_meat_descr">
+	<text>
+Tento artefakt má měkkou, porézní, kůži podobnou strukturu a může se stlačovat. Působí jako houba a jeho vlastnosti se projeví až za specifických podmínek.
+\nPóry na povrchu pohlcují malé množství toxinů z prostředí.
+\nZároveň mírně zesiluje účinky psi polí na živé organismy tím, že absorbuje psi energii a znovu ji vyzařuje.
+\nJe také dobrým vodičem elektřiny podobně jako živá tkáň.
+\n \nEmise radiace je na průměrné úrovni.
+	</text>
+</string>
+
+<string id="st_af_bracelet_name">
+	<text>Náramek</text>
+</string>  
+<string id="st_af_bracelet_descr">
+	<text>
+Náramek vzniká z běžných druhů mechorostů vystavených silné radiaci a chemickým anomáliím, což vysvětluje jeho organický původ.
+\nPoskytuje výraznou ochranu proti kyselinám tím, že postupně upravuje jejich pH na hodnotu neutrální vody.
+\nTaké mírně snižuje účinky psi anomálií a psi vln.
+\n \nEmise radiace je na průměrné úrovni.
+	</text>
+</string>  
+
+<string id="st_af_baloon_name">
+	<text>Bublina</text>
+</string>
+<string id="st_af_baloon_descr">
+	<text>
+Soubor dutých organických útvarů, který uvolňuje plyn schopný neutralizovat chemické a toxické částice v těle, aniž by jej poškodil. Poskytuje vysokou ochranu proti toxinům.
+\nZároveň udržuje konstantní teplotu a vytváří tepelnou kapsu chránící před ohněm.
+\nMá však i velmi nebezpečné vlastnosti — výrazně zesiluje psi vlny a vlivy mutantů a anomálií. Uživatelé hlásili silné psychické účinky až bolest a dezorientaci.
+\n \nEmise radiace je na vysoké úrovni.
+	</text>
+</string>
+
+<string id="st_af_electra_sparkler_name">
+	<text>Jiskřič</text>
+</string>
+<string id="st_af_electra_sparkler_descr">
+	<text>
+Tento artefakt má podobu průsvitných pavučin. Je lepkavý a působí jako lepidlo.
+\nNejčastěji se vyskytuje v elektrických anomáliích a pohlcuje jejich vlastnosti — stabilizuje elektrické pole a funguje jako slabý odpor, chránící před elektřinou.
+\nNa druhou stranu zvyšuje agresivitu kyselin, což urychluje poškození výstroje i tkání.
+\n \nEmise radiace je na nízké úrovni.
+	</text>
+</string>
+	
+	<string id="st_af_sponge_name">
+	<text>Houba</text>
+</string>  
+<string id="st_af_sponge_descr">
+	<text>
+Houba je mezi ekology dlouhodobě předmětem debat. Někteří tvrdí, že vznikla z primitivních organismů, jiní ji považují za vysoce vyvinutou formu života se zbytky vědomí.
+\nNavzdory teoriím se všichni shodují na jednom: pohybuje se. Houba se někdy snaží „uchopit“ předmět, kterého se dotkne. Umístit ji do kontejneru je obtížné, jako by se chtěla osvobodit.
+\nArtefakt funguje jako silný odporový prvek a dokáže absorbovat i smrtelné dávky elektřiny. Na druhou stranu může vzplanout při kontaktu s ohněm nebo samovolně shořet.
+\n \nEmise radiace je na průměrné úrovni.
+	</text>
+</string> 
+
+<string id="st_af_ring_name">
+	<text>Prstenec</text>
+</string>  
+<string id="st_af_ring_descr">
+	<text>
+Velmi malý elektrický artefakt, obtížně rozpoznatelný. Skládá se ze dvou prstencových struktur organického původu, odtud název.
+\nKdyž se Prsten roztočí, nikdy se nezastaví, čímž porušuje první zákon termodynamiky. Vědci se domnívají, že získává gravitační vlastnosti z anomálií typu Vortex.
+\nVnější prsten má vysokou vodivost. Absorbuje elektrický proud z okolí a předává jej do vnitřního prstence, kde se energie „ztrácí“ neznámým mechanismem.
+\nNa druhou stranu je Prsten hořlavý a dlouhodobé vystavení může zvýšit jeho náchylnost ke vznícení.
+\n \nEmise radiace je na průměrné úrovni.
+	</text>
+</string> 
+
+<string id="st_af_electra_flash_name">
+	<text>Blesk</text>
+</string>
+<string id="st_af_electra_flash_descr">
+	<text>
+Tento artefakt je vzhledově podobný Moonlightu a připomíná plazmovou kouli.
+\nJako silný odporový prvek dokáže chránit nositele před smrtelnými dávkami elektřiny.
+\nPři nošení mírně tlumí účinky psi anomálií a některých mutantů. Blesk absorbuje elektrickou energii i ve velkých dávkách.
+\nZároveň však zpomaluje hojení, proto je nutná opatrnost při zranění či krvácení. Je velmi lehký a snadno přenosný.
+\n \nEmise radiace je na vysoké úrovni.
+	</text>
+</string> 
+
+<string id="st_af_cristall_flower_name">
+	<text>Kamená květina</text>
+</string>
+<string id="st_af_cristall_flower_descr">
+	<text>
+Tento artefakt připomíná rozpuštěný sýr proložený safírovými krystaly. Pouze vnější žlutá vrstva vyzařuje radiaci, zatímco vnitřní modré části lze po úpravě využít ve šperkařství.
+\nSafírové části jsou extrémně tvrdé a odolné, což z nich dělá vysoce ceněné drahokamy.
+\nArtefakt navíc poskytuje ochranu proti psi vlnám a vnější vrstva mírně zvyšuje odolnost vůči toxinům.
+\nMůže však způsobovat zahřívání okolních objektů a v extrémních případech i vznícení. Pohlcuje teplo a přenáší ho dál.
+\nKvůli vysoké hustotě patří mezi nejtěžší artefakty v Zóně.
+\n \nEmise radiace je na nízké úrovni.
+	</text>
+</string> 
+
+<string id="st_af_lobster_eyes_name">
+	<text>Krabí oči</text>
+</string>  
+<string id="st_af_lobster_eyes_descr">
+	<text>
+Jak název napovídá, artefakt má tvar dvou spojených útvarů. Vnější povrch je velmi hustý a tmavý.
+\nPoskytuje silnější psi ochranu než jeho příbuzný Kamená květina. Pod vlivem psi vln rezonuje a pohlcuje jejich účinky.
+\nDalší vlastností je schopnost absorbovat teplo a zůstat stále chladný.
+\nKvůli vysoké hustotě je artefakt velmi těžký.
+\n \nEmise radiace je na průměrné úrovni.
+	</text>
+</string> 
+
+<string id="st_af_electra_moonlight_name">
+	<text>Měsíční svit</text>
+</string>
+<string id="st_af_electra_moonlight_descr">
+	<text>
+Tento unikátní elektrostatický artefakt rezonuje pod vlivem psi vln. Tuláci se naučili ladit jeho rezonanci do opačné fáze, čímž výrazně tlumí jejich účinky.
+\nZároveň zlepšuje elektrickou odolnost snížením vodivosti těla při vysokém napětí.
+\nJe však hořlavý a může samovolně vzplanout.
+\n \nEmise radiace je na průměrné úrovni.
+	</text>
+</string> 
+
+<string id="st_af_black_spray_name">
+	<text>Černý sprej</text>
+</string>  
+<string id="st_af_black_spray_descr">
+	<text>
+O tomto vzácném artefaktu je známo jen málo.
+\nMá podobný tvar jako jiné safírové artefakty, ale jeho organický stonek naznačuje původ z rostlin vystavených psi polím a elektromagnetickému záření.
+\nDokáže zpomalovat šíření světla i psi vln, čímž výrazně tlumí psi interference v okolí.
+\nNevýhodou je extrémní citlivost na toxické prostředí, kde zesiluje jejich účinky. Proto se doporučuje nosit jej v batohu.
+\nJe vyhledáván šperkaři díky své modré auře.
+\n \nEmise radiace je na vysoké úrovni.
+	</text>
+</string> 
+
+<string id="st_af_medusa_name">
+	<text>Medúza</text>
+</string>
+<string id="st_af_medusa_descr">
+	<text>
+Velmi běžný gravitační artefakt v Zóně. Mírně chrání tělo před fyzickými nárazy.
+\nSnižuje účinky extrémního žáru z ohnivých anomálií.
+\nJe poměrně těžký, protože gravitační pole zvyšuje jeho hmotnost. Zároveň zesiluje negativní účinky psi vln a funguje jako silný vodič.
+\n \nEmise radiace je na nízké úrovni.
+	</text>
+</string> 
+
+<string id="st_af_vyvert_name">
+	<text>Vývrtka</text>
+</string>  
+<string id="st_af_vyvert_descr">
+	<text>
+Tento bizarní artefakt vzniká v oblastech se zvýšenou gravitační aktivitou.
+\nPřestože působí organicky, je blíže korálům. Gravitačně stabilizuje okolí a snižuje tření rychlých objektů, čímž chrání před nárazy.
+\nPohlcuje chemické a toxické látky a chrání tak tělo i před již vstřebanými jedy.
+\nDokáže vytvářet lokální gravitační pole, které zvyšuje jeho hmotnost, proto je těžký.
+\n \nEmise radiace je na průměrné úrovni.
+	</text>
+</string>
+	
+	<string id="st_af_empty_name">
+	<text>Prázdno</text>
+</string>  
+<string id="st_af_empty_descr">
+	<text>
+Dva disky organické formace (běžně lipidy, celulóza a lignin) oddělené prázdným prostorem. Mezi nimi se nachází unikátní gravitační pole stabilizující jejich vzdálenost.
+\nJakýkoliv pokus disky stlačit nebo oddálit selhává kvůli rychlým změnám gravitačního pole. Jako by artefakt reagoval na jakoukoliv sílu narušující rovnováhu.
+\nPohyb s artefaktem je obtížný, protože gravitační pole zvyšuje hustotu okolního vzduchu a zpomaluje pohyb.
+\nHlavní přínos spočívá ve snížení tření, čímž poskytuje výraznou ochranu proti fyzickým nárazům.
+\n \nEmise radiace je na průměrné úrovni.
+	</text>
+</string> 
+
+<string id="st_af_full_empty_name">
+	<text>Plné prázdno</text>
+</string>  
+<string id="st_af_full_empty_descr">
+	<text>
+Podobně jako Prázdno se jedná o dva disky organické formace spojené gravitačním polem. U varianty Plné prázdno je však toto pole extrémní: všechny částice vstupující do středu se stávají interaktivními pod neznámým vlivem, což uvolňuje fotony.
+\nVědci tento jev nazývají „galaktický efekt“, který vytváří unikátní světelnou orbitu artefaktu.
+\nZvýšení hustoty okolního vzduchu je výraznější než u Prázdna, což značně zpomaluje pohyb nositele.
+\nZároveň však poskytuje výrazně vyšší ochranu proti fyzickým nárazům – některé zprávy tvrdí, že dokáže zastavit i 9mm projektily z bezprostřední blízkosti.
+\n \nEmise radiace je na vysoké úrovni.
+	</text>
+</string> 
+
+<string id="st_af_night_star_name">
+	<text>Noční hvězda</text>
+</string>
+<string id="st_af_night_star_descr">
+	<text>
+Tento svítící artefakt vytváří lokální směrované nízkogravitační pole. Tuláci jej často kombinují s Gravi pro zvýšení nosnosti.
+\nDíky svému vnitřnímu jádru je vysoce ceněn šperkaři, ale při neodborném zpracování může explodovat s energií schopnou zničit menší budovu.
+\nNavíc pohlcuje toxické a chemické látky z okolí, i když jen v malém množství. Je relativně dostupný i pro méně majetné stalkery.
+\nPři kontaktu se zdrojem tepla však vydává zápach spáleného masa a může se samovolně vznítit.
+\n \nEmise radiace je na nízké úrovni.
+	</text>
+</string> 
+
+<string id="st_af_gravi_name">
+	<text>Gravi</text>
+</string>
+<string id="st_af_gravi_descr">
+	<text>
+Gravi vzniká z kovových látek vystavených dlouhodobé gravitaci. Udržuje silné antigravitační pole, které snižuje hmotnost objektů v okolí.
+\nBylo zjištěno, že vytváří miniaturní singularitní pole antigravitační povahy, které se aktivuje v intervalech přibližně 30 minut.
+\nNevýhodou je zvýšená elektrická vodivost, což zvyšuje riziko zásahu elektrickým proudem.
+\nZároveň zesiluje účinky psi vln a funguje jako silný vodič.
+\n \nEmise radiace je na průměrné úrovni.
+	</text>
+</string> 
+
+<string id="st_af_gold_fish_name">
+	<text>Zlatá rybka</text>
+</string>
+<string id="st_af_gold_fish_descr">
+	<text>
+Přímý nástupce a vylepšená verze artefaktu Gravi. Stejně jako u Gravi jej objevil vědec Sacherov v Jantaru po silné emisi v Zóně.
+\nVzniká, když tři artefakty Gravi interagují a splynou v jedno singularitní pole. Tento jev je extrémně vzácný.
+\nVojenské zdroje uvádějí, že v Zóně operují agenti, jejichž cílem je transport těchto artefaktů mimo Zónu.
+\nArtefakt vytváří konstantní antigravitační singularitní pole v blízkém okolí. Někteří stalkerové však zmizeli beze stopy, zanechávajíc pouze Zlatou rybku.
+\nNevýhodou je extrémní zrychlení pohybu objektů v poli, což může vést k nebezpečným nárazům včetně samotného nositele.
+\n \nEmise radiace je nejvyšší na škále.
+	</text>
+</string> 
+
+<string id="st_af_dummy_glassbeads_name">
+	<text>Maminčiny korálky</text>
+</string>
+<string id="st_af_dummy_glassbeads_descr">
+	<text>
+Tvarované jako DNA šroubovice, Maminčiny korálky vznikají v anomálii Burner. Neustále pulzují a vyzařují emise prospěšné pro lidský organismus, které zvyšují metabolismus a urychlují srážení krve i hojení ran.
+\nJejich mechanismus je stále neznámý.
+\nZároveň poskytují silnou ochranu proti extrémnímu žáru.
+\nNevýhodou je zvýšená elektrická vodivost, což zvyšuje riziko zásahu bleskem či elektřinou.
+\nJsou poměrně těžké kvůli vysoké hustotě materiálu.
+\n \nEmise radiace je na nízké úrovni.
+	</text>
+</string>
+	
+	<string id="st_af_eye_name">
+	<text>Oko</text>
+</string>
+<string id="st_af_eye_descr">
+	<text>
+	Tento artefakt připomínající lidské oko výrazně zvyšuje metabolismus organismu a urychluje hojení ran. Zkušení stalkerové tvrdí, že Oko přináší i štěstí. Bez ohledu na pravdivost těchto tvrzení jsou jeho pozitivní účinky skutečně značné. 
+	\nTento artefakt tlumí bolest a je mimořádně užitečný při léčení zranění.
+	\nPři nošení částečně potlačuje negativní vlivy psionických anomálií a vln některých mutantů.
+	\nTyto přínosy však mají svou cenu. V chemických anomáliích je artefakt extrémně nebezpečný – výrazně zvyšuje toxicitu a zesiluje jejich účinky. Proto se důrazně doporučuje jej v toxických oblastech nosit v batohu, nikoli na těle, pokud si člověk nechce zahrávat se smrtí.
+	\nArtefakt je mezi stalkery známý také jako „měděné oko“, protože vede elektřinu a zesiluje její ničivé účinky podobně jako měď.
+	\n \nÚroveň radiace: střední.
+	</text>
+</string>
+
+<string id="st_af_fire_name">
+	<text>Plamen</text>
+</string>
+<string id="st_af_fire_descr">
+	<text>
+	Tento artefakt vzniká v oblastech s vysokou tepelnou aktivitou. Vytváří silné infračervené záření, které zrychluje metabolismus a urychluje hojení ran doslova před očima nositele.
+	\nJeho léčivé schopnosti jsou ještě silnější než u Oka – stalkerové s tímto artefaktem údajně přežili i zásahy chimer. Díky tomu si vysloužil pověst zázračného artefaktu.
+	\nMnoha lovcům mutantů už zachránil život a většina veteránů jej nosí jako jistotu pro případ střetu s nebezpečím. Má však i své stinné stránky: vstup do psionického pole s artefaktem na opasku je sebevražda. Absorbuje psionickou energii a následně ji silně vyzařuje.
+	\nJe také nutné být opatrný při prodeji – dlouhodobá expozice i nízkým dávkám radiace může být smrtelná.
+	\nLze jej využít i jako opakovaně použitelnou lékárničku, protože velmi rychle regeneruje tkáně.
+	\n \nÚroveň radiace: vysoká.
+	</text>
+</string>
+
+<string id="st_af_dummy_battery_name">
+	<text>Baterie</text>
+</string>
+<string id="st_af_dummy_battery_descr">
+	<text>
+	Tento artefakt je v Zóně velmi rozšířený a mezi stalkery oblíbený pro své energetické účinky, i když při dlouhodobém používání negativně ovlivňuje organismus.
+	\nJeho nevýhodou je zpomalení srážlivosti krve a zvýšené krvácení z ran. Na druhou stranu jde o silný izolátor, který chrání před smrtelnými dávkami elektřiny.
+	\nJako elektrický artefakt chrání před proudem, ale zároveň akumuluje teplo a přenáší ho dál.
+	\nJe velmi lehký a snadno přenosný.
+	\n \nÚroveň radiace: nízká.
+	</text>
+</string>
+
+<string id="st_af_dummy_dummy_name">
+	<text>Skořápka</text>
+</string>
+<string id="st_af_dummy_dummy_descr">
+	<text>
+	Skořápka je tvořena dvěma diskovitými útvary modravé barvy spojenými poloprůhlednou hmotou neznámého původu.
+	\nDlouho byla vědci považována za bezcennou, ale později se ukázalo, že má značné přínosy.
+	\nPři kontaktu s tělem zvyšuje regeneraci a obnovu výdrže, což u některých jedinců vede k hyperaktivitě. Nevýhodou je snížený počet krevních destiček a tím i vyšší krvácivost.
+	\nPoskytuje slušnou psionickou ochranu a pohlcuje elektromagnetické rušení.
+	\nPři kontaktu s ohněm se může vznítit nebo samovolně vzplanout.
+	\nJe velmi lehká a snadno přenosná.
+	\n \nÚroveň radiace: střední.
+	</text>
+</string>
+
+<string id="st_af_ice_name">
+	<text>Sněhová vločka</text>
+</string>
+<string id="st_af_ice_descr">
+	<text>
+	Tento artefakt je mezi stalkery známý také jako „radioaktivní vločka“. Na první pohled připomíná bílého koloboka.
+	\nVýrazně zvyšuje svalový tonus a regeneraci výdrže, ale jeho vysoká radioaktivita představuje velké riziko.
+	\nZvyšuje odolnost vůči elektřině, ale zároveň je nebezpečný při dlouhodobém nošení.
+	\nInteraguje s okolní energií – pohlcuje a zesiluje účinky tepla, toxinů i psionických polí.
+	\nJe velmi lehký a snadno přenosný.
+	\n \nÚroveň radiace: vysoká.
+	</text>
+</string>
+
+<string id="st_af_soul_name">
+	<text>Duše</text>
+</string>
+<string id="st_af_soul_descr">
+	<text>
+	Duše je unikátní organický artefakt, který vylučuje slizovitou látku výrazně urychlující hojení ran. Díky dostupné ceně a zajímavému vzhledu je oblíbeným sběratelským kusem.
+	\nAplikace této látky tlumí bolest a urychluje regeneraci.
+	\nTaké snižuje účinky psionických vln a jejich dopad na mozek. Artefakt však zároveň vysává energii z nositele.
+	\nJe lehký a nepředstavuje velkou zátěž.
+	\n \nÚroveň radiace: nízká.
+	</text>
+</string>
+
+<string id="st_af_fuzz_kolobok_name">
+	<text>Koblížek</text>
+</string>
+<string id="st_af_fuzz_kolobok_descr">
+	<text>
+	Relativně vzácný artefakt vznikající v chemických anomáliích, vysoce ceněný pro schopnost rychle zastavit krvácení a léčit většinu zranění.
+	\nPodle některých vědců mění genetickou strukturu nositele, což však nebylo prokázáno.
+	\nNevýhodou je interakce s radiací – v radioaktivních polích se jeho účinky zhoršují. Také snižuje regeneraci energie a způsobuje neustálé svědění kvůli ostrým výběžkům.
+	\nZhoršuje odolnost vůči teplu a kyselinám kvůli vysoké hořlavosti.
+	\nJe lehký a snadno přenosný.
+	\n \nÚroveň radiace: střední.
+	</text>
+</string>
+	
+	<string id="st_af_glass_name">
+	<text>Světluška</text>
+</string>
+<string id="st_af_glass_descr">
+	<text>
+	Světluška interaguje s dosud neznámými poli, čímž výrazně urychluje regeneraci tkání i orgánů a normalizuje metabolické procesy.
+	\nArtefakt dokáže těžce zraněného stalkera doslova postavit na nohy během několika minut. Na druhou stranu může při vystavení silné radiaci samovolně vzplanout.
+	\nVelkou nevýhodou je oslabení organismu – během léčby snižuje počet krevních destiček a tím zvyšuje krvácivost.
+	\nTaké výrazně vyčerpává výdrž a snižuje její regeneraci. Někteří uživatelé hlásili, že po použití nebyli schopni chodit celé hodiny.
+	\nArtefakt je extrémně vzácný.
+	\n \nÚroveň radiace: vysoká.
+	</text>
+</string>
+
+<string id="st_af_compass_name">
+	<text>Kompas</text>
+</string>
+<string id="st_af_compass_descr">
+	<text>
+	Velmi vzácný artefakt – poslední kus byl nalezen před několika lety.
+	\nDokáže detekovat mezery v anomálních polích a umožnit průchod i těmi nejsložitějšími zónami téměř bez újmy. Jen málokdo však ví, jak s ním správně zacházet.
+	\nPři experimentech vykazoval Kompas neobvyklé vlastnosti – interaguje s pohybujícími se objekty, které mohou náhle mizet nebo se teleportovat.
+	\nZároveň trvale oslabuje tělo, vyčerpává výdrž a zvyšuje krvácivost. Jeho největší hrozbou je však extrémní radiace.
+	\nPouhý kontakt s artefaktem může během několika minut vést ke smrti.
+	</text>
+</string>
+
+<string id="st_af_oasis_heart_name">
+	<text>Srdce Oázy</text>
+</string>
+<string id="st_af_oasis_heart_descr">
+	<text>
+	Tento artefakt byl nalezen v samém středu legendární Oázy. Jde o zkamenělou rostlinu, která převzala léčivé vlastnosti tohoto místa.
+	\nNejenže dramaticky zrychluje hojení ran a regeneraci, ale zároveň dodává tělu silný zdroj energie. Skutečný zázrak Zóny.
+	\nOáza je však extrémně citlivá na vnější vlivy. Kontakt s anomálními poli je pro nositele smrtelný.
+	\n \nÚroveň radiace: nejvyšší.
+	</text>
+</string>
+
+<string id="st_af_death_lamp_name">
+	<text>Smrtící lampa</text>
+</string>
+<string id="st_af_death_lamp_descr">
+	<text>
+	„Velké, červené a prokleté.“
+	\nTak jej popisují místní, někteří ho nazývají „Semeno Satana“. Mnoho obchodníků odmítá s tímto artefaktem obchodovat kvůli jeho pověsti.
+	\nO původu se ví jen velmi málo. První kus byl nalezen skupinou tří zkušených stalkerů – dva z nich krátce poté zemřeli s děsivým výrazem ve tváři, třetí zmizel beze stopy.
+	\nVědci, kteří artefakt zkoumali, hlásili po několika dnech noční můry a psychické poruchy.
+	\nArtefakt vysává vitalitu i vůli nositele, způsobuje závratě a v extrémních případech i bezvědomí.
+	\n \nÚroveň radiace: nejvyšší.
+	</text>
+</string>
+
+<string id="st_af_monolith_name">
+	<text>Volat Smaragd</text>
+</string>
+<string id="st_af_monolith_descr">
+	<text>
+	Původ těchto artefaktů je neznámý, protože se jen zřídka vyskytují mimo severní oblasti Zóny.
+	\nTento unikátní artefakt vytváří kontaktní pole, které potlačuje blízké anomální jevy. Poskytuje tak vysokou míru ochrany proti většině environmentálních hrozeb Zóny. Je také jedním z mála aktivních artefaktů, který lze bezpečně přenášet bez olověných kontejnerů.
+	\nPři nošení však člověk cítí vysušení tkání, ztuhnutí svalů a celkovou křehkost organismu. Do boje je vhodný jen pro velmi odolné jedince.
+	</text>
+</string>
+
+<string id="st_af_black_name">
+	<text>Černý kámen</text>
+</string>
+<string id="st_af_black_descr">
+	<text>
+	Opravdu fascinující věc. Černý kámen chrání před širokým spektrem nebezpečí, ale zároveň pomalu zabíjí svého nositele. Někteří stalkerové se domnívají, že jde o úlomek Monolitu.
+	</text>
+</string>
+	
+	<!-- MLR -->
+	<string id="st_af_misery_bread_name">
+	<text>Anomální chleba</text>
+</string>
+<string id="st_af_misery_bread_descr">
+	<text>
+	Kousek chleba tmavý jako duše toho, kdo ho zanechal.
+	\n \n%c[ui_gray_2]VLASTNOSTI:\n%c[ui_white] • %c[ui_gray_2] artefakt\n%c[d_cyan] • %c[ui_gray_2] lze připevnit
+	</text>
+</string>
+
+<string id="af_drops">
+	<text>Kapky</text>
+</string>
+<string id="st_af_drops_descr">
+	<text>
+	Vznikají v anomálii Hořák při vysokých teplotách. Zvenčí vypadají jako slzovité útvary s lesklým povrchem pokrytým prasklinami.
+	</text>
+</string>
+
+<string id="af_ameba_slime">
+	<text>Sliz</text>
+</string>
+<string id="st_af_ameba_slime_descr">
+	<text>
+	Je známo, že tento artefakt vzniká v anomálii „Fruit punch“. Při nošení na opasku snižuje krvácení, ale zároveň zvyšuje náchylnost k popáleninám.
+	</text>
+</string>
+
+<string id="af_ameba_slug">
+	<text>Slug</text>
+</string>
+<string id="st_af_ameba_slug_descr">
+	<text>
+	Vzniká v anomálii „Fruit punch“. Negativní vlastnosti jsou kompenzovány tím, že zlepšuje srážlivost krve. Jde o vzácný artefakt s dobrou tržní hodnotou.
+	</text>
+</string>
+
+<string id="af_ameba_mica">
+	<text>Mika</text>
+</string>
+<string id="st_af_ameba_mica_descr">
+	<text>
+	Anomálie „Fruit punch“ vytváří tento artefakt jen při extrémních podmínkách. Výsledkem je poloprůhledný tvrdý útvar. Vzácný a drahý artefakt.
+	</text>
+</string>
+
+<string id="af_dummy_spring">
+	<text>Pružina</text>
+</string>
+<string id="st_af_dummy_spring_descr">
+	<text>
+	Podle některých teoretiků jde o hybrid mezi baterií a skořápkou.
+	</text>
+</string>
+
+<string id="af_dummy_pellicle">
+	<text>Pelikula</text>
+</string>
+<string id="st_af_dummy_pellicle_descr">
+	<text>
+	Tento artefakt je natolik vzácný, že si jeho existenci někteří výzkumníci ani nedokážou představit. Vylučuje kyselé chemické složky.
+	</text>
+</string>
+
+<string id="af_rusty_thorn">
+	<text>Trn</text>
+</string>
+<string id="st_af_rusty_thorn_descr">
+	<text>
+	Výsledek interakce anomálie Spálený chmýří a těla neopatrného stalkera. Trn neustále bodá svého nositele, ale zároveň čistí organismus od radionuklidů. Běžný a levný artefakt.
+	</text>
+</string>
+
+<string id="af_rusty_kristall">
+	<text>Krystalový trn</text>
+</string>
+<string id="st_af_rusty_kristall_descr">
+	<text>
+	Vzniká v anomálii Spálené chmýří. Odvádí radiaci z organismu, ale zároveň způsobuje krvácení skrz póry i další otvory. Běžný a účinný artefakt.
+	</text>
+</string>
+
+<string id="af_rusty_sea_urchin">
+	<text>Mořský ježek</text>
+</string>
+<string id="st_af_rusty_sea_urchin_descr">
+	<text>
+	Velmi vzácný artefakt vznikající v anomálii Spálené chmýří. Zvyšuje krevní tlak a tím pomáhá tělu zbavovat se radioaktivních částic. Podle Sakharova jde o extrémně stabilní strukturu, kterou nelze snadno vytvořit v laboratorních podmínkách.
+	</text>
+</string>
+
+<string id="st_compass2">
+	<text>Nejlepší kompas</text>
+</string>
+<string id="st_compass2_descr">
+	<text>
+	Tento kompas je ještě vzácnější než běžný. Nemá žádné negativní účinky na organismus.
+	</text>
+</string>
+
+<string id="st_oasis_heart2">
+	<text>Srdce obra</text>
+</string>
+<string id="st_oasis_heart2_descr">
+	<text>
+	Zřejmě jde o zkamenělou rostlinu s velmi příznivými účinky na organismus. Nemá žádné negativní vlastnosti.
+	</text>
+</string>
+
+<string id="jup_b1_half_artifact2">
+	<text>Spirála</text>
+</string>
+<string id="jup_b1_half_artifact2_descr">
+	<text>
+	Vzácný artefakt. Chrání před psionickými poli a částečně i před elektřinou. Vytváří pole, které lehce odlehčuje okolní předměty. Bez negativních vlastností.
+	</text>
+</string>
+
+<string id="st_af_quest_b14_twisted2">
+	<text>Bílý had</text>
+</string>
+<string id="st_af_quest_b14_twisted2_descr">
+	<text>
+	Velmi vzácný ohnivý artefakt. Svým tvarem připomíná hada a podporuje hojení ran.
+	</text>
+</string>
+
+<string id="af_water_flower2_name">
+	<text>Bájná květina</text>
+</string>
+<string id="af_water_flower2_descr">
+	<text>
+	Velmi vzácný rostlinný artefakt. Urychluje hojení ran a odstraňuje radiaci. Také mírně chrání proti psionickým polím a pohlcuje přebytečné teplo. Bez negativních vlastností.
+	</text>
+</string>
+
+<string id="st_af_blood2_descr">
+	<text>
+	Jde o nevzhledný načervenalý útvar z polymerizovaných rostlinných zbytků, půdy a kostí. Mírně zvyšuje nosnost. Bez negativních vlastností.
+	</text>
+</string>
+
+<string id="st_af_blood2_name">
+	<text>Cihlová krev</text>
+</string>
+
+<string id="st_af_cristall2_descr">
+	<text>
+	Artefakt vzniká v anomálních zónách za vysokých teplot. Pomalu odstraňuje radiaci z těla. Bez negativních vlastností.
+	</text>
+</string>
+
+<string id="st_af_cristall_flower2_descr">
+	<text>
+	Artefakt je v podstatě kámen s vlastnostmi blízkými žule. Vzniká v gravitačních polích obrovské intenzity. Snižuje váhu přenášených věcí a mírně chrání před psionickými vlivy. Je radioaktivní.
+	</text>
+</string>
+
+	<string id="st_af_cristall_flower2_name">
+	<text>Fosilní květ</text>
+</string>
+<string id="st_af_cristall_flower2_descr">
+	<text>
+	Artefakt vzniká v anomálních zónách za extrémních tepelných podmínek. Postupně z těla odstraňuje a neutralizuje radiaci.
+	\nAčkoli vizuálně připomíná mineralizovanou rostlinnou strukturu, jeho vnitřní uspořádání zůstává pro ekology neobjasněno.
+	\nNejsou známy žádné negativní účinky, přesto se doporučuje dlouhodobé nošení s opatrností.
+	\n \nÚroveň radiace: nízká.
+	</text>
+</string>
+
+<string id="st_af_cristall2_name">
+	<text>Ohnivý krystal</text>
+</string>
+<string id="st_af_cristall2_descr">
+	<text>
+	Artefakt vzniká v zónách s extrémní tepelnou aktivitou. Stabilizuje tělesnou teplotu odvodem přebytečného tepla.
+	\nZvyšuje odolnost vůči vysokým teplotám a postupně snižuje úroveň radiace v organismu.
+	\nNebyla zaznamenána žádná významná negativní vlastnost, avšak dlouhodobé účinky nejsou plně prozkoumány.
+	\n \nÚroveň radiace: nízká.
+	</text>
+</string>
+
+<string id="st_af_dummy_dummy2_name">
+	<text>Prázdný</text>
+</string>
+<string id="st_af_dummy_dummy2_descr">
+	<text>
+	Dříve považován za inertní materiál bez využití. Nedávná pozorování však ukázala, že při dlouhodobém kontaktu s tělem mírně zvyšuje svalový tonus.
+	\nJeho mechanismus účinku zůstává neznámý a jeho klasifikace jako artefaktu je stále diskutována.
+	\n \nNebyla potvrzena žádná negativní vlastnost.
+	</text>
+</string>
+
+<string id="st_af_dummy_glassbeads2_name">
+	<text>Kuličky</text>
+</string>
+<string id="st_af_dummy_glassbeads2_descr">
+	<text>
+	Povaha artefaktu zůstává nejasná. Bylo však prokázáno, že radiace vznikající pulzací jeho struktur urychluje srážení krve.
+	\nPřestože je užitečný při ošetření zranění, dlouhodobé vystavení se nedoporučuje.
+	\n \nÚroveň radiace: střední.
+	</text>
+</string>
+
+<string id="st_af_electra_flash2_name">
+	<text>Šplouch</text>
+</string>
+<string id="st_af_electra_flash2_descr">
+	<text>
+	Elektrostatický artefakt vykazuje schopnost snižovat radiaci v organismu a mírně zvyšuje svalový tonus.
+	\nVzniká v elektromagnetických anomáliích a uchovává stabilizační elektrický náboj.
+	\nNebyla zaznamenána žádná negativní vlastnost.
+	\n \nÚroveň radiace: nízká.
+	</text>
+</string>
+
+<string id="st_af_electra_moonlight2_name">
+	<text>Elektronova</text>
+</string>
+<string id="st_af_electra_moonlight2_descr">
+	<text>
+	Vzácný elektrostatický artefakt schopný stabilizovat výkyvy elektrického pole.
+	\nVyzařuje slabé světelné pole a vzniká v silně aktivních elektrických anomáliích.
+	\nPřesto vykazuje měřitelnou radioaktivitu.
+	\n \nÚroveň radiace: střední.
+	</text>
+</string>
+
+<string id="st_af_electra_sparkler2_name">
+	<text>Bengálský plamen</text>
+</string>
+<string id="st_af_electra_sparkler2_descr">
+	<text>
+	Běžný elektrostatický artefakt, který postupně snižuje radiační zátěž organismu.
+	\nJe stabilní, lehký a vhodný pro méně zkušené stalkery.
+	\nNebyla zaznamenána žádná negativní vlastnost.
+	\n \nÚroveň radiace: nízká.
+	</text>
+</string>
+
+<string id="st_af_fireball2_name">
+	<text>Magmatická koule</text>
+</string>
+<string id="st_af_fireball2_descr">
+	<text>
+	Tepelný artefakt stabilizující tělesnou teplotu a mírně zlepšující srážlivost krve.
+	\nUmožňuje snesitelnější pobyt v blízkosti zdrojů tepla, avšak dlouhodobé vystavení je nebezpečné.
+	\nVykazuje mírnou radioaktivitu.
+	\n \nÚroveň radiace: střední.
+	</text>
+</string>
+
+<string id="st_af_fuzz_kolobok2_name">
+	<text>Puffer</text>
+</string>
+<string id="st_af_fuzz_kolobok2_descr">
+	<text>
+	Artefakt mění fyzickou efektivitu nositele, snižuje vnímanou hmotnost a zvyšuje nosnost.
+	\nZpůsobuje však mikroporanění tkání, což vede k trvalému krvácení.
+	\nVysoce nestabilní, ale ceněný artefakt pro dlouhé výpravy.
+	\n \nÚroveň radiace: střední.
+	</text>
+</string>
+
+<string id="st_af_gold_fish2_name">
+	<text>Ryba</text>
+</string>
+<string id="st_af_gold_fish2_descr">
+	<text>
+	Vzácný artefakt výrazně zvyšující nosnost.
+	\nJeho gravitační pole však destabilizuje okolí, což činí pohyb v anomáliích extrémně nebezpečný.
+	\n \nÚroveň radiace: vysoká.
+	</text>
+</string>
+
+<string id="st_af_gravi2_name">
+	<text>Gravitátor</text>
+</string>
+<string id="st_af_gravi2_descr">
+	<text>
+	Stabilní gravitační artefakt snižující hmotnost předmětů a částečně filtrující radiaci.
+	\nNebyla zaznamenána žádná negativní vlastnost za standardních podmínek.
+	\n \nÚroveň radiace: nízká.
+	</text>
+</string>
+
+<string id="st_af_mincer_meat2_name">
+	<text>Kousek chleba</text>
+</string>
+<string id="st_af_mincer_meat2_descr">
+	<text>
+	Biologicky nestabilní artefakt snižující metabolické nároky organismu.
+	\nZvyšuje však zranitelnost vůči psi-emisím, zejména při kontaktu s controllerem.
+	\n \nÚroveň radiace: nízká.
+	</text>
+</string>
+
+<string id="st_af_night_star2_name">
+	<text>Pravá noční hvězda</text>
+</string>
+<string id="st_af_night_star2_descr">
+	<text>
+	Vzácný a esteticky výrazný artefakt poskytující silnou ochranu proti psi-vlivům.
+	\nJe vysoce ceněn pro svou stabilitu, avšak stále vykazuje radioaktivitu.
+	\n \nÚroveň radiace: střední.
+	</text>
+</string>
+
+<string id="st_af_soul2_name">
+	<text>Srdce chiméry</text>
+</string>
+<string id="st_af_soul2_descr">
+	<text>
+	Organický artefakt zvyšující nosnost a metabolickou efektivitu organismu.
+	\nDlouhodobé užívání může snižovat pocit hladu a měnit energetickou rovnováhu.
+	\n \nÚroveň radiace: nízká.
+	</text>
+</string>
+
+<string id="st_af_vyvert2_name">
+	<text>Podvrat</text>
+</string>
+<string id="st_af_vyvert2_descr">
+	<text>
+	Gravitační artefakt snižující hmotnost břemene a částečně chránící proti psi-poli.
+	\nJe středně stabilní, avšak stále radioaktivní.
+	\n \nÚroveň radiace: střední.
+	</text>
+</string>
+
+<string id="af_water_flower_name">
+	<text>Vodní květ</text>
+</string>
+<string id="af_water_flower_descr">
+	<text>
+	Vzácný artefakt neznámého původu.
+	\nLéčí zranění, obnovuje sílu a mírně snižuje radiaci, avšak zvyšuje pocit hladu.
+	\n \nÚroveň radiace: nízká.
+	</text>
+</string>
+<string id="af_water_flower1_name">
+	<text>Podivná květina</text>
+</string>
+<string id="af_water_flower1_descr">
+	<text>Tento artefakt je podivně podobný artefaktu Vodní květina. Mezi pozitivní vlastnosti patří zastavení krvácení, snížení váhy batohu a pomalé odstraňování radiace, ale negativně ovlivňuje trávení.</text>
+</string>
+
+<string id="af_arhara_globus_name">
+	<text>Dětská chrastítka</text>
+</string>
+<string id="af_arhara_globus_descr">
+	<text>Připomíná dětské chrastítko s ostny, odtud jeho název. Pomáhá tělu rychleji obnovovat sílu a poskytuje ochranu proti chemickým a elektrickým anomáliím. Mírně radioaktivní.</text>
+</string>
+
+<string id="af_electro_crystal_thorn_name">
+	<text>Elektrický mikroorganismus</text>
+</string>
+<string id="af_electro_crystal_thorn_descr">
+	<text>Poměrně běžný artefakt elektrické povahy. Pomáhá organismu rychleji obnovovat energii. Radioaktivní.</text>
+</string>
+
+<string id="af_part_monolit_name">
+	<text>Úlomek Monolitu</text>
+</string>
+<string id="af_part_monolit_descr">
+	<text>Extrémně vzácný artefakt připomínající pulsující srdce. Má pozitivní vliv na celé tělo, ale výrazně zesiluje působení psionických vln na nositele. Radioaktivní.</text>
+</string>
+
+<string id="af_caterpillar_name">
+	<text>Plazmatická housenka</text>
+</string>
+<string id="af_caterpillar_descr">
+	<text>Vzácný artefakt vypadající jako housenka. Nejprve byl nalezen ve Volném území mimo anomálie, později se však začal objevovat v anomáliích. Umožňuje nést více vybavení, obnovuje sílu a mírně snižuje radiaci, ale postupně vysává zdraví nositele. Také není vhodný pro oblasti s vysokou teplotou.</text>
+</string>
+
+<string id="artifact_af_kamen_udachy">
+	<text>Hyperabsolutní artefakt, který lze získat jen extrémně vzácně díky složitým transmutacím. Konglomerát obrovského množství energie a vitality, výrazně snižuje radiaci. Možné jednorázové i trvalé využití jeho vlastností.</text>
+</string>
+
+<string id="enc_zone_artifact_af-babka_4">
+	<text>Absolutní artefakt získaný transmutací Burerových prababiččiných korálků v anomálii Hořák. Poskytuje zvýšenou odolnost proti střelným zraněním.</text>
+</string>
+
+<string id="af_life_heart_name">
+	<text>Živé srdce</text>
+</string>
+<string id="af_life_heart_descr">
+	<text>Vzácný artefakt připomínající skutečné srdce. Rychle obnovuje zdraví a energii, ale přitahuje elektřinu. Mírně radioaktivní.</text>
+</string>
+
+<string id="af_medusa_green_name">
+	<text>Smaragdová medúza</text>
+</string>
+<string id="af_medusa_green_descr">
+	<text>Připomíná obyčejnou Medúzu, ale je zelená. Není radioaktivní, slabě svítí. Léčí tělo a snižuje radiaci, ale zvyšuje účinky toxinů a psionických polí.</text>
+</string>
+
+<string id="af_vyvert_green_name">
+	<text>Smaragdový vyvrtnutý kámen</text>
+</string>
+<string id="af_vyvert_green_descr">
+	<text>Vypadá jako běžný Vyvrtnutý kámen, ale je zelený. Není radioaktivní, slabě svítí. Postupně léčí tělo a dobře odstraňuje radiaci. Bez negativních vlastností.</text>
+</string>
+
+<string id="af_blood_green_name">
+	<text>Smaragdová krev kamene</text>
+</string>
+<string id="af_blood_green_descr">
+	<text>Vypadá jako běžná Krev kamene, ale je zelená. Není radioaktivní, slabě svítí. Postupně léčí tělo. Bez dalších vlastností.</text>
+</string>
+
+<string id="af_dummy_pellicle_red_name">
+	<text>Rubínová pelikula</text>
+</string>
+<string id="af_dummy_pellicle_red_descr">
+	<text>Připomíná běžnou Pelikulu, ale je červená. Radioaktivní, svítí. Chrání proti tepelným efektům.</text>
+</string>
+
+<string id="af_dummy_spring_red_name">
+	<text>Rubínová pružina</text>
+</string>
+<string id="af_dummy_spring_red_descr">
+	<text>Připomíná běžnou Pružinu, ale je červená. Radioaktivní. Léčí zranění a mírně chrání před vysokou teplotou.</text>
+</string>
+
+<string id="af_dummy_battery_red_name">
+	<text>Rubínová baterie</text>
+</string>
+<string id="af_dummy_battery_red_descr">
+	<text>Připomíná běžnou Baterii, ale je červená. Není radioaktivní. Léčí drobná zranění a dobře odstraňuje radiaci.</text>
+</string>
+
+<string id="af_spirit_1_name">
+	<text>Duhová kapka duše</text>
+</string>
+<string id="af_spirit_1_descr">
+	<text>Jeden z nejvzácnějších artefaktů v Zóně. Rychle odstraňuje radiaci a poskytuje silnou ochranu proti psionickým vlnám. Bez negativních vlastností.</text>
+</string>
+
+<string id="af_spirit_2_name">
+	<text>Ohnivá duše</text>
+</string>
+<string id="af_spirit_2_descr">
+	<text>Jeden z nejvzácnějších artefaktů v Zóně. Rychle léčí zranění a poskytuje silnou ochranu proti tepelným efektům. Bez negativních vlastností.</text>
+</string>
+
+<string id="af_spirit_3_name">
+	<text>Krystalová duše</text>
+</string>
+<string id="af_spirit_3_descr">
+	<text>Jeden z nejvzácnějších artefaktů v Zóně. Rychle obnovuje sílu a chrání proti elektrickým výbojům. Bez negativních vlastností.</text>
+</string>
+
+<string id="af_spirit_4_name">
+	<text>Krystalová duše Bengalu</text>
+</string>
+<string id="af_spirit_4_descr">
+	<text>Jeden z nejvzácnějších artefaktů v Zóně. Rychle obnovuje zdraví a chrání proti chemickým účinkům. Bez negativních vlastností.</text>
+</string>
+
+<string id="af_babka_1_name">
+	<text>Babiččiny korálky</text>
+</string>
+<string id="af_babka_1_descr">
+	<text>Stejně jako Matčiny korálky zastavuje krvácení, ale s nižší dávkou radiace.</text>
+</string>
+
+<string id="af_babka_2_name">
+	<text>Prababiččiny korálky</text>
+</string>
+<string id="af_babka_2_descr">
+	<text>Léčí zranění lépe než Babiččiny korálky, ale má dvojnásobnou radiaci.</text>
+</string>
+
+<string id="af_babka_3_name">
+	<text>Burerovy prababiččiny korálky</text>
+</string>
+<string id="af_babka_3_descr">
+	<text>Jeho časové pole má velký dosah. Zvyšuje ozáření.</text>
+</string>
+
+<string id="af_pudd_1_name">
+	<text>Ohnivá skořápka</text>
+</string>
+<string id="af_pudd_1_descr">
+	<text>Umožňuje nést více váhy, obnovuje energii a léčí drobná zranění. Radioaktivní.</text>
+</string>
+
+<string id="af_pudd_2_name">
+	<text>Světlá skořápka</text>
+</string>
+<string id="af_pudd_2_descr">
+	<text>Zvyšuje nosnost a postupně léčí tělo. Radioaktivní.</text>
+</string>
+
+<string id="af_pudd_3_name">
+	<text>Měsíční skořápka</text>
+</string>
+<string id="af_pudd_3_descr">
+	<text>Léčí zdraví a zranění. Bez negativních vlastností.</text>
+</string>
+
+<string id="af_pudd_4_name">
+	<text>Puding</text>
+</string>
+<string id="af_pudd_4_descr">
+	<text>Výrazně posiluje svaly zad a umožňuje nést větší zátěž. Radioaktivní.</text>
+</string>
+	<string id="af_dik_1_name">
+	<text>Ostnatec</text>
+</string>
+<string id="af_dik_1_descr">
+	<text>Anomální útvar z rodiny ostnatých artefaktů. Stejně jako Baterie výrazně zlepšuje regeneraci tělesných sil.</text>
+</string>
+
+<string id="af_dik_2_name">
+	<text>Elektrický ostnatec</text>
+</string>
+<string id="af_dik_2_descr">
+	<text>Anomální útvar z rodiny ostnatých artefaktů. Stejně jako Sněhová vločka výrazně zvyšuje regeneraci tělesných sil, ale s menší dávkou radiace.</text>
+</string>
+
+<string id="af_dik_3_name">
+	<text>Slizký ostnatec</text>
+</string>
+<string id="af_dik_3_descr">
+	<text>Anomální útvar z rodiny ostnatých artefaktů. Umožňuje nést více munice, obnovuje zdraví a sílu. Radioaktivní.</text>
+</string>
+
+<string id="af_dik_4_name">
+	<text>Kamený ostnatec</text>
+</string>
+<string id="af_dik_4_descr">
+	<text>Anomální útvar z rodiny ostnatých artefaktů. Obnovuje zdraví i sílu, léčí zranění. Radioaktivní.</text>
+</string>
+
+<string id="af_kol_1_name">
+	<text>Ocelový kolobok</text>
+</string>
+<string id="af_kol_1_descr">
+	<text>Tento artefakt je zajímavý především tím, že vytváří pole kolem nositele, které vychyluje vystřelené kulky z jejich dráhy. Ne všechny, ale značnou část. Tento jev je zatím vědecky nevysvětlený. Navíc snižuje citlivost kůže na poranění. Bohužel radioaktivní.</text>
+</string>
+
+<string id="af_kol_2">
+	<text>Titanový kolobok</text>
+</string>
+<string id="enc_zone_artifact_kol_2">
+	<text>Titanový kolobok snižuje citlivost kůže na poranění a oheň, jeho pole vychyluje část střel z trajektorie. Bohužel radioaktivní.</text>
+</string>
+
+<string id="af_kol_3">
+	<text>Diamantový kolobok</text>
+</string>
+<string id="enc_zone_artifact_kol_3">
+	<text>Tento artefakt poskytuje odolnost vůči poranění kůže, snižuje účinky ohně a chemicky agresivního prostředí a jeho pole odklání část střel. Radioaktivní.</text>
+</string>
+
+<string id="af_kol_4_name">
+	<text>Menší bratr obra</text>
+</string>
+<string id="af_kol_4_descr">
+	<text>Tento artefakt získal své jméno díky tomu, že nositeli dodává velkou sílu, ale kvůli vysokému napětí dochází k trhání kůže a krvácení. Radioaktivní.</text>
+</string>
+
+<string id="af_armor_1_name">
+	<text>Kůže</text>
+</string>
+<string id="af_armor_1_descr">
+	<text>Artefakt umožňuje nést více věcí v batohu. Nemá žádné další vlastnosti.</text>
+</string>
+
+<string id="af_armor_2_name">
+	<text>Šupina</text>
+</string>
+<string id="af_armor_2_descr">
+	<text>Šupina má obecně pozitivní účinky na organismus. Radioaktivní.</text>
+</string>
+
+<string id="af_armor_3_name">
+	<text>Zbroj</text>
+</string>
+<string id="af_armor_3_descr">
+	<text>Zbroj snižuje krvácení nositele. Nemá žádné další vlastnosti.</text>
+</string>
+
+<string id="af_armor_4_name">
+	<text>Kůže kontrolora</text>
+</string>
+<string id="af_armor_4_descr">
+	<text>Tento artefakt poskytuje mírnou ochranu proti všem anomálním hrozbám Zóny, ale nejúčinnější je proti psionickým vlnám, odtud jeho název. Radioaktivní.</text>
+</string>
+	<string id="af_simbion_name">
+	<text>Symbion</text>
+</string>
+<string id="af_simbion_descr">
+	<text>Existují zvěsti, že k získání tohoto artefaktu je potřeba vhodit určité artefakty do chemické anomálie. Tyto fámy však vyvracejí stalkerové, kteří ho nacházejí i běžně v anomáliích. Je poměrně estetický, zvyšuje nosnost batohu a obnovuje zdraví, ale zároveň zvyšuje celkovou spotřebu energie. Radioaktivní.</text>
+</string>
+
+<string id="st_af_raibloko_name">
+	<text>Rajské jablko</text>
+</string>
+<string id="st_af_raibloko_descr">
+	<text>Duhově zbarvená kulovitá formace, která se pomalu otáčí půl metru nad zemí. Vydává jemné, téměř neslyšitelné pípání. Zvyšuje citlivost na tepelné účinky, ale na oplátku obnovuje zdraví, sílu a léčí zranění. Radioaktivní.</text>
+</string>
+
+<string id="st_af_poipruz_name">
+	<text>Zpívající pružina</text>
+</string>
+<string id="st_af_poipruz_descr">
+	<text>Poměrně vzácný a drahý artefakt. Velmi účinně odstraňuje radiaci. Bez negativních vlastností.</text>
+</string>
+
+<string id="st_af_seaej_name">
+	<text>Explozivní ježek</text>
+</string>
+<string id="st_af_seaej_descr">
+	<text>Vzhledově skutečně připomíná ježka. Je pokrytý mnoha tupými ostny. Obnovuje sílu, zdraví a léčí zranění. Bez negativních vlastností.</text>
+</string>
+
+<string id="st_af_mayatnik_name">
+	<text>Pendulum</text>
+</string>
+<string id="st_af_mayatnik_descr">
+	<text>Poměrně vzácný artefakt, který lze nalézt pouze v severních oblastech Zóny. Má pozitivní účinky na celý organismus. Radioaktivní.</text>
+</string>
+
+<string id="st_af_lifekam_name">
+	<text>Kámen života</text>
+</string>
+<string id="st_af_lifekam_descr">
+	<text>Jelovité průsvitné koule pokryté vlhkou blánou, na dotek teplé až horké. Zvyšuje nosnost, mírně obnovuje sílu a vitalizuje krev. Bez negativních vlastností.</text>
+</string>
+
+<string id="st_af_vedsleza_name">
+	<text>Čarodějčina slza</text>
+</string>
+<string id="st_af_vedsleza_descr">
+	<text>Poměrně běžný artefakt v centru Zóny. Má protáhlý tvar oranžové kapky se zeleným nádechem. Zvyšuje odolnost vůči elektřině a obnovuje zdraví. Radioaktivní.</text>
+</string>
+
+<string id="st_af_oblivion_name">
+	<text>Zapomnění ztraceno</text>
+</string>
+<string id="st_af_oblivion_descr">
+	<text>Malá, pěst velká modrobílá koule, jako by byla z ledu s tmavě modrými skvrnami. Má celkově příznivý vliv na organismus. Radioaktivní.</text>
+</string>
+
+<string id="st_af_sverlo_name">
+	<text>Vrták</text>
+</string>
+<string id="st_af_sverlo_descr">
+	<text>Artefakt získal své jméno podle podlouhlého válcovitého tvaru se stříbřitým zbarvením. Má pozitivní účinky na celý organismus. Radioaktivní.</text>
+</string>
+
+
+
+
+<string id="st_af_oreh_name">
+	<text>Ořech</text>
+</string>
+<string id="st_af_oreh_descr">
+	<text>Jeden z nejvzácnějších artefaktů Zóny. Je to tmavě hnědá koule velikosti vlašského ořechu, podle čehož získal své jméno. Dodává nositeli vitalitu a efekt nasycení. Radioaktivní.</text>
+</string>
+
+<string id="st_af_chertyaico_name">
+	<text>Ďáblovo vejce</text>
+</string>
+<string id="st_af_chertyaico_descr">
+	<text>Rozměry a tvar vzdáleně připomínají slepičí vejce, má sytě černou barvu a na světle se leskne. Při rozbití uvolní velmi silný impulz neznámé povahy. Zvyšuje elektrickou odolnost a nosnost. Radioaktivní.</text>
+</string>
+
+<string id="st_af_oko_name">
+	<text>Oko</text>
+</string>
+<string id="st_af_oko_descr">
+	<text>Průsvitná vybledlá koule, na okrajích modrozelená, velikosti pěsti. Střed má husté matné zbarvení. Obnovuje zdraví a chrání před toxiny. Radioaktivní.</text>
+</string>
+
+<string id="st_af_skripka_name">
+	<text>Housle</text>
+</string>
+<string id="st_af_skripka_descr">
+	<text>Kulatá třpytivá formace s nulovou gravitací. Artefakt má čistě estetickou hodnotu – levituje půl metru nad povrchem a hraje všemi barvami duhy. Při sebemenším proudění vzduchu vydává melodické tóny, které hypnotizují nositele. Zvyšuje nosnost batohu, ale zároveň zvyšuje sílu a regeneraci zranění. Radioaktivní.</text>
+</string>
+
+<string id="st_amk_yoyo_descr">
+	<text>Vzhled připomíná dvě identické houbové hlavy, podle čehož dostal název. Zvyšuje tepelnou odolnost a umožňuje nést více předmětů. Radioaktivní.</text>
+</string>
+<string id="st_amk_yoyo_name">
+	<text>Dvojčata</text>
+</string>
+
+<string id="st_amk_ice_s_descr">
+	<text>Artefakt generovaný anomálií Gravi, vzhledem připomíná zmrzlinu. Zvyšuje nosnost a chrání proti chemickým anomáliím. Radioaktivní.</text>
+</string>
+<string id="st_amk_ice_s_name">
+	<text>Zmrzlina</text>
+</string>
+
+<string id="st_amk_repei_descr">
+	<text>Zřejmě pojmenován podle rostliny, kterou připomíná. Má celkově příznivý účinek na organismus. Radioaktivní.</text>
+</string>
+<string id="st_amk_repei_name">
+	<text>Řepík</text>
+</string>
+
+<string id="st_amk_ear_descr">
+	<text>Částečně připomíná pavouka, odstraňuje radiaci lépe než Bublina. Bez negativních vlastností.</text>
+</string>
+<string id="st_amk_ear_name">
+	<text>Pavouk</text>
+</string>
+
+<string id="st_amk_snezhok_descr">
+	<text>Malý artefakt, radioaktivní, mírně zvyšuje nosnost a chrání proti psionickým polím.</text>
+</string>
+<string id="st_amk_snezhok_name">
+	<text>Sněhová koule</text>
+</string>
+
+<string id="st_amk_fonar_descr">
+	<text>Artefakt mírně chrání organismus před toxiny. Nemá další vlastnosti.</text>
+</string>
+<string id="st_amk_fonar_name">
+	<text>Lucerna</text>
+</string>
+
+<string id="st_amk_chelust_descr">
+	<text>Artefakt silně připomíná čelist, podle čehož byl pojmenován. Mírně zvyšuje nosnost, zdraví a léčí zranění. Radioaktivní.</text>
+</string>
+<string id="st_amk_chelust_name">
+	<text>Čelist</text>
+</string>
+
+<string id="st_amk_elektron_descr">
+	<text>Artefakt připomíná část atomu. Zvyšuje nosnost, obnovuje zdraví a sílu. Radioaktivní.</text>
+</string>
+<string id="st_amk_elektron_name">
+	<text>Elektron</text>
+</string>
+
+<string id="st_amk_mox_descr">
+	<text>Anomální útvar připomínající průsvitný mech. Mírně obnovuje zdraví, sílu a léčí zranění. Radioaktivní.</text>
+</string>
+<string id="st_amk_mox_name">
+	<text>Mech</text>
+</string>
+
+<string id="st_amk_zhelch_descr">
+	<text>Poměrně běžný artefakt vytvořený anomálií Electra. Umožňuje nést více artefaktů. Radioaktivní.</text>
+</string>
+<string id="st_amk_zhelch_name">
+	<text>Jizva</text>
+</string>
+
+<string id="st_amk_kogot_descr">
+	<text>Nedostatečně prozkoumaný artefakt vytvořený anomálií Electra. Celkově pozitivně ovlivňuje organismus nositele. Radioaktivní.</text>
+</string>
+<string id="st_amk_kogot_name">
+	<text>Dráp</text>
+</string>
+
+<string id="st_amk_atom_descr">
+	<text>Artefakt připomínající atom s jádrem a obíhajícími elektrony. Zvyšuje nosnost a středně chrání proti psionickým polím. Radioaktivní.</text>
+</string>
+<string id="st_amk_atom_name">
+	<text>Atom</text>
+</string>
+
+<string id="st_af_wish_name">
+	<text>Sny</text>
+</string>
+<string id="st_af_wish_descr">
+	<text>Artefakt pojmenoval první stalker, který ho našel, Sanya Filozof. Přes název na něm není nic zvláštního. Mírně zvyšuje nosnost, léčí a ošetřuje drobná zranění. Radioaktivní.</text>
+</string>
+
+<string id="st_af_cristal_drops_name">
+	<text>Slzy nebe</text>
+</string>
+<string id="st_af_cristal_drops_descr">
+	<text>Pevný průhledný artefakt se světelnou substancí uvnitř. Středně chrání proti elektrickým účinkům a obnovuje energii. Radioaktivní.</text>
+</string>
+
+<string id="st_af_black_name">
+	<text>Smrt</text>
+</string>
+<string id="st_af_black_descr">
+	<text>Velmi zvláštní artefakt, jehož chování připomíná parazita. Černý kámen zabíjí svého nositele, ale zároveň zvyšuje sílu a léčí otevřená zranění, jako by nechtěl sdílet krev svého hostitele.</text>
+</string>
+
+
+	<string id="st_af_zelonka_name">
+	<text>Zelenka</text>
+</string>
+<string id="st_af_zelonka_descr">
+	<text>Stejně jako stejnojmenný lék je tento artefakt ceněn a široce používán. Docela dobře obnovuje zdraví a zvyšuje ochranu proti chemickým anomáliím. Navzdory radioaktivitě jej mnoho stalkerů používá.</text>
+</string>
+
+<string id="st_af_kashtan_name">
+	<text>Kaštan</text>
+</string>
+<string id="st_af_kashtan_descr">
+	<text>Artefakt vypadá jako prasklý, přerostlý kaštan s ostrými trny. Docela dobrý artefakt, který pomáhá ve všech ohledech, ale jen nepatrně. Bez negativních vlastností.</text>
+</string>
+
+<string id="st_af_cristall_flower3_descr">
+	<text>Růžový, průsvitný, zrnitý ingot velikosti dlaně. Zvyšuje nosnost, obnovuje zdraví a léčí zranění. Radioaktivní.</text>
+</string>
+<string id="st_af_cristall_flower3_name">
+	<text>Fantom</text>
+</string>
+
+<string id="st_af_vyvert3_descr">
+	<text>Efektní fialový zaoblený krystal. Při kontaktu s artefaktem se celková pohoda člověka zlepšuje. Radioaktivní.</text>
+</string>
+<string id="st_af_vyvert3_name">
+	<text>Samet</text>
+</string>
+
+<string id="st_af_raibloko3_name">
+	<text>Plyš</text>
+</string>
+<string id="st_af_raibloko3_descr">
+	<text>Vypadá jako artefakt Fontána, ale má jiné vlastnosti. Mírně obnovuje sílu a zdraví. Radioaktivní.</text>
+</string>
+
+<string id="st_af_cristall3_name">
+	<text>Trhací kámen</text>
+</string>
+<string id="st_af_cristall3_descr">
+	<text>Anomální útvar složený ze zelených oblouků. Středně chrání proti elektrickým účinkům a léčí zranění. Radioaktivní.</text>
+</string>
+
+<string id="st_af_fireball3_descr">
+	<text>Tenký zlatý útvar malé velikosti, téměř beztížný. Velmi cenný artefakt, který dává nositeli velkou sílu. Stalkerové žertují, že jde o fénixe, který v Zóně ztrácí svá peří. Radioaktivní.</text>
+</string>
+<string id="st_af_fireball3_name">
+	<text>Péřko</text>
+</string>
+
+<string id="st_af_dummy_glassbeads3_descr">
+	<text>Je dobře známo, že radiace z pulsace artefaktu způsobuje srážení krve v otevřených ranách. Artefakt také středně chrání proti tepelným účinkům. Radioaktivní.</text>
+</string>
+<string id="st_af_dummy_glassbeads3_name">
+	<text>Křupky</text>
+</string>
+
+<string id="st_af_eye3_descr">
+	<text>Malý šedohnědý útvar podobný kusu sušeného masa. Má hematopoetický účinek. Léčí zranění a urychluje tvorbu krve. Také středně chrání proti chemikáliím. Radioaktivní.</text>
+</string>
+<string id="st_af_eye3_name">
+	<text>Dárce</text>
+</string>
+
+<string id="st_af_fire3_descr">
+	<text>Velká duhová hmota nepravidelného tvaru s četnými chapadly a slabými barevnými světly. Cenný artefakt, který rychle léčí zranění.</text>
+</string>
+<string id="st_af_fire3_name">
+	<text>Iluze</text>
+</string>
+
+<string id="st_af_mayatnik3_name">
+	<text>Mátový karas</text>
+</string>
+<string id="st_af_mayatnik3_descr">
+	<text>Poměrně vzácný. Lze nalézt pouze v severních oblastech Zóny. Pokud ho máš, skoro můžeš zapomenout, co je to jídlo. Bez negativních vlastností.</text>
+</string>
+
+<string id="st_af_lifekam3_name">
+	<text>Padající anděl</text>
+</string>
+<string id="st_af_lifekam3_descr">
+	<text>Artefakt, jehož vzhled a původ připomínají jiný – Černého anděla. Mírně chrání proti psychickým vlivům a léčí zranění. Radioaktivní.</text>
+</string>
+
+<string id="st_af_blood3_descr">
+	<text>Mikovitý útvar ve tvaru nepravidelného kruhu. Barva se pohybuje od bílé po světle modrou, existují i modré, zelené a šedé varianty. Na dotek připomíná kov, ale ve skutečnosti se skládá z tenkých šupin neznámého materiálu. Ceněn pro svou vzácnou krásu a léčivé účinky. Radioaktivní.</text>
+</string>
+<string id="st_af_blood3_name">
+	<text>Náramek</text>
+</string>
+
+<string id="st_af_fuzz_kolobok3_descr">
+	<text>Zelené křehké hrudky, které při kontaktu se vzduchem tvrdnou do tmavé kůry. Středně chrání proti psychickým polím, mírně zvyšuje nosnost a postupně obnovuje zdraví nositele. Radioaktivní.</text>
+</string>
+<string id="st_af_fuzz_kolobok3_name">
+	<text>Zelený exklay</text>
+</string>
+
+<string id="st_af_glass3_name">
+	<text>Bezé</text>
+</string>
+<string id="st_af_glass3_descr">
+	<text>Artefakt, jehož tvar a fyzikální vlastnosti připomínají bezé. Mírně zvyšuje nosnost, obnovuje sílu a léčí drobná zranění. Radioaktivní.</text>
+</string>
+
+<string id="st_af_baloon3_descr">
+	<text>Kousek stlačených sněhových vloček a drobných částí obětí anomálie, tvar připomíná srdce. Má pozitivní účinek na celý organismus. Radioaktivní.</text>
+</string>
+<string id="st_af_baloon3_name">
+	<text>Ledové srdce</text>
+</string>
+
+<string id="st_af_vedsleza3_name">
+	<text>Kroužek</text>
+</string>
+<string id="st_af_vedsleza3_descr">
+	<text>Anomální útvar připomínající špinavý zlatý prsten. Při nošení mírně léčí nositele. Mírně radioaktivní.</text>
+</string>
+
+<string id="st_af_gubka3_name">
+	<text>Houba</text>
+</string>
+<string id="st_af_gubka3_descr">
+	<text>Poměrně běžná smaragdová viskózní hmota vytvořená v anomálii „Jelly“. Při nošení mírně léčí zranění. Mírně radioaktivní.</text>
+</string>
+
+<string id="st_af_electra_sparkler3_descr">
+	<text>Obručovitá krystalická hmota barvy mořské vlny. Cenný artefakt, který dobře obnovuje sílu organismu a odstraňuje radiaci. Radioaktivní.</text>
+</string>
+<string id="st_af_electra_sparkler3_name">
+	<text>Kousek nebe</text>
+</string>
+
+<string id="st_af_electra_flash3_descr">
+	<text>Fialový kámen, jehož velikost a tvar připomíná houbu. Středně chrání proti tepelným účinkům a mírně obnovuje energii. Radioaktivní.</text>
+</string>
+
+	<string id="st_af_electra_flash3_name">
+	<text>Modrý karbunkl</text>
+</string>
+
+<string id="st_af_dummy_battery3_descr">
+	<text>Bílý prstenec s modrými odlesky vyrobený z lehkého sklovitého materiálu. Pokud je nasazen na tenkou vodorovnou tyč a lehce roztočen, pohybuje se dál, dokud jej nezastaví vnější síla. První „věčný stroj“ nalezený v Zóně. Středně chrání proti chemikáliím a mírně obnovuje zásoby energie. Radioaktivní.</text>
+</string>
+
+<string id="st_af_dummy_battery3_name">
+	<text>Náhrdelník</text>
+</string>
+
+<string id="st_af_dummy_dummy3_descr">
+	<text>Artefakt připomíná modrého pavouka, podle čehož také získal své jméno. Rychle odstraňuje nahromaděnou radiaci, a proto je velmi ceněný všemi obyvateli Černobylské zóny vyloučení. Bez negativních vlastností.</text>
+</string>
+
+<string id="st_af_dummy_dummy3_name">
+	<text>Elektrický pavouk</text>
+</string>
+
+<string id="st_af_ice3_descr">
+	<text>Mléčně bílá spirálovitá hmota. Středně chrání proti psi vlivům a obnovuje energii.</text>
+</string>
+
+<string id="st_af_ice3_name">
+	<text>Serpentýn</text>
+</string>
+
+<string id="st_af_oblivion3_name">
+	<text>Chobotnice</text>
+</string>
+
+<string id="st_af_oblivion3_descr">
+	<text>Artefakt vypadá jako chobotnice s chapadly po stranách. Mírně zvyšuje nosnost, obnovuje sílu a léčí drobná poranění. Radioaktivní.</text>
+</string>
+
+<string id="st_af_indeikam3_name">
+	<text>Indický kámen</text>
+</string>
+
+<string id="st_af_indeikam3_descr">
+	<text>Světle šedý kámen kulatého tvaru o velikosti husího vejce. Má tmavší ornamentální vlnité čáry a tečky, jako by byly namalované. Mírně zvyšuje maximální nosnost a léčí organismus. Radioaktivní.</text>
+</string>
+
+<string id="af-ameba-mica">
+	<text>"Rtuťová koule"</text>
+</string>
+
+<string id="af-ameba-slime">
+	<text>"Radioaktivní šroub"</text>
+</string>
+
+<string id="af-ameba-slug">
+	<text>"Radioaktivní úlomek"</text>
+</string>
+
+<string id="af-blood">
+	<text>"Ropuchovo oko"</text>
+</string>
+
+<string id="af-cristall-flower">
+	<text>"Skleněný bagel"</text>
+</string>
+
+<string id="af-dummy-glassbeads">
+	<text>"Mrtvá hlava"</text>
+</string>
+
+<string id="af-dummy-spring">
+	<text>"Bludička"</text>
+</string>
+
+<string id="af-electra-flash">
+	<text>"Hořící cukrová vata"</text>
+</string>
+
+<string id="af-electra-moonlight">
+	<text>"Elektrický balón"</text>
+</string>
+
+<string id="af-electra-sparkler">
+	<text>"Rtuť"</text>
+</string>
+
+<string id="af-fireball">
+	<text>"Průhledná koule"</text>
+</string>
+
+<string id="af-medusa">
+	<text>"Bagel"</text>
+</string>
+
+<string id="af-mincer-meat">
+	<text>"Rezavé vlasy"</text>
+</string>
+
+<string id="af-night-star">
+	<text>"Magnet"</text>
+</string>
+
+<string id="af-rusty-sea-urchin">
+	<text>"Jehly"</text>
+</string>
+
+<string id="af-vyvert">
+	<text>"Fragment gravi"</text>
+</string>
+
+<string id="enc_zone_artifact_af-ameba-mica">.
+	<text>Skládá se z kapalného kovu anomálního původu. Vzniká po emisi, existuje jen krátkou dobu a poté se vypaří.</text>
+</string>
+
+<string id="enc_zone_artifact_af-ameba-slime">.
+	<text>Levné artefakty ve formě kovového šrotu a stavebního odpadu. Nemají žádné užitečné vlastnosti. Zajímají pouze výzkumníky kvůli měření radiace.</text>
+</string>
+
+<string id="enc_zone_artifact_af-ameba-slug">.
+	<text>Levné artefakty ve formě kovového šrotu a stavebního odpadu. Nemají žádné užitečné vlastnosti. Zajímají pouze výzkumníky kvůli měření radiace.</text>
+</string>
+
+<string id="enc_zone_artifact_af-blood">
+	<text>Unikátní artefakt. Výsledek interakce mezi Crystal Barb a Meatgrinderem. Vzácně se objevuje v klastrech anomálií.</text>
+</string>
+
+<string id="enc_zone_artifact_af-cristall">
+	<text>Objevuje se v klastrech anomálií. Chrání proti bezvědomí, obnovuje sílu a poskytuje ochranu proti psi účinkům.</text>
+</string>
+
+<string id="enc_zone_artifact_af-cristall-flower">
+	<text>Zrozen v anomálii „Trumplin“. Takový artefakt lze nalézt jen v několika oblastech Zóny. Příměsi kovových sloučenin vytvářejí nádhernou hru světla. Pohled na tento artefakt v záři ohně v noci působí neobyčejně uklidňujícím dojmem.</text>
+</string>
+
+<string id="enc_zone_artifact_af-drops">
+	<text>Vzniká v anomálii Roast při vysokých teplotách. Vypadá jako zčernalá kapkovitá formace s lesklým povrchem pokrytým prasklinami.</text>
+</string>
+
+<string id="enc_zone_artifact_af-dummy-battery">.
+	<text>Superartefakt elektromagnetické povahy. Směrované pole rozpadu. Původ tohoto předmětu je zahalen vědeckým tajemstvím. Je jasné, že obsahuje dielektrické prvky, ale za jakých fyzikálních podmínek vzniká, věda neví. Umožňuje nést o 4 kg více.</text>
+</string>
+
+<string id="enc_zone_artifact_af-dummy-dummy">.
+	<text>Nošení tohoto artefaktu zpomaluje denaturaci proteinů. Jinými slovy, tělo je odolnější vůči vysokým teplotám a méně se spaluje. Sám o sobě jde o drahý a vzácný předmět.</text>
+</string>
+	<string id="st_af_cristall_flower3_name">
+	<text>Fantom</text>
+</string>
+<string id="st_af_cristall_flower3_descr">
+	<text>Růžový, průsvitný zrnitý ingot velikosti dlaně. Zvyšuje nosnost, obnovuje zdraví a léčí zranění. Radioaktivní.</text>
+</string>
+
+<string id="st_af_vyvert3_name">
+	<text>Samet</text>
+</string>
+<string id="st_af_vyvert3_descr">
+	<text>Fialový krystal nepravidelného tvaru. Při kontaktu s artefaktem se celkový stav člověka zlepšuje. Radioaktivní.</text>
+</string>
+
+<string id="st_af_raibloko3_name">
+	<text>Plyš</text>
+</string>
+<string id="st_af_raibloko3_descr">
+	<text>Vypadá jako artefakt Fountain, ale má jiné vlastnosti. Mírně obnovuje sílu a zdraví. Radioaktivní.</text>
+</string>
+
+<string id="st_af_cristall3_name">
+	<text>Vytahovací kámen</text>
+</string>
+<string id="st_af_cristall3_descr">
+	<text>Anomální útvar tvořený zelenými oblouky. Středně chrání před elektrickými účinky a léčí zranění. Radioaktivní.</text>
+</string>
+
+<string id="st_af_fireball3_name">
+	<text>Prachové pírko</text>
+</string>
+<string id="st_af_fireball3_descr">
+	<text>Tenký zlatavý útvar malé velikosti, téměř bez hmotnosti. Velmi cenný artefakt, který výrazně posiluje nositele. Stalkaři vtipkují, že jde o pírko fénixe ze Zóny. Radioaktivní.</text>
+</string>
+
+<string id="st_af_dummy_glassbeads3_name">
+	<text>Křupky</text>
+</string>
+<string id="st_af_dummy_glassbeads3_descr">
+	<text>Dobře známé je, že radiace z pulzace artefaktu způsobuje srážení krve v otevřených ranách. Artefakt také středně chrání před tepelnými účinky. Radioaktivní.</text>
+</string>
+
+<string id="st_af_eye3_name">
+	<text>Dárce</text>
+</string>
+<string id="st_af_eye3_descr">
+	<text>Malý šedohnědý útvar připomínající kus sušeného masa. Má krvetvorný účinek. Léčí zranění a urychluje tvorbu krve. Také středně chrání před chemikáliemi. Radioaktivní.</text>
+</string>
+
+<string id="st_af_fire3_name">
+	<text>Iluze</text>
+</string>
+<string id="st_af_fire3_descr">
+	<text>Velká duhová hmota nepravidelného tvaru s četnými „chapadly“ a slabým blikáním více barev. Cenný artefakt, rychle hojí zranění.</text>
+</string>
+
+<string id="st_af_mayatnik3_name">
+	<text>Mátový karas</text>
+</string>
+<string id="st_af_mayatnik3_descr">
+	<text>Poměrně vzácný. Lze najít jen v severních oblastech Zóny. Pokud ho máš, můžeš skoro zapomenout, co je hlad. Bez negativních vlastností.</text>
+</string>
+
+<string id="st_af_lifekam3_name">
+	<text>Padající anděl</text>
+</string>
+<string id="st_af_lifekam3_descr">
+	<text>Artefakt, jehož vzhled a původ připomínají jiný – Černého anděla. Mírně chrání před psychickým působením a léčí zranění. Radioaktivní.</text>
+</string>
+
+<string id="st_af_blood3_name">
+	<text>Náramek</text>
+</string>
+<string id="st_af_blood3_descr">
+	<text>Mikroskopický útvar ve tvaru nepravidelného kruhu. Barva se pohybuje od bílé po světle modrou, vyskytují se i modré, zelené a šedé kusy. Na dotek připomíná kov, ale ve skutečnosti je tvořen tenkými šupinami neznámého materiálu. Ceněn pro svou vzácnou krásu a léčivé účinky. Radioaktivní.</text>
+</string>
+
+<string id="st_af_fuzz_kolobok3_name">
+	<text>Zelený exklay</text>
+</string>
+<string id="st_af_fuzz_kolobok3_descr">
+	<text>Zelené křehké hrudky, které při kontaktu se vzduchem tvrdnou do tmavé krusty. Středně chrání před psi poli, mírně zvyšují nosnost a postupně obnovují zdraví. Radioaktivní.</text>
+</string>
+
+<string id="st_af_glass3_name">
+	<text>Sněhová pusinka</text>
+</string>
+<string id="st_af_glass3_descr">
+	<text>Artefakt, jehož tvar a vlastnosti připomínají pusinku. Mírně zvyšuje nosnost, obnovuje sílu a léčí řezné rány. Radioaktivní.</text>
+</string>
+
+<string id="st_af_baloon3_name">
+	<text>Ledové srdce</text>
+</string>
+<string id="st_af_baloon3_descr">
+	<text>Kus stlačených sněhových vloček a částí obětí anomálie ve tvaru srdce. Má celkově pozitivní vliv na organismus. Radioaktivní.</text>
+</string>
+
+<string id="st_af_vedsleza3_name">
+	<text>Kruh</text>
+</string>
+<string id="st_af_vedsleza3_descr">
+	<text>Anomální útvar připomínající špinavý zlatý prsten. Při nošení mírně léčí nositele. Mírně radioaktivní.</text>
+</string>
+
+<string id="st_af_gubka3_name">
+	<text>Houba</text>
+</string>
+<string id="st_af_gubka3_descr">
+	<text>Poměrně běžná smaragdová viskózní hmota vytvořená anomálií Jelly. Při nošení mírně léčí rány. Mírně radioaktivní.</text>
+</string>
+
+<string id="st_af_electra_sparkler3_name">
+	<text>Střep nebe</text>
+</string>
+<string id="st_af_electra_sparkler3_descr">
+	<text>Obručovitý krystalický útvar barvy mořské vlny. Cenný artefakt, který dobře obnovuje sílu organismu a odstraňuje radiaci. Radioaktivní.</text>
+</string>
+
+<string id="st_af_electra_flash3_name">
+	<text>Modrý karbunkl</text>
+</string>
+<string id="st_af_electra_flash3_descr">
+	<text>Fialový kámen velikostí a tvarem připomínající houbu. Středně chrání před tepelnými účinky, mírně obnovuje energii. Radioaktivní.</text>
+</string>
+
+<string id="st_af_dummy_battery3_name">
+	<text>Náhrdelník</text>
+</string>
+<string id="st_af_dummy_battery3_descr">
+	<text>Bílý prsten s modrými odlesky z lehkého sklovitého materiálu. Po nasazení na tyč a roztočení se pohybuje, dokud není zastaven. První „Věčný motor“ nalezený v Zóně. Středně chrání před chemikáliemi, mírně obnovuje energii. Radioaktivní.</text>
+</string>
+
+<string id="st_af_dummy_dummy3_name">
+	<text>Elektrický pavouk</text>
+</string>
+<string id="st_af_dummy_dummy3_descr">
+	<text>Artefakt připomíná modrého pavouka. Rychle odstraňuje radiaci a je proto velmi ceněn. Nemá negativní vlastnosti.</text>
+</string>
+
+<string id="st_af_ice3_name">
+	<text>Serpentin</text>
+</string>
+<string id="st_af_ice3_descr">
+	<text>Mléčně bílý spirálovitý útvar. Středně chrání před psi působením a obnovuje energii.</text>
+</string>
+
+<string id="st_af_oblivion3_name">
+	<text>Chobotnice</text>
+</string>
+<string id="st_af_oblivion3_descr">
+	<text>Artefakt připomínající chobotnici s chapadly po stranách. Mírně zvyšuje nosnost, obnovuje sílu a léčí řezné rány. Radioaktivní.</text>
+</string>
+
+<string id="st_af_indeikam3_name">
+	<text>Indický kámen</text>
+</string>
+<string id="st_af_indeikam3_descr">
+	<text>Světle šedý kámen velikosti husího vejce. Povrch zdobí vlnité linie a tečky. Mírně zvyšuje nosnost a léčí organismus. Radioaktivní.</text>
+</string>
+
+	
+</string_table>

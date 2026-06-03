@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+	
+	<string id="st_grenade_electro">
+	<text>Granát RGD-Electra</text>
+</string>
+<string id="st_grenade_electro_descr">
+	<text>Sovětský útočný ruční granát s výraznými úpravami — místo běžných střepin obsahuje úlomky elektrických artefaktů, což z něj činí skutečnou hrozbu pro obyvatele Zóny. Je určen proti velkým skupinám rychle se pohybujících mutantů, jako jsou: snorkové, kočky, psi nebo divočáci. Podle pověstí může takový granát (pokud se dobře trefíš) sestřelit i vrtulník. Má velký poloměr zničení. Před odhozením takového granátu je nutné najít si kryt!\n \n
+	%c[d_purple] • %c[ui_gray_2] síla exploze: %c[ui_gray_1]vysoká\n
+	%c[d_purple] • %c[ui_gray_2] poloměr exploze: %c[ui_gray_1]5,2 m\n
+	%c[d_purple] • %c[ui_gray_2] poloměr poškození střepinami: %c[ui_gray_1]50 m\n
+	%c[d_purple] • %c[ui_gray_2] počet fragmentů: %c[ui_gray_1]240 (úlomky artefaktu)\n
+	%c[d_purple] • %c[ui_gray_2] zpoždění exploze: %c[ui_gray_1]~3 sekundy</text>
+</string>	
+
+<string id="st_grenade_jarka">
+	<text>Granát RGD-Jarka</text>
+</string>
+<string id="st_grenade_jarka_descr">
+	<text>Sovětský útočný ruční granát s výraznými úpravami — místo běžných střepin obsahuje fragmenty ohnivých artefaktů, což z něj činí skutečnou hrozbu pro všechny obyvatele Zóny. Je určen hlavně proti pomalejším mutantům, jako jsou: zombíci, kontroloři, poltergeisti nebo buřeři. Má podprůměrný dosah. Před odhozením takového granátu je nutné najít si kryt!\n
+	%c[d_purple] • %c[ui_gray_2] síla exploze: %c[ui_gray_1]nízká\n
+	%c[d_purple] • %c[ui_gray_2] poloměr exploze: %c[ui_gray_1]3,2 m\n
+	%c[d_purple] • %c[ui_gray_2] poloměr poškození střepinami: %c[ui_gray_1]25 m\n
+	%c[d_purple] • %c[ui_gray_2] počet fragmentů: %c[ui_gray_1]240 (úlomky artefaktu)\n
+	%c[d_purple] • %c[ui_gray_2] zpoždění exploze: %c[ui_gray_1]~2 sekundy</text>
+</string>	
+
+<string id="st_grenade_web">
+	<text>Granát RGD-Pavučina</text>
+</string>
+<string id="st_grenade_web_descr">
+	<text>Sovětský útočný ruční granát s výraznými úpravami — místo běžných střepin obsahuje fragmenty chemických artefaktů, což z něj činí skutečnou hrozbu pro všechny obyvatele Zóny. Je určen hlavně proti velmi dobře vybaveným lidem. Způsobuje těžké popáleniny a má podprůměrný poloměr účinku. Před odhozením takového granátu je nutné najít si kryt!\n
+	%c[d_purple] • %c[ui_gray_2] síla exploze: %c[ui_gray_1]vysoká\n
+	%c[d_purple] • %c[ui_gray_2] poloměr exploze: %c[ui_gray_1]6,2 m\n
+	%c[d_purple] • %c[ui_gray_2] poloměr poškození střepinami: %c[ui_gray_1]70 m\n
+	%c[d_purple] • %c[ui_gray_2] počet fragmentů: %c[ui_gray_1]400 (úlomky artefaktu)\n
+	%c[d_purple] • %c[ui_gray_2] zpoždění exploze: %c[ui_gray_1]~2,5 sekundy</text>
+</string>	
+
+<string id="st_grenade_voronka">
+	<text>Granát RGD-Voronka</text>
+</string>
+<string id="st_grenade_voronka_descr">
+	<text>Sovětský útočný ruční granát s výraznými úpravami — místo běžných střepin obsahuje fragmenty gravitačních artefaktů, což z něj činí skutečnou hrozbu pro všechny obyvatele Zóny. Je určen proti nejsilnějším obyvatelům Zóny, jako jsou: pseudogiganti, bibliotekáři nebo chiméry. Má průměrný poloměr poškození. Před odhozením takového granátu je nutné najít si kryt!\n
+	%c[d_purple] • %c[ui_gray_2] síla exploze: %c[ui_gray_1]střední\n
+	%c[d_purple] • %c[ui_gray_2] poloměr exploze: %c[ui_gray_1]4 m\n
+	%c[d_purple] • %c[ui_gray_2] poloměr poškození střepinami: %c[ui_gray_1]30 m\n
+	%c[d_purple] • %c[ui_gray_2] počet fragmentů: %c[ui_gray_1]165 (úlomky artefaktu)\n
+	%c[d_purple] • %c[ui_gray_2] zpoždění exploze: %c[ui_gray_1]~3 sekundy</text>
+</string>
+
+
+</string_table>

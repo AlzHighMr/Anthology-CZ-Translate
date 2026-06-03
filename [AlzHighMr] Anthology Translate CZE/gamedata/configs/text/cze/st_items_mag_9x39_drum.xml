@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+ <!-- 9x39 -->
+	
+<string id="st_mag_val_9x39_drum">
+    <text>9×39 bubnový zásobník na 50 nábojů</text>
+</string>
+
+<string id="st_mag_val_9x39_drum_descr">
+    <text>
+        Bubnový zásobník na 50 nábojů ráže 9×39 určený pro pušky této ráže. Zvyšuje kapacitu, ale je těžší a méně skladný než standardní zásobníky.
+    </text>
+</string>
+
+	
+</string_table>

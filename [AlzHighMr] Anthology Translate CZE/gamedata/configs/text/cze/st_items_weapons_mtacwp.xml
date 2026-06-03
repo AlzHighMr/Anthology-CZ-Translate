@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+
+	<string id="st_wpn_9a91_sn_descr">
+	<text>
+		Kompaktní automatická karabina 9A-91 byla vyvinuta v roce 1992 v Tulském konstrukčním kanceláři jako technologicky vyspělejší konkurent SR-3 „Vikhr“.
+		9A-91 pracuje na principu odběru plynů s otočným závorníkem se čtyřmi uzamykacími ozuby.
+		Bicí spoušťový mechanismus umožňuje jak jednotlivé výstřely, tak plně automatickou střelbu.
+		Pojistka-volič režimů střelby je umístěna na levé straně pouzdra závěru nad lučíkem spouště
+		(u pozdějších verzí byla přesunuta na pravou stranu kvůli montážní liště pro optiku vlevo).
+		První varianty byly vybaveny úsťovou brzdou-kompenzátorem, který byl později odstraněn.
+		Sklopná pažba se sklápí nahoru a dopředu a stejně jako většina zbraně je vyrobena z oceli,
+		s výjimkou polymerové rukojeti a předpažbí.
+		Ve složeném stavu je zbraň vhodná pro skryté nošení.
+		Za tímto účelem je sklopné i nabíjecí táhlo.
+		Na rozdíl od samopalů systému Kalašnikov zůstává drážka nabíjecího táhla trvale otevřená. \n \n
+		%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+		%c[d_purple] • %c[ui_gray_2] Optika: všechny kolimátory pro Picatinny a rybinovou montáž, ACOG, ELCAN SpecterDR \n
+		%c[d_purple] • %c[ui_gray_2] Tlumič pro 9A-91 / VSK-94\n \n
+	</text>
+</string>
+
+<string id="st_wpn_ak9">
+	<text>AK-9</text>
+</string>
+
+<string id="st_wpn_ak9_descr">
+	<text>
+		AK-9 je kompaktní útočná puška vyvinutá v Ižmaši na základě AK-74M,
+		určená pro speciální jednotky Ozbrojených sil Ruské federace a Ministerstva vnitra.
+		Během vývoje se konstruktéři snažili překonat existující konkurenty jako AS Val a SR-3M.
+		AK-9 je zkrácená automatická zbraň postavená na standardní platformě AK-74M.
+		Hlavní rozdíly jsou zkrácená hlaveň a plynový systém, spolu s přepracovanou pistolovou rukojetí
+		s výrazně lepší ergonomií.
+		Zbraň používá subsonické náboje 9x39 mm jako SP-5, SP-6 a PAB-9.
+		Na rozdíl od mnoha jiných zbraní ráže 9x39 nemá AK-9 problémy se spolehlivostí při použití silnějších a levnějších nábojů PAB-9.
+		Na hlaveň lze nasadit rychloupínací tlumič. \n \n
+		%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+		%c[d_purple] • %c[ui_gray_2] Optika: všechny zaměřovače pro Picatinny a rybinovou montáž \n
+		%c[d_purple] • %c[ui_gray_2] Tlumič: ATG\n
+	</text>
+</string>
+
+<string id="st_wpn_ak74u_snag">
+	<text>AKS-74U „Snag“</text>
+</string>
+
+<string id="st_wpn_ak74u_snag_sn_descr">
+	<text>
+		AKS-74U byl vyvinut jako hlavní zbraň pro speciální jednotky, výsadkové jednotky,
+		a posádky obrněné techniky, které potřebují kompaktní, ale výkonnou automatickou zbraň.
+		AKS-74U je výrazně obratnější v uzavřených prostorech a vozidlech než plnohodnotný AKS-74.
+		Jeho krátká hlaveň a výrazně snížená úsťová rychlost však znamenají omezený účinný dostřel.
+		Tato konkrétní zbraň dříve patřila stalkerovi známému jako Snag. \n \n
+		%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+		%c[d_purple] • %c[ui_gray_2] Kolimátor Kobra EKP-8-18 (integrovaný)\n
+		%c[d_purple] • %c[ui_gray_2] Taktická přední rukojeť (integrovaná)\n
+		%c[d_purple] • %c[ui_gray_2] Tlumič PBS-4 (integrovaný)\n \n
+	</text>
+</string>
+
+<string id="st_wpn_asvk">
+	<text>ASVK</text>
+</string>
+
+<string id="st_wpn_asvk_descr">
+	<text>
+		ASVK (armádní velkorážová odstřelovací puška; GRAU index 6V7 s optikou a nočními zaměřovači)
+		je ruská velkorážová odstřelovací puška vyvinutá v roce 2004 konstrukčním týmem v závodě Degťarjova v Kovrovu,
+		na základě platforem KSVK a SVN-98.
+		ASVK je v současnosti používána výhradně ruskou armádou.
+		Několik těchto pušek se dostalo i do Zóny spolu s jednotkami PMC,
+		což naznačuje možné vazby mezi některými žoldnéřskými skupinami a ruskou vládou.
+		V Zóně je poměrně vzácná a obvykle ji používají žoldnéři a hlídky Duty,
+		kteří s ní likvidují nebezpečné mutanty na velkou vzdálenost, protože její munice dokáže zabít téměř jakéhokoli tvora. \n \n
+		%c[d_purple] • %c[ui_gray_2] Úsťové zařízení: integrovaný originální kompenzátor.\n
+		%c[0,93,0,116] • %c[0,140,140,140] PŘÍSLUŠENSTVÍ: Optika: všechny odstřelovací a noční zaměřovače pro Picatinny a rybinovou montáž. \n \n
+	</text>
+</string>
+<string id="st_wpn_bizon_sn">
+	<text>PP-19 „Bizon“ 2-01</text>
+</string>
+
+<string id="st_wpn_bizon_sn_descr">
+	<text>
+		PP-19 „Bizon“ 2-01 (9x19 mm) varianta s možností úpravy na ráži .357,
+		vybavená laserovým zaměřovacím modulem. \n \n
+		%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+		%c[d_purple] • %c[ui_gray_2] Optika: všechny zaměřovače pro Picatinny a rybinovou montáž.\n
+		%c[d_purple] • %c[ui_gray_2] Tlumič PBS-1\n \n
+	</text>
+</string>
+
+<string id="st_wpn_famas3_sn_descr">
+	<text>
+		Puška FAMAS G2, vyvinutá v roce 1994, se od svého předchůdce FAMAS F1
+		liší především zásobníkovou šachtou kompatibilní se zásobníky STANAG pro M16,
+		a také upraveným stoupáním vývrtu hlavně.
+		Disponuje nejvyšší kadencí střelby ze všech pušek v Zóně. \n \n
+		%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+		%c[d_purple] • %c[ui_gray_2] NATO tlumič\n
+		%c[d_purple] • %c[ui_gray_2] Optika: všechny zaměřovače pro Picatinny a rybinovou montáž.\n \n
+	</text>
+</string>
+
+<string id="st_wpn_fn2000_sn_descr">
+	<text>
+		Tato futuristicky vypadající zbraň je sériově vyráběná útočná puška belgické firmy FN Herstal.
+		Navzdory svému objemnému vzhledu nabízí výbornou ergonomii, snadné ovládání ve všech režimech střelby
+		a vysokou celkovou spolehlivost. \n \n
+		%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+		%c[d_purple] • %c[ui_gray_2] Optika: standardní zaměřovač, všechny optiky kompatibilní s Picatinny.\n
+		%c[d_purple] • %c[ui_gray_2] NATO tlumič\n \n
+	</text>
+</string>
+
+<string id="st_wpn_fs2000_gl">
+	<text>FN FS2000 GL</text>
+</string>
+
+<string id="st_wpn_fs2000_gl_sn_descr">
+	<text>
+		Tato futuristicky vypadající zbraň je sériově vyráběná útočná puška firmy FN Herstal.
+		Navzdory objemnému vzhledu nabízí výbornou ergonomii, ovladatelnost a spolehlivost.
+		Verze FS je vybavena podvěsným granátometem FN40GL,
+		odvozeným z GL1 používaného v systému SCAR a kompatibilním také s FN F/FS2000.
+		Disponuje delší hlavní 443 mm, která zlepšuje přesnost a zvyšuje úsťovou energii. \n \n
+		%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+		%c[d_purple] • %c[ui_gray_2] Optika: všechny zaměřovače pro Picatinny montáž.\n
+		%c[d_purple] • %c[ui_gray_2] NATO tlumič\n
+		%c[d_purple] • %c[ui_gray_2] podvěsný granátomet FN40GL-S (integrovaný)\n \n
+	</text>
+</string>
+
+<string id="st_wpn_fn2000_tact">
+	<text>FN F2000 „Tact“</text>
+</string>
+
+<string id="st_wpn_fn2000_tact_descr">
+	<text>
+		Tato futuristicky vypadající zbraň je sériově vyráběná útočná puška firmy FN Herstal.
+		Navzdory objemnému vzhledu nabízí výbornou ergonomii, ovladatelnost a spolehlivost.
+		Tento konkrétní model byl výrazně upraven zónovými techniky,
+		výměnou předpažbí za taktickou rukojeť a přidáním Picatinny lišty pro kolimátory.
+		Zbraň je zjevně optimalizovaná pro boj na krátkou vzdálenost, což se projevuje zvýšenou kadencí střelby. \n \n
+		%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+		%c[d_purple] • %c[ui_gray_2] Optika: standardní zaměřovač, všechny optiky kompatibilní s Picatinny.\n
+		%c[d_purple] • %c[ui_gray_2] NATO tlumič\n \n
+	</text>
+</string>
+
+<string id="st_wpn_groza_4">
+	<text>OTs-14-4A „Groza-4“</text>
+</string>
+
+<string id="st_wpn_groza_4_descr">
+	<text>
+		Jedna z variant zbraňového systému OTs-14-4A.
+		V konfiguraci „Groza-4A“ byla zvýšena kadence, plošší balistika
+		a kapacita zásobníku díky použití lehčí munice 9x39 mm.
+		Tato varianta byla vyráběna pouze v malých experimentálních sériích.
+		Několik kusů se dostalo do Zóny, ale kvůli průměrnému výkonu
+		si nezískaly velkou oblibu.
+		Obchodníci je proto začali upravovat 60ranným sektorovým zásobníkem
+		a přidali Zenit „KLESH-2PS + LAM“ svítilnu, čímž se zvýšila jejich použitelnost. \n \n
+		%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+		%c[d_purple] • %c[ui_gray_2] PO 4x34 optika, všechny Picatinny kompatibilní optiky.\n
+		%c[d_purple] • %c[ui_gray_2] Tlumič: 9A-91\n
+		%c[d_purple] • %c[ui_gray_2] podvěsný granátomet GP-25 (integrovaný)\n
+		%c[ui_gray_2] Výbava:\n
+		%c[d_purple] • %c[ui_gray_2] Picatinny/Weaver adaptér,\n
+		%c[d_purple] • %c[ui_gray_2] „KLESH-2PS + LAM“ LED svítilna.\n
+	</text>
+</string>
+
+<string id="st_wpn_groza_nimble_60">
+	<text>OTs-14-1A „Groza-1“</text>
+</string>
+
+<string id="st_wpn_groza_nimble_60_descr">
+	<text>
+		Jedna z variant OTs-14-1A. Ve verzi „Groza-1“ byly zlepšeny kadence, balistika a kapacita zásobníku díky použití lehčí munice 7,62x39 mm.
+		Tento typ byl vyráběn pouze v malých experimentálních sériích.
+		Některé kusy se dostaly do Zóny, ale nikdy nezískaly velkou popularitu.
+		Obchodníci proto nahrazují standardní 30ranný zásobník 60ranným bubnovým zásobníkem
+		a doplňují zbraň o Zenit „Kleshch-2PS + Laser“ svítilnu, což mírně zvyšuje její použitelnost.\n \n
+		%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+		%c[d_purple] • %c[ui_gray_2] Optika: PO4x34, všechny Picatinny kompatibilní optiky.\n
+		%c[d_purple] • %c[ui_gray_2] Tlumič: ATG\n
+		%c[d_purple] • %c[ui_gray_2] GP-25 (integrovaný)\n
+		%c[ui_gray_2] Výbava:\n
+		%c[d_purple] • %c[ui_gray_2] Picatinny/Weaver adaptér,\n
+		%c[d_purple] • %c[ui_gray_2] Zenit „Kleshch-2PS + Laser“ taktické světlo.\n
+	</text>
+</string>
+
+<string id="st_wpn_groza_545">
+	<text>OTs-14-2A „Groza“</text>
+</string>
+
+<string id="st_wpn_groza_545_descr">
+	<text>
+		OTs-14-2A je experimentální bullpup varianta Grozy v ráži 5,45x39 mm.
+		Projekt nebyl dokončen kvůli preferenci silnější 7,62x39 mm munice.
+		Tato verze představuje zónovou úpravu napodobující experimentální variantu
+		výměnou hlavně pro použití běžnější munice 5,45x39 mm.
+		Zbraň je také upravena pro optiku PSO-1M.\n \n
+		%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+		%c[d_purple] • %c[ui_gray_2] všechny Picatinny a rybinové kolimátory.\n
+		%c[d_purple] • %c[ui_gray_2] GP-25 (integrovaný)\n \n
+	</text>
+</string>
+
+<string id="st_wpn_ksvk">
+	<text>KSVK 12.7</text>
+</string>
+
+<string id="st_wpn_ksvk_descr">
+	<text>
+		KSVK je ruská velkorážová odstřelovací puška ráže 12,7x108 mm vyvinutá v závodě Degťarjova koncem 90. let.
+		Je určena k ničení vozidel, odstřelovačů a nepřátel v těžkém pancíři nebo za krytem.
+		Jde o bullpup konstrukci s manuálním závěrem.
+		Puška je relativně přesná, ale velmi těžká a neobratná.
+		V Zóně je vzácná a používají ji zejména žoldnéři a hlídky pro likvidaci cílů na dálku. \n \n
+		%c[d_purple] • %c[ui_gray_2] Tlumič: integrovaná úsťová brzda.\n
+		%c[0,93,0,116] • %c[0,140,140,140] PŘÍSLUŠENSTVÍ: optiky pro odstřelovačky na Picatinny a rybinu.\n
+	</text>
+</string>
+
+<string id="st_wpn_lr300_sn_descr">
+	<text>
+		Zkrácená útočná puška LR-300ML představuje další krok ve vývoji legendární rodiny AR-15.
+		Změny se týkaly především horního pouzdra závěru – hlavně, plynového systému a závěru,
+		což zlepšilo ergonomii a spolehlivost při snížení hmotnosti.
+		Zbraň je velmi přesná, ale citlivá na znečištění, takže se v drsných podmínkách Zóny hůře uplatňuje.\n \n
+		%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+		%c[d_purple] • %c[ui_gray_2] NATO tlumič\n
+		%c[d_purple] • %c[ui_gray_2] všechny Picatinny optiky\n
+		%c[d_purple] • %c[ui_gray_2] podvěsný granátomet M203 (po úpravě)\n \n
+	</text>
+</string>
+
+<string id="st_wpn_mk14_sn_descr">
+	<text>
+		United States Navy Mark 14 Enhanced Battle Rifle (Mk 14 EBR) je americká odstřelovací puška
+		vyvinutá z M14 pro speciální jednotky US Navy SEALs.\n \n
+		%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+		%c[d_purple] • %c[ui_gray_2] NATO tlumič\n
+		%c[d_purple] • %c[ui_gray_2] všechny Picatinny optiky\n \n
+	</text>
+</string>
+
+<string id="st_wpn_pp2000_sn_descr">
+	<text>
+		PP-2000 je ruský 9mm samopal vyvinutý v Tulském konstrukčním kanceláři.
+		Určen pro policejní jednotky v městském prostředí a jako osobní zbraň pro vojenský personál.
+		Plášť je z vysoce pevného polymeru, hlaveň chromovaná.
+		Může být vybaven tlumičem a optikou.\n \n
+		%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+		%c[d_purple] • %c[ui_gray_2] všechny Picatinny reflexy, ACOG, ELCAN, PN-23\n
+		%c[d_purple] • %c[ui_gray_2] 9mm tlumič\n \n
+	</text>
+</string>
+
+<string id="st_wpn_evo_a">
+	<text>CZ Scorpion EVO 3 A1</text>
+</string>
+
+<string id="st_wpn_evo_descr">
+	<text>
+		CZ Scorpion EVO 3 je moderní český samopal vyvinutý v roce 2009.
+		Je lehký, kompaktní a velmi ovladatelný, ideální pro boj na krátkou vzdálenost.
+		V Zóně jej používají hlavně žoldnéři jako sekundární zbraň.\n \n
+		%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+		%c[d_purple] • %c[ui_gray_2] všechny Picatinny optiky\n
+		%c[d_purple] • %c[ui_gray_2] 9mm tlumič\n \n
+	</text>
+</string>
+
+<string id="st_wpn_scar20m">
+	<text>FN SCAR SSR Mk.20</text>
+</string>
+
+<string id="st_wpn_scar20m_descr">
+	<text>
+		FN SCAR-SSR (Sniper Support Rifle) je odstřelovací varianta SCAR-H Mk.17 používaná speciálními jednotkami USA.\n \n
+		%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+		%c[d_purple] • %c[ui_gray_2] tlumič AAC 7.62 SDN-6\n
+		%c[d_purple] • %c[ui_gray_2] optika Schmidt & Bender (integrovaná)\n
+		%c[d_purple] • %c[ui_gray_2] M203\n \n
+	</text>
+</string>
+
+<string id="st_wpn_sv98_sil_kzrzp_descr">
+	<text>
+		SV-98 je ruská odstřelovací puška vyvinutá v letech 1998–2000.
+		Určena k likvidaci cílů na vzdálenost až 1000 metrů.\n \n
+		%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+		%c[d_purple] • %c[ui_gray_2] optiky pro odstřelovačky na Picatinny\n
+		%c[d_purple] • %c[ui_gray_2] tlumič KZRZP\n \n
+	</text>
+</string>
+
+<string id="st_wpn_sv98_sil_descr">
+	<text>
+		SV-98 je ruská odstřelovací puška vyvinutá v letech 1998–2000.
+		Určena k likvidaci cílů na vzdálenost až 1000 metrů.\n \n
+		%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+		%c[d_purple] • %c[ui_gray_2] optiky pro odstřelovačky na Picatinny\n
+		%c[d_purple] • %c[ui_gray_2] tlumič ROTOR-43\n \n
+	</text>
+</string>
+
+<string id="st_wpn_svd_ghillie">
+	<text>SVD Ghillie</text>
+</string>
+
+<string id="st_wpn_svd_ghillie_descr">
+	<text>Původně určená pro střelce sovětských pěchotních jednotek, SVD nebyla navržena jako zbraň specializovaných odstřelovačů. Je relativně lehká, dobře vyvážená a díky samonabíjecímu mechanismu nabízí slušnou, i když ne špičkovou přesnost. Efektivní dostřel se pohybuje kolem 800 metrů. Tato varianta je opatřena ghillie maskováním, které ztěžuje odhalení střelce v terénu.
+
+%c[ui_gray_2]PŘÍSLUŠENSTVÍ:
+%c[d_purple] • %c[ui_gray_2] Optika: PSO-3 (integrovaná)
+%c[d_purple] • %c[ui_gray_2] Tlumič KZRZP (integrovaný)
+	</text>
+</string>
+
+
+<string id="st_wpn_svdk">
+	<text>SVDK</text>
+</string>
+
+<string id="st_wpn_svdk_descr">
+	<text>SVDK (GRAU index 6V9) je ruská velkorážová odstřelovací puška vyvinutá v rámci programu „Vzlomščik“. Vychází z platformy SVD a používá silný náboj 9.3x64 mm 7N33. Zbraň dosahuje úsťové energie okolo 4900 J a je schopna prorazit až 1 cm pancíře na krátkou vzdálenost.
+
+%c[ui_gray_2]PŘÍSLUŠENSTVÍ:
+%c[d_purple] • %c[ui_gray_2] Optika: všechny kompatibilní Picatinny a boční montáže
+%c[d_purple] • %c[ui_gray_2] Tlumič: 9.3x64 KIBA
+	</text>
+</string>
+
+
+<string id="st_wpn_svu_sn_descr">
+	<text>TOZ SVU je modernizovaná verze SVD v bullpup konfiguraci, původně určená pro výsadkové jednotky. Do služby byla později převzata ministerstvem vnitra. Kompaktní konstrukce a silný kompenzátor snižují zpětný ráz, ale zbraň si zachovává omezený dostřel kolem 800 metrů.
+
+%c[ui_gray_2]PŘÍSLUŠENSTVÍ:
+%c[d_purple] • %c[ui_gray_2] Tlumič KZRZP
+%c[d_purple] • %c[ui_gray_2] Optika: všechny Picatinny a boční montáže
+	</text>
+</string>
+
+
+<string id="st_wpn_svu_alt_sn">
+	<text>SVU-AS „PMC“</text>
+</string>
+
+<string id="st_wpn_svu_alt_sn_descr">
+	<text>Zkrácená odstřelovací puška s možností plně automatické střelby. Vznikla na základě požadavků ministerstva vnitra. Kompaktní rozměry zlepšují manipulaci, ale snižují přesnost i úsťovou rychlost. Integrovaný tlumič zároveň funguje jako kompenzátor zpětného rázu.
+
+%c[ui_gray_2]PŘÍSLUŠENSTVÍ:
+%c[d_purple] • %c[ui_gray_2] Tlumič KZRZP
+%c[d_purple] • %c[ui_gray_2] Optika: všechny Picatinny montáže
+%c[ui_gray_2]VÝBAVA:
+%c[d_purple] • %c[ui_gray_2] Bipod
+%c[d_purple] • %c[ui_gray_2] Rám SAG MK1 upravený pro SVU
+	</text>
+</string>
+
+
+<string id="st_wpn_svu_nimble_sn_descr">
+	<text>Zakázkově upravená verze SVU-AS „PMC“. Zbraň prošla rozsáhlou přestavbou – nový přesný hlavňový systém, upravený spoušťový mechanismus a celkové zlepšení přesnosti i chodu spouště. Výsledkem je vysoce přesná odstřelovací platforma.
+
+Tato puška patřila Maxovi, legendárnímu čtvrťmistrovi Svobody.
+
+%c[ui_gray_2]PŘÍSLUŠENSTVÍ:
+%c[d_purple] • %c[ui_gray_2] Optika: všechny zvětšovací Picatinny optiky (kromě reflexních)
+%c[d_purple] • %c[ui_gray_2] Tlumič: Rotor 43
+%c[ui_gray_2]VÝBAVA:
+%c[d_purple] • %c[ui_gray_2] Bipod
+%c[d_purple] • %c[ui_gray_2] Adaptér pro tlumič Rotor 43
+%c[d_purple] • %c[ui_gray_2] Boční 45° lišta s možností sekundární optiky
+%c[d_purple] • %c[ui_gray_2] Rám SAG MK1 upravený pro SVU
+	</text>
+</string>
+
+
+<string id="st_wpn_tigr9">
+	<text>Tigr-9</text>
+</string>
+
+<string id="st_wpn_tigr9_descr">
+	<text>Modifikovaná odstřelovací puška SVD „Tigr“ upravená pro náboj 9.3x64 mm 7N33. Je oblíbená mezi lovci velké zvěře. V Zóně ji používají zejména lovci artefaktů a členové Čisté oblohy.
+
+%c[ui_gray_2]PŘÍSLUŠENSTVÍ:
+%c[d_purple] • %c[ui_gray_2] Optika: všechny Picatinny a boční montáže
+%c[d_purple] • %c[ui_gray_2] Tlumič: 9.3x64 KIBA
+	</text>
+</string>
+
+
+<string id="st_wpn_trg_sil_descr">
+	<text>Finský odstřelovací systém SAKO TRG-42. Jde o čistý konstrukční návrh bez předchozí platformy. Vyznačuje se vysokou přesností a spolehlivostí, díky čemuž je oblíbený mezi odstřelovači i v civilních soutěžích.
+
+%c[ui_gray_2]PŘÍSLUŠENSTVÍ:
+%c[d_purple] • %c[ui_gray_2] Optika FINDOT (integrovaná)
+%c[d_purple] • %c[ui_gray_2] Tlumič PBS M700 .338 LM (BaS)
+	</text>
+</string>
+
+
+<string id="st_wpn_tiss">
+	<text>OTs-12 „Tiss“</text>
+</string>
+
+<string id="st_wpn_tiss_descr">
+	<text>Ruská útočná puška vyvinutá na bázi AKS-74U, určená pro náboj 9x39 mm. Úpravy zahrnují změny hlavně, závěru a zásobníku. Projekt sériově nevznikl, ale inspiroval pozdější systém „Groza“.
+
+%c[ui_gray_2]PŘÍSLUŠENSTVÍ:
+%c[d_purple] • %c[ui_gray_2] Optika: všechny boční montáže kromě PSO s gumovou očnicí a 1P59 Giperon
+%c[d_purple] • %c[ui_gray_2] Tlumič GZV-SR2
+	</text>
+</string>
+
+
+<string id="st_wpn_tkpd">
+	<text>TKPD Assault</text>
+</string>
+
+<string id="st_wpn_tkpd_descr">
+	<text>Modifikovaná karabina SVDK určená pro útočné operace, vyvinutá pro PMC B.E.A.R. Zbraň používá náboj 9.3x64 mm a je určena pro přesnou likvidaci cílů na střední vzdálenost do 800 metrů.
+
+%c[ui_gray_2]PŘÍSLUŠENSTVÍ:
+%c[d_purple] • %c[ui_gray_2] Optika: všechny Picatinny a boční montáže
+%c[d_purple] • %c[ui_gray_2] Tlumič: 9.3x64 KIBA
+	</text>
+</string>
+<string id="st_wpn_tkpds">
+	<text>TKPD-S</text>
+</string>
+
+<string id="st_wpn_tkpds_descr">
+	<text>Karabina TKPD-S je konverzní varianta TKPD, komorovaná na náboj 7,62x54 mm 7N1. Je vybavena upraveným spoušťovým mechanismem umožňujícím automatickou střelbu a používá prodloužené 20ranné zásobníky. Zbraň má zesílenou hlaveň match-grade kvality. Efektivní dostřel je až 800 metrů.\n \n
+	%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+	%c[d_purple] • %c[ui_gray_2] Optiky: všechny kolimátory a zaměřovače na Picatinny a rybinové montáži\n
+	%c[d_purple] • %c[ui_gray_2] Tlumič Hexagon\n </text>
+</string>
+
+<string id="st_wpn_val_sn_descr">
+	<text>Speciální útočná puška AS „Val“ byla vyvinuta na základě tiché odstřelovací pušky VSS „Vintorez“. Byla navržena pro jednotky speciálních operací sovětské armády a ministerstva vnitra. Jejím hlavním účelem je efektivní likvidace nepřátel vybavených moderní osobní balistickou ochranou bez prozrazení pozice střelce. Díky integrovanému tlumiči a náboji 9x39 mm s těžkou podzvukovou střelou jsou hluk výstřelu i záblesk ústí hlavně minimalizovány.\n \n
+	%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+	%c[d_purple] • %c[ui_gray_2] Optiky: všechny optiky na Picatinny a rybinové montáži\n
+	%c[d_purple] • %c[ui_gray_2] Integrovaný tlumič VSS\n \n</text>
+</string>
+
+<string id="AS_VAL_MOD3_CW">
+	<text>AS „Val“ MOD3</text>
+</string>
+
+<string id="AS_VAL_MOD3_CW_descr">
+	<text>Speciální útočná puška AS „Val“ byla vyvinuta na základě tiché odstřelovací pušky VSS „Vintorez“. Byla navržena pro výzbroj speciálních jednotek sovětské armády a ministerstva vnitra. Hlavním účelem je efektivní likvidace nepřátel vybavených moderní balistickou ochranou bez prozrazení pozice střelce. Díky integrovanému tlumiči a náboji 9x39 mm s těžkou podzvukovou střelou jsou hluk výstřelu i záblesk ústí hlavně minimalizovány.\n \n
+	%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+	%c[d_purple] • %c[ui_gray_2] Zaměřovače: všechny Picatinny a rybinové zaměřovače\n
+	%c[d_purple] • %c[ui_gray_2] Modernizovaný integrovaný tlumič Val\n \n</text>
+</string>
+
+<string id="st_wpn_vihr_sn_descr">
+	<text>SR-3 „Vichr“ je kompaktní ruská útočná puška vyvinutá v roce 1994 v TsNIITočMaš v Klimovsku konstruktéry A. D. Borisovem a V. N. Levčenkem. Do sériové výroby byla dotažena A. I. Tašlykovem a vyrábí se od roku 1996. Vznikla na základě tiché útočné pušky AS „Val“ a sdílí s ní většinu hlavních součástí, což zjednodušuje výrobu i provoz. Konstrukce SR-3 je obecně podobná AS „Val“: plynový mechanismus a uzamykání hlavně otočným závorníkem se šesti ozuby. SR-3M byla později vyvinuta a umožňuje použití tlumiče, kovových 30ranných zásobníků, montáž optik a nočních zaměřovačů, sklopnou kostru pažby (převzatou z AS „Val“), pojistku ve stylu SVD a novou předpažbí.\n \n
+	%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+	%c[d_purple] • %c[ui_gray_2] Zaměřovače: všechny Picatinny a rybinové zaměřovače\n
+	%c[d_purple] • %c[ui_gray_2] Tlumič SR-3M\n \n</text>
+</string>
+
+<string id="st_wpn_vihr_m2">
+	<text>SR-3MT „Vichr“</text>
+</string>
+
+<string id="st_wpn_vihr_m2_sn_descr">
+	<text>Modifikace SR-3MT „Vichr“ pro jednotku Duty je vybavena taktickým předpažbím vyrobeným v zakázkové sérii speciálně pro Duty, což zlepšuje ergonomii a rozšiřuje možnosti výbavy.\n \n
+	%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+	%c[d_purple] • %c[ui_gray_2] Zaměřovače: všechny Picatinny a rybinové zaměřovače\n
+	%c[d_purple] • %c[ui_gray_2] Tlumič SR-3M\n
+	%c[ui_gray_2] Součást balení:\n
+	%c[d_purple] • %c[ui_gray_2] taktická předpažbí „Zenitka“, \n
+	%c[d_purple] • %c[ui_gray_2] přední rukojeť Zenit RK-1, \n
+	%c[d_purple] • %c[ui_gray_2] taktická svítilna s laserem „Zenit 2PS + Klesh LAM“. \n</text>
+</string>
+
+<string id="st_wpn_vityaznew">
+	<text>PP-19 „Vityaz“</text>
+</string>
+
+<string id="st_wpn_vityaznew_descr">
+	<text>PP-19-01 mod.10 je ruský samopal vyvinutý v roce 2004 v Iževsku (Izhmash). V závislosti na verzi vychází z AKS-74U („Vityaz“) nebo AK-105 („Vityaz-SN“). Je standardní zbraní příslušníků ruského ministerstva vnitra, policie, Rosgvardie, vězeňské služby a dalších složek. Jedná se o další vývoj PP-19 „Bizon“. Jedním z hlavních rozdílů oproti základní PP-19-01 je použití platformy AK-105 namísto AKS-74U. To se projevuje zejména výměnou pouzdra závěru a spoušťového mechanismu za prvky řady AK-100, instalací standardního předpažbí a plynové trubice z rodiny AK-74M a nahrazením sklopného hledí AKS-74U otevřeným sektorovým hledím.\n \n
+	%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+	%c[d_purple] • %c[ui_gray_2] Zaměřovače: ACOG, Barska ES AC10632, EOTech, C-MORE\n
+	%c[d_purple] • %c[ui_gray_2] Tlumič PBS-1 \n \n</text>
+</string>
+
+<string id="st_wpn_vityaz_sn">
+	<text>PP-19-01 mod.20 „Vityaz-SN“</text>
+</string>
+
+<string id="st_wpn_vityaz_sn_descr">
+	<text>PP-19-01 mod.20 „Vityaz-SN“ s 30ranným zásobníkem na 9x19 mm byl vytvořen v roce 2003 na základě konstrukce PP-19 „Bizon-2“ pro speciální jednotku vnitřních vojsk ministerstva vnitra „Vityaz“, na objednávku hlavního ředitelství vědecko-výrobního sdružení „Speciální technika a komunikace“ MVD RF. Je sériově vyráběn a dodáván různým jednotkám ministerstva vnitra Ruska.\n Hlavním rozdílem oproti základní PP-19-01 je použití platformy AK-105 místo AKS-74U. To se projevuje výměnou pouzdra závěru a spoušťového mechanismu za díly řady AK-100, instalací standardního předpažbí a plynové trubice z rodiny AK-74M a nahrazením sklopného hledí otevřeným sektorovým hledím.\n \n
+	%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+	%c[d_purple] • %c[ui_gray_2] Zaměřovače: všechny Picatinny reflexní zaměřovače, ACOG, ELCAN SpecterDR, PN-23\n
+	%c[d_purple] • %c[ui_gray_2] Tlumič: Hexagon tlumič 5.45/7.62x39/9x19\n \n</text>
+</string>
+
+<string id="st_wpn_vsk94_sn_descr">
+	<text>Tichá odstřelovací puška VSK-94 byla vyvinuta v Tula KBP (Konstruktérské bureau přístrojů) na základě kompaktní útočné pušky 9A-91 jako cenově dostupnější alternativa k speciální odstřelovací pušce VSS „Vintorez“ ráže 9 mm.\n \n
+	%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+	%c[d_purple] • %c[ui_gray_2] Zaměřovače: všechny Picatinny a rybinové zaměřovače\n
+	%c[d_purple] • %c[ui_gray_2] Integrovaný tlumič pro 9A-91/VSK-94\n \n</text>
+</string>
+
+<string id="st_addon_scope_1p69_ghilli">
+	<text>Ghillie set</text>
+</string>
+
+<string id="st_addon_scope_1p69_ghilli_descr">
+	<text>Ruská maskovací sada pro zbraň určená pro použití se zaměřovačem 1P69 „Hyperon“, vybavená voštinovým protireflexním nástavcem.</text>
+</string>
+
+<string id="st_addon_scope_hamr">
+	<text>Leupold Mark 4 HAMR</text>
+</string>
+
+<string id="st_addon_scope_hamr_descr">
+	<text>Leupold Mark 4 HAMR 4x24 mm CM-R2 s reflexním zaměřovačem DeltaPoint s tečkou 3,5 MOA je pevný optický zaměřovač 4x24 mm. Je určen pro přesnou střelbu i rychlé zaměření cíle a nabízí vlastnosti vhodné pro vojenské i policejní použití. Patří sem osvětlený balistický záměr CM-R2, rychlé ostření okuláru a technologie Xtended Twilight Lens System. Na HAMR lze navíc namontovat reflexní zaměřovač DeltaPoint pro okamžitý přechod na blízké cíle. (DeltaPoint a HAMR sada).</text>
+</string>
+
+<string id="st_addon_scope_mark4">
+	<text>Leupold Mark 4 CQ/T</text>
+</string>
+
+<string id="st_addon_scope_mark4_descr">
+	<text>Leupold Mark 4 CQ/T 1–3x14 mm je jednoduchý, spolehlivý a kompaktní opticko-reflexní zaměřovací systém vhodný pro lov na delší vzdálenosti, policejní i vojenské použití. Zvětšení 2x a 3x poskytuje čistý a přesný obraz. Zaměřovač byl vyvinut ve spolupráci s armádou pro montáž na bojové pušky AR-15 a M16. Nízká cena, odolnost a voděodolnost z něj udělaly populární volbu mezi lovci a složkami bezpečnosti.</text>
+</string>
+
+<string id="st_addon_wpn_fn2000scope">
+	<text>FN F2000 zaměřovač</text>
+</string>
+
+<string id="st_addon_wpn_fn2000scope_descr">
+	<text>Standardní zaměřovač FN F2000 s 1,6x zvětšením. Dodáván jako součást pušky FN F2000.</text>
+</string>
+<string id="st_addon_scope_1p87">
+	<text>1P87 Valdai PK120 zaměřovač</text>
+</string>
+
+<string id="st_addon_scope_1p87_descr">
+	<text>1P87 Valdai PK120 EKVD.201214 je kolimátorový zaměřovač navržený ke zkrácení doby zaměření cíle a zvýšení přesnosti střelby z ručních zbraní. Je součástí systému DPNK vyvíjeného v rámci výzkumného programu „Ratnik“.</text>
+</string>
+
+<string id="st_addon_scope_v0rtex">
+	<text>Vortex AMG UH-1 holografický zaměřovač</text>
+</string>
+
+<string id="st_addon_scope_v0rtex_descr">
+	<text>Vortex Razor AMG UH-1 holografický zaměřovač kombinuje odolné tělo, vysokou energetickou účinnost a čistý obraz záměrného bodu.</text>
+</string>
+
+<string id="st_addon_scope_aimpmag">
+	<text>„Aimpoint Micro T-2 + Magnifier“ sada</text>
+</string>
+
+<string id="st_addon_scope_aimpmag_descr">
+	<text>Sada „red dot + zvětšovač“ obsahuje montážní lištu, kolimátor Aimpoint Micro T-2 a zvětšovač EOTech G33 STS.</text>
+</string>
+
+<string id="st_addon_scope_e0tmag">
+	<text>„EOTech + Magnifier“ sada</text>
+</string>
+
+<string id="st_addon_scope_e0tmag_descr">
+	<text>Sada „red dot + zvětšovač“ obsahuje montážní lištu, holografický zaměřovač EOTech EXPS3-4 a zvětšovač EOTech G33 STS.</text>
+</string>
+
+<string id="st_addon_scope_1p87mag">
+	<text>„1P87 Valdai + Magnifier“ sada</text>
+</string>
+
+<string id="st_addon_scope_1p87mag_descr">
+	<text>Sada „red dot + zvětšovač“ obsahuje montážní lištu, kolimátor 1P87 Valdai a zvětšovač EOTech G33 STS.</text>
+</string>
+
+<string id="st_addon_scope_vortexmag">
+	<text>„Vortex UH-1 + Magnifier“ sada</text>
+</string>
+
+<string id="st_addon_scope_vortexmag_descr">
+	<text>Sada „red dot + zvětšovač“ obsahuje montážní lištu, holografický zaměřovač Vortex AMG UH-1 a zvětšovač EOTech G33 STS.</text>
+</string>
+
+<string id="st_addon_scope_compsmag">
+	<text>„Aimpoint CompM4s + Magnifier“ sada</text>
+</string>
+
+<string id="st_addon_scope_compsmag_descr">
+	<text>Sada „red dot + zvětšovač“ obsahuje montážní lištu, kolimátor Aimpoint CompM4s a zvětšovač EOTech G33 STS.</text>
+</string>
+
+<string id="st_addon_sil_kiba">
+	<text>KIBA tlumič 9.3x64 mm</text>
+</string>
+
+<string id="st_addon_sil_kiba_descr">
+	<text>Tlumič KIBA Arms je speciálně navržen pro montáž na pušky ráže 9.3x64 mm a efektivní utlumení této výkonné munice.</text>
+</string>
+
+<string id="st_grenade_vog25h">
+	<text>VOG-25 „Chattabka“</text>
+</string>
+
+<string id="st_grenade_vog25h_short">
+	<text>VOG-25 „Chattabka“</text>
+</string>
+
+<string id="st_grenade_vog25h_descr">
+	<text>Populární označení v Rusku a Čečensku pro improvizovaný ruční granát. Obvykle je vyráběn z granátů VOG-25 nebo jejich variant určených pro granátomety GP-25 a GP-30, osazených standardními zapalovači.</text>
+</string>
+
+<string id="st_grenade_vog17h">
+	<text>VOG-17 „Chattabka“</text>
+</string>
+
+<string id="st_grenade_vog17h_short">
+	<text>VOG-17 „Chattabka“</text>
+</string>
+
+<string id="st_grenade_vog17h_descr">
+	<text>Populární označení v Rusku a Čečensku pro improvizovaný ruční granát. Obvykle je vyráběn z granátů VOG-17 a VOG-17M určených pro automatický granátomet AGS-17, osazených standardními zapalovači.</text>
+</string>
+
+<string id="st_fn_gl-1">
+	<text>FN GL-1 granátomet</text>
+</string>
+
+<string id="st_fn_gl-1_short">
+	<text>FN GL-1</text>
+</string>
+
+<string id="st_fn_gl-1_descr">
+	<text>\n \n%c[ui_gray_2]KOMPATIBILITA:\n \n%c[d_cyan] • %c[ui_gray_2] FN 2000\n \n
+	%c[ui_gray_1] GL-1 je vysoce přesný granátomet určený pro montáž na pušku FN 2000. Vyvinutý společností FN Herstal v roce 2001, tento univerzální doplněk výrazně zvyšuje palebnou sílu a poskytuje taktickou výhodu v intenzivních bojových situacích. Ideální pro scénáře vyžadující explozivní účinek.\n
+	%c[d_purple] • %c[ui_gray_2] Munice: %c[ui_gray_1]40 mm granáty M203\n</text>
+</string>
+<string id="st_ar15_vss">
+	<text>AR-15 VSS</text>
+</string>
+
+<string id="st_ar15_vss_descr">
+	<text>Silně upravená puška AR-15 přestavěná do podoby analogie VSS „Vintorez“. Instalované vybavení umožňuje operátorovi zůstat při střelbě skrytý, zbraň je však velmi nákladná kvůli použití nestandardních dílů.\n \n
+	%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+	%c[d_purple] • %c[ui_gray_2] Optiky: všechny optiky na Picatinny montáži\n
+	%c[d_purple] • %c[ui_gray_2] Tlumič: integrovaný\n \n</text>
+</string>
+
+<string id="st_wpn_mcx_tac">
+	<text>SIG MCX „Tactical“</text>
+</string>
+
+<string id="st_wpn_mcx_tac_descr">
+	<text>Řada MCX vyvinutá a vyráběná společností SIG Sauer existuje v civilních poloautomatických i vojenských automatických variantách. Je vybavena pístovým systémem s krátkým zdvihem, převzatým z dřívějšího samopalu SIG MPX.\n \n
+	%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+	%c[d_purple] • %c[d_green] Optiky: %c[0,250,250,0]všechny Weaver/Picatinny optiky\n
+	%c[d_purple] • %c[d_green] Taktická rukojeť: %c[d_blue]Zenit RK-5\n
+	%c[d_purple] • %c[d_green] Tlumič: %c[d_orange]KAC „PRS/QDC“\n \n</text>
+</string>
+
+<string id="st_wpn_ksh23">
+	<text>KSh-23 „Beast Slayer“</text>
+</string>
+
+<string id="st_wpn_ksh23_descr">
+	<text>Unikátní zbraň Zóny, postavená Gunsmith Denem z komponent ASH-12 a hlavně KS-23 spolu s vlastní municí. Výkonný rám ASH-12 je schopen snést 23mm střely, omezené na poloautomatický režim. Vyvinutá pažba z ASH-12 efektivně tlumí zpětný ráz a kompenzuje obrovskou sílu každého výstřelu. „Beast Slayer“ plně odpovídá svému jménu a dokáže likvidovat monstra Zóny, jako jsou Chiméry a Pseudogiganti.\n \n
+	%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+	%c[d_purple] • %c[d_green] Optiky: %c[0,250,250,0]všechny Weaver/Picatinny optiky\n
+	%c[d_purple] • %c[d_green] Taktická rukojeť: %c[d_blue]Zenit RK-5\n
+	%c[d_purple] • %c[d_green] Tlumič: %c[d_orange]„Khryak“ 23 mm\n \n</text>
+</string>
+
+<string id="st_wpn_m16a4">
+	<text>M16A4</text>
+</string>
+
+<string id="st_wpn_m16a4_descr">
+	<text>M16A4 je plynem poháněná útočná puška ráže 5,56x45 mm a nejnovější modifikace legendární rodiny AR-15 používaná ozbrojenými silami USA. Čtvrtá generace M16A4 je v podstatě M16A2 s horním pouzdrem závěru typu flat-top s lištou MIL-STD-1913 a předpažbím s volitelným systémem M5 Adapter Rail pro montáž příslušenství. M16A4 je hlavní puškou námořní pěchoty USA a používají ji i vybrané jednotky armády. Ačkoliv speciální jednotky často preferují kratší M4A1 nebo jiné karabiny, M16A4 zůstává ve výzbroji například u USMC F.A.S.T. a podpůrných jednotek MARSOC.\n \n
+	%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+	%c[d_purple] • %c[ui_gray_2] NATO tlumič\n
+	%c[d_purple] • %c[ui_gray_2] Optiky: ACOG, Colt 3x, PN-23, Mark 4 CQ/T\n
+	%c[d_purple] • %c[ui_gray_2] Podvěsný granátomet M203\n \n</text>
+</string>
+
+<string id="st_wpn_m16">
+	<text>M16</text>
+</string>
+
+<string id="st_wpn_m16_descr">
+	<text>M16 (oficiálně Rifle, Caliber 5.56 mm, M16) je americká automatická puška ráže 5,56x45 mm vyvinutá z AR-15 a zavedená v 60. letech. V roce 1964 vstoupila do služby a nahradila M14, přičemž do roku 1966 byla rozšířena ve Vietnamu. Rané verze trpěly nespolehlivostí, ale do 70. let se z M16 stala plně schopná bojová zbraň. Oproti hlavnímu rivalovi AKM nabízela vyšší přesnost a lepší soustřel při dávkové střelbě, ale vyžadovala pečlivější údržbu a kvalitnější munici. V náročných podmínkách (bláto, prach) byl AKM spolehlivější. M16 a její varianty zůstávají ve výzbroji USA dodnes a patří mezi nejrozšířenější palné zbraně na světě s více než 8 miliony vyrobených kusů.\n \n
+	%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+	%c[d_purple] • %c[ui_gray_2] NATO tlumič\n
+	%c[d_purple] • %c[ui_gray_2] Optiky: ACOG, ACOG Trijicon, Colt, Mark 4 CQ/T\n
+	%c[d_purple] • %c[ui_gray_2] Podvěsný granátomet M203\n \n</text>
+</string>
+
+<string id="st_wpn_kedr">
+	<text>PP-91-01 „Kedr-B“ samopal</text>
+</string>
+
+<string id="st_wpn_kedr_descr">
+	<text>PP-91-01 „Kedr-B“ je samopal ráže 9x18 mm PM vybavený integrovaným tlumičem.\nPP-91 „Kedr“ (konstrukce Evgenije Dragunova) byl vyvinut na počátku 90. let pro sovětské ministerstvo vnitra na základě staršího PP-71. Hlaveň je pevně spojena s pouzdrem závěru, vývrt je chromovaný pro vyšší životnost a odolnost proti korozi. Zbraň je určena pro standardní i speciální 9x18 mm náboje. Při střelbě z opory umožňuje soustřel čtyř ran do 50 mm na 25 m. Spoušťový mechanismus umožňuje poloautomatickou i automatickou střelbu. Volič režimu je kombinovaný s pojistkou a lze jej ovládat i v rukavicích. Kadence je 800–1000 ran/min. Efektivní dostřel je cca 50 m, maximální účinný dosah asi 100 m. Nízká energie náboje (~295 J) omezuje průbojnost.\n \n
+	%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+	%c[d_purple] • %c[ui_gray_2] Laserový zaměřovač „Pion-M“\n \n</text>
+</string>
+
+<string id="st_wpn_eft_rsh12">
+	<text>Těžký revolver RSh-12 (12,7x55 mm)</text>
+</string>
+
+<string id="st_wpn_eft_rsh12_descr">
+	<text>RSh-12 je vzácný velkorážový revolver vyvinutý pro speciální jednotky. Střílí silný náboj 12,7x55 mm schopný prorazit těžkou balistickou ochranu a způsobit devastující poškození na krátkou vzdálenost. Zbraň má extrémní zpětný ráz, nízkou kadenci a vysokou hmotnost, ale kompenzuje to obrovskou zastavovací silou. Hodí se pro lov mutantů a boj na krátkou vzdálenost.\n \n
+	%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+	%c[d_purple] • %c[ui_gray_2] Optiky (vzácně): Micro T-1, DeltaPoint nebo RMR přes adaptér\n
+	%c[d_purple] • %c[ui_gray_2] PB-12.7 tlumič nebo těžký zakázkový tlumič\n \n</text>
+</string>
+
+
+</string_table>

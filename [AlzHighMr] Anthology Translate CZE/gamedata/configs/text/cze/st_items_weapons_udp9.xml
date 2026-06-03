@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+<string id="st_wpn_udp9">
+	<text>UDP-9 karabina</text>
+</string>
+
+<string id="st_wpn_udp9_descr">
+	<text>UDP-9 je karabina systému AR-9 se zpětným rázem typu straight-blowback. Využívá řadu komponent ve stylu AR-15, přičemž je komorována na munici 9×19 mm. Zbraň přijímá standardní 9mm zásobníky pro pistole GLOCK a po posledním náboji zůstává závěr otevřený.\n \n
+	%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+	%c[d_purple] • %c[ui_gray_2] Optiky: zaměřovače kompatibilní s Picatinny/Weaver lištami\n
+	%c[d_purple] • %c[d_green] Tlumič: GemTech\n
+	</text>
+</string>
+
+<string id="st_wpn_udp9_sd">
+	<text>UDP-9-SD karabina</text>
+</string>
+
+<string id="st_wpn_udp9_sd_descr">
+	<text>UDP-9-SD je varianta karabiny vybavená integrovaným tlumičem, optimalizovaná pro subsonické střelivo. Je navržena pro tichý provoz a sníženou zvukovou i světelnou stopu při bojích na krátkou vzdálenost.\n \n
+	%c[ui_gray_2]PŘÍSLUŠENÍ: \n
+	%c[d_purple] • %c[ui_gray_2] Optiky: zaměřovače kompatibilní s Picatinny/Weaver lištami\n
+	%c[d_purple] • %c[ui_gray_2] Integrovaný tlumič\n
+	</text>
+</string>
+
+</string_table>

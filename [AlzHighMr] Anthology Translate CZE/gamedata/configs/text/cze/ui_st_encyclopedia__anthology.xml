@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	
+
+
+<string id="encyclopedia___anthology_developers">
+	<text>Tvůrci Anthology</text>
+</string>
+
+<string id="encyclopedia__anthology">
+	<text>Příběhové linky</text>
+</string>
+
+<string id="encyclopedia__anthology_guides">
+    <text>Průvodce Anthology</text>
+</string>
+
+
+<!--
+=================================================
+================================================= 
+    CREDITS SECTION
+=================================================
+=================================================
+-->
+
+<string id="encyclopedia__anthology_mod">
+    <text>Credits modifikace Anthology</text>
+</string>
+
+<string id="encyclopedia__anthology_mod_text">
+    <text>
+%c[pda_green]HLAVNÍ TÝM%c[ui_gray_1]\n
+\n%c[pda_white]Vývojář%c[ui_gray_1] — Maks Ratniy Ratnichenko\n
+%c[pda_white]Kompilace addonů%c[ui_gray_1] — Serega Hyper\n
+%c[pda_white]Zbrojíř (Weaponsmith)%c[ui_gray_1] — Denis Denis9x39\n
+%c[pda_white]Administrátor%c[ui_gray_1] — Dedushka Li\n
+\n
+%c[pda_green]POMOC S VÝVOJEM%c[ui_gray_1]\n
+• Mapy, logy, skriptování — Melinite\n
+• Podpora SDK — Andrey Nepryakhin\n
+• Podpora SDK — Alexey Loskutov\n
+• Podpora SDK — Stalker SHEVA\n
+• Podpora SDK — Kryiron Ai\n
+• Pomoc s vývojem — Alcatraz396\n
+• Pomoc s vývojem — PastKNIGHT\n
+• Pomoc s vývojem — Jr.Anthologist / Sanya\n
+• Pomoc s vývojem — Jlyn4ik (Trovo / Twitch) — Danila\n
+\n
+%c[pda_green]KOMUNITNÍ ODKAZY%c[ui_gray_1]\n
+• Discord — https://discord.gg/xMkuD74cwt\n
+• VK — https://vk.com/club219667646\n
+• ModDB — https://www.moddb.com/mods/anthology\n
+    </text>
+</string>
+
+<!--PODPORA / DONACE-->
+<string id="encyclopedia__anthology_donate">
+    <text>Podpora projektu</text>
+</string>
+
+<string id="encyclopedia__anthology_donate_text">
+    <text>
+%c[pda_green]Podpora projektu A.N.T.H.O.L.O.G.Y%c[pda_white]\n
+\n
+Drazí stalkerové,\n
+děkujeme za váš zájem o projekt A.N.T.H.O.L.O.G.Y založený na S.T.A.L.K.E.R. Anomaly.\n
+\n
+Vývoj můžete podpořit libovolnou částkou pomocí údajů níže.\n
+\n
+%c[pda_green]ODMĚNA%c[pda_white]\n
+Podporovatelé získají roli %c[pda_green]Project Support%c[pda_white] a přístup k:\n
+- testovacím verzím\n
+- exkluzivním vývojovým materiálům\n
+- předběžným aktualizacím projektu\n
+\n
+%c[pda_green]JAK ZÍSKAT PŘÍSTUP%c[pda_white]\n
+1. Pošlete dar na kterýkoli uvedený účet\n
+2. Pošlete potvrzení o transakci na Discord\n
+3. Získáte roli a přístup\n
+\n
+%c[pda_green]VÝVOJÁŘSKÝ TÝM%c[pda_white]\n
+%c[pda_green]Maks Ratniy%c[pda_white] — hlavní vývojář\n
+Gazprom: 4249 1703 9251 4208\n
+Sberbank: 2202 2014 1353 5184\n
+Boosty: https://boosty.to/maks_ratniy\n
+\n
+%c[pda_green]SYS · Sergei%c[pda_white] — technická podpora\n
+Yandex Bank: 2204 3107 7303 6655\n
+\n
+%c[pda_green]Denis9x39%c[pda_white] — návrhář zbraní\n
+Sberbank: 2202 2083 5589 9908\n
+\n
+%c[pda_green]dedeushka Li%c[pda_white] — Discord a podpora překladu\n
+Kaspi KZ: 4400 4303 8621 3281\n
+\n
+%c[pda_green]POZNÁMKA%c[pda_white]\n
+Nejde o prodej. Dary jsou dobrovolné a slouží pouze jako podpora komunity.\n
+Přístup do uzavřeného testování je udělován jako poděkování za příspěvek.\n
+\n
+%c[pda_green]DĚKUJEME, ŽE S NÁMI ZŮSTÁVÁTE, STALKERE%c[pda_white]\n
+    </text>
+</string>
+
+<!--PŘEKLAD CREDITS-->
+<string id="encyclopedia_anthology_translate">
+    <text>Český překlad</text>
+</string>
+
+<string id="encyclopedia_anthology_translate_text">
+    <text>
+%c[pda_green]Kredity překladu%c[ui_gray_1]\n
+\n
+• %c[pda_white]S.T.A.L.K.E.R.: Shadow of Chernobyl%c[ui_gray_1] — Datastor\n
+• %c[pda_white]S.T.A.L.K.E.R.: Call of Pripyat%c[ui_gray_1] — Datastor\n
+• %c[pda_white]Path in the Mist%c[ui_gray_1] — AlzHighMr\n
+• %c[pda_white]Spatial Anomaly%c[ui_gray_1] — ChatGPT\n
+• %c[pda_white]Valley of Whispers%c[ui_gray_1] — ChatGPT\n
+\n
+%c[pda_green]Speciální poděkování%c[ui_gray_1]\n
+• Yuri Vernadsky — titulky do intra pro Attribute a dodatečná podpora\n
+• Všem kteří hlásí chybějící texty a tím pomáhají tomuto překladu\n
+\n
+%c[pda_green]POZNÁMKA%c[ui_gray_1]\n
+Také děkujeme všem testerům, překladatelům a S.T.A.L.K.E.R. modderské komunitě za udržování Zóny stále při životě.\n
+\n
+%c[pda_green]Anglický a Český překlad Anthology od %c[pda_white]AlzHighMr%c[ui_gray_1]\n
+    </text>
+</string>
+
+
+
+<!--
+=================================================
+================================================= 
+     STORYLINES SECTION
+=================================================
+=================================================
+-->
+
+<!-- 
+     ATTRIBUTE
+-->
+<string id="encyclopedia_anthology_story_atribut">
+	<text>Atributte</text>
+</string>
+
+<string id="encyclopedia_anthology_story_atribut_text">
+	<text>
+		%c[pda_white]Hlavní postava%c[ui_gray_1] - Voland
+
+		\n%c[pda_green]Informace%c[ui_gray_1]
+		\nModifikace „Atributte“ je příběhové rozšíření hry S.T.A.L.K.E.R., zasazené do období vypnutí Brain Scorcheru. Hráč se ujímá role vojáka přezdívaného Voland, který se po probuzení z anabiózy znovu setkává se svým starým přítelem Sherifem. Společně se vydávají na záchrannou misi do Zóny, aby našli Volandova bratra Vitalije, který se dostal do rukou nového kultu. Příběh modifikace je propojen s událostmi z původní hry „Dreamcatcher“.
+
+		\n%c[pda_green]Charakteristiky%c[ui_gray_1]
+		\n• Frakce: Válečný stalker
+		\n• Volný režim: Ne
+		\n• Možnost pokračovat v Anomaly po hlavním příběhu?: Ne
+		\n• Vývojáři: VIVIENT Team
+	</text>
+</string>
+
+
+<!-- 
+     SPATIAL ANOMALY
+-->
+<string id="encyclopedia_anthology_story_spatial_anomaly">
+    <text>Spatial Anomaly</text>
+</string>
+
+<string id="encyclopedia_anthology_story_spatial_anomaly_text">
+    <text>
+        %c[pda_white]Hlavní postava%c[ui_gray_1] - Beast.\n
+        \n%c[pda_green]Informace%c[ui_gray_1]\n
+        \nVerze 4.1 je finální aktualizace modifikace „Spatial Anomaly“. Patch nejen opravuje řadu chyb, ale také přidává mnoho nových funkcí a úkolů. Tato verze zohledňuje zpětnou vazbu hráčů, díky čemuž je mod ještě lepší. Příběh sleduje známého žoldáka „Beasta“ a jeho snahu přežít v mystickém místě zvaném „Spatial Anomaly“, kde platí zcela jiné zákony. Všeho je nedostatek: munice, léků, pitné vody, jídla i dokonce šroubů. Přesto nic nezastaví žoldáka, který hledá cestu ven z této smrtící pasti.\n
+        \n%c[pda_green]Charakteristiky%c[ui_gray_1]\n
+        \n• Frakce: Žoldáci
+        \n• Volný režim: ano
+        \n• Možnost pokračovat v Anomaly storyline po dokončení : ano
+        \n• Tvůrci : PROFFESIONAL a další
+    </text>
+</string>
+
+
+<!-- 
+     CALL OF PRIPYAT
+-->
+<string id="encyclopedia_anthology_story_call_of_pripyat">
+    <text>Call of Pripyat</text>
+</string>
+
+<string id="encyclopedia_anthology_story_call_of_pripyat_text">
+    <text>
+        %c[pda_white]Hlavní postava%c[ui_gray_1] - Degtyarev.\n
+        \n%c[pda_green]Informace%c[ui_gray_1]\n
+        \nVojenská expedice do středu Zóny zmizí za záhadných okolností. Úkol zjistit, co se stalo s posádkami a objasnit příčiny, připadá majoru Degtyarevovi, agentovi SBU. V třetí kapitole kultovní série S.T.A.L.K.E.R. odpovíte na Call of Pripyat.\n
+        \n%c[pda_green]Charakteristiky%c[ui_gray_1]\n
+        \n• Frakce: Samotáři
+        \n• Volný režim: ano
+        \n• Možnost pokračovat v Anomaly storyline po dokončení : ne
+        \n• Vývojáři: GSC Game World
+    </text>
+</string>
+
+
+<!-- 
+     PATH IN THE DARK
+-->
+<string id="encyclopedia_anthology_story_path_in_the_dark">
+    <text>Cesta ve tmě</text>
+</string>
+
+<string id="encyclopedia_anthology_story_path_in_the_dark_text">
+    <text>
+        %c[pda_white]Hlavní postava%c[ui_gray_1] - Shroud.\n
+        \n%c[pda_green]Informace%c[ui_gray_1]\n
+        \nZóna skrývá mnoho tajemství — jak svá vlastní, tak i ta, která byla přinesena zvenčí. Dobrodruzi, kteří si říkají stalkerové, se snaží tato tajemství odhalit. Někteří uspějí, ale většina v Zóně navždy zmizí.\n
+        \n%c[pda_green]Charakteristiky%c[ui_gray_1]\n
+        \n• Frakce: Samotáři
+        \n• Volný režim: ano
+        \n• Možnost pokračovat v Anomaly storyline po dokončení : ano
+        \n• Tvůrci : Spectrum Project
+    </text>
+</string>
+
+
+<!-- 
+     DEATH DEFYING 2 : IN A WEB OF LIES
+-->
+<string id="encyclopedia_anthology_story_in_a_web_of_lies">
+    <text>Death Defying 2 : V síti lží</text>
+</string>
+
+<string id="encyclopedia_anthology_story_in_a_web_of_lies_text">
+    <text>
+        %c[pda_white]Hlavní postava%c[ui_gray_1] - Varg.\n
+        \n%c[pda_green]Informace%c[ui_gray_1]\n
+        \nHlavním hrdinou příběhu je volný stalker jménem Varg. Dlouhou dobu byl součástí stalkerské skupiny Oresta a živil se lovem vzácných a cenných artefaktů v oblasti Agrojantaru. Osud ho však zavál do bažin, kde Varg přijímá zakázku od frakce Čisté nebe na hledání skupiny vědců, kteří záhadně zmizeli v západních částech Černobylské zóny. Navíc má za úkol najít stopy pátrací skupiny Jasné oblohy, která vědce následovala.\n
+        \n%c[pda_green]Charakteristiky%c[ui_gray_1]\n
+        \n• Frakce: Samotáři
+        \n• Volný režim: ne
+        \n• Možnost pokračovat v Anomaly storyline po dokončení : ne
+        \n• Tvůrci : Geonezis, Goroff, makdm, gridgt, Falcon
+    </text>
+</string>
+
+
+<!-- 
+     VALLEY OF WHISPERS
+-->
+<string id="encyclopedia_anthology_story_valley_of_rustles">
+    <text>Údolí šepotu</text>
+</string>
+
+<string id="encyclopedia_anthology_story_valley_of_rustles_text">
+    <text>
+        %c[pda_white]Hlavní postava%c[ui_gray_1] - Max.\n
+        \n%c[pda_green]Informace%c[ui_gray_1]\n
+        \nNová dějová linie, která není propojena s příběhem původní hry. Sleduje obyčejného stalkera jménem Max, který se rozhodl vydělat si nějaké peníze před odchodem ze Zóny. Všechny události modu se odehrávají v nové lokaci. Čeká zde dostatek prostoru k prozkoumávání, hledání předmětů, bojům s nepřáteli i k zamyšlení nad otázkami, které Zóna přináší.\n
+        \n%c[pda_green]Charakteristiky%c[ui_gray_1]\n
+        \n• Frakce: Samotáři
+        \n• Volný režim: ano
+        \n• Možnost pokračovat v Anomaly storyline po dokončení : ano
+        \n• Tvůrci : Den-Stash
+    </text>
+</string>
+
+
+<!-- 
+     FORGOTTEN SQUAD
+-->
+<string id="encyclopedia_anthology_story_forgotten_squad">
+    <text>Zapomenutý oddíl</text>
+</string>
+
+<string id="encyclopedia_anthology_story_forgotten_squad_text">
+    <text>
+        %c[pda_white]Hlavní postava%c[ui_gray_1] - Snake.\n
+        \n%c[pda_green]Informace%c[ui_gray_1]\n
+        \nV tomto příběhu hrajete za zkušeného lovce přezdívaného „Snake“. Náš hrdina musí vypátrat svého druha přezdívaného „Bison“ a jeho skupinu, kteří se ztratili. Po jejich stopách se protagonista dostává do okolí bývalého Výzkumného ústavu a začíná své pátrání. Hlavní příběhová linie zabere přibližně 4 hodiny, další čas je potřeba na vedlejší úkoly a průzkum.\n
+        \n%c[pda_green]Charakteristiky%c[ui_gray_1]\n
+        \n• Frakce: Samotáři
+        \n• Volný režim: ano
+        \n• Možnost pokračovat v Anomaly storyline po dokončení : ano
+        \n• Tvůrci : Another Team
+    </text>
+</string>
+
+
+<!-- 
+     SHADOW OF CHERNOBYL
+-->
+<string id="encyclopedia_anthology_story_shadow_of_chernobyl">
+    <text>Stín Černobylu</text>
+</string>
+
+<string id="encyclopedia_anthology_story_shadow_of_chernobyl_text">
+    <text>
+        %c[pda_white]Hlavní postava%c[ui_gray_1] - Označený (Marked One).\n
+        \n%c[pda_green]Informace%c[ui_gray_1]\n
+        \nDěj se odehrává v Černobylské zóně, která se z místa zlomených osudů proměnila v hrozbu pro celé lidstvo. Zóna odhaluje svá tajemství neochotně a jen málokterý hrdina se dokáže dostat až k jejímu srdci a zjistit, jaké nebezpečí tam čeká. Nebezpečí, ve srovnání s nímž bandité, nepřátelské frakce, všechna monstra a anomálie Zóny působí jen jako příprava na setkání s něčím mnohem smrtelnějším a děsivějším.\n
+        \n%c[pda_green]Charakteristiky%c[ui_gray_1]\n
+        \n• Frakce: Samotáři
+        \n• Volný režim: ne
+        \n• Možnost pokračovat v Anomaly storyline po dokončení : ne
+        \n• Vývojáři: GSC Game World
+    </text>
+</string>
+
+
+<!--
+=================================================
+================================================= 
+     GUIDE SECTION
+=================================================
+=================================================
+-->
+
+
+
+
+
+
+<!--INTRODUCTION (MAIN)-->
+<string id="encyclopedia__ant_guide_main">
+    <text>Úvod</text>
+</string>
+
+<string id="encyclopedia__ant_guide_main_text">
+    <text>
+%c[pda_green]Stalkere! Vítej v Průvodci Anthology - tvém společníkovi při objevování každého koutu tohoto rozsáhlého projektu.%c[pda_white]\n
+\n
+Zde najdeš užitečné tipy, rady a odpovědi na otázky, na které můžeš během své cesty narazit.\n
+\n
+%c[pda_green]Upozornění:%c[pda_white] Některé návody a instrukce se mohou lišit podle toho, zda hraješ %c[pda_green]Vanilla Anthology%c[pda_white] nebo %c[pda_green]Modpack verzi%c[pda_white].\n
+\n
+%c[pda_green]Tento svět je bohatý a detailní. Věnování chvíle tomuto průvodci ti pomůže vyhnout se problémům a naplno si užít svou cestu.%c[pda_white]\n
+\n
+Používej tento průvodce jako referenci během průzkumu a pamatuj: znalosti jsou tvou nejlepší zbraní v Zóně!\n
+\n
+%c[pda_green]Hlavní výhody Anomaly Anthology:%c[pda_white]\n
+- Implementace příběhu S.T.A.L.K.E.R.: Shadow of Chernobyl (2006) a S.T.A.L.K.E.R.: Call of Pripyat (2009).\n
+- Sedm dalších komunitních příběhů: Spatial Anomaly, Path in the Mist, Valley of Whispers, Forgotten Squad, Death Defied - In the Web of Lies a původní příběh Anomaly 1.5.3.\n
+- Všechny příběhy lze dohrát s modernizovanými vylepšeními, která Anthology přináší.\n
+- Volba hlavního příběhu se provádí v hlavním menu před začátkem hry.\n
+- Obsahuje řadu přepracovaných úkolů a herních lokací.\n
+- Anthology obsahuje přibližně %c[pda_green]76 lokací%c[pda_white].\n
+\n
+%c[pda_green]Poznámka:%c[pda_white] Stejně jako samotný modpack je i tato encyklopedie ve verzi beta. Prosíme, hlaste případné chyby nebo nejasnosti.\n
+- Pro Anglickou a Českou verzi kontaktujte %c[pda_green]AlzHighMr%c[pda_white].\n
+- Pro Ruskou verzi kontaktujte %c[pda_green]Dědečka Leeho%c[pda_white].
+    </text>
+</string>
+
+
+
+
+
+
+
+<!--IMPORTANT-->
+<string id="encyclopedia_ant_guide_important">
+    <text>Důležité informace</text>
+</string>
+
+<string id="encyclopedia_ant_guide_important_text">
+    <text>
+%c[pda_green]Důležité informace%c[pda_white]\n
+\n
+Aby se předešlo problémům během hraní, pečlivě si prosím přečti následující.\n
+\n
+%c[pda_green]Pravidla příběhu%c[pda_white]\n
+• Vždy vytvářej savy z hlavního menu během příběhových misí.\n
+• Ukládej před zahájením misí nebo rozhovorem s NPC.\n
+• Pokud NPC po načtení quicksavu uvízne, může se narušit jeho logika a bude nutné restartovat úkol.\n
+• Pokud nastanou problémy, může být nutné misi zopakovat.\n
+\n
+%c[pda_green]Dlouhé herní seance%c[pda_white]\n
+Před delším hraním:\n
+- Vytvoř plný save v hlavním menu\n
+- Ukonči hru\n
+- Smaž složku %c[pda_white]shaders_cache%c[pda_white]\n
+- Znovu načti uloženou pozici\n
+\n
+%c[pda_green]Limit Game Object ID%c[pda_white]\n
+X-Ray engine má limit 65 535 Game Object ID.\n
+Překročení tohoto limitu může způsobit pády hry, zejména v rozsáhlých modovaných sestavách.\n
+\n
+%c[pda_green]Klávesy pro úklid%c[pda_white]\n
+• %c[pda_white]F8%c[pda_white] — zobrazí aktuální využití Game Object ID\n
+• %c[pda_white]F10%c[pda_white] — odstraní fyzické objekty světa (předměty, barely, bedny)\n
+• %c[pda_white]F11%c[pda_white] — odstraní volné náboje (ne inventární předměty)\n
+• %c[pda_white]Shift + F11%c[pda_white] — odstraní skupiny překračující populační limit\n
+    </text>
+</string>
+
+
+<!--FAQ-->
+<string id="encyclopedia_ant_guide_faq">
+    <text>FAQ</text>
+</string>
+
+<string id="encyclopedia_ant_guide_faq_text">
+    <text>
+%c[pda_green]Často kladené otázky%c[ui_gray_1]\n
+\n
+• %c[pda_white]Q: Zbraň se zasekla. Jak ji opravit nebo přenastavit klávesu?%c[ui_gray_1]\n
+\n%c[pda_green]A:%c[ui_gray_1] Ve výchozím nastavení dvojité stisknutí %c[pda_white]F%c[ui_gray_1]. Přenastavení najdeš v %c[pda_white]ESC - MCM - WPO (Weapon Parts Overhaul)%c[ui_gray_1].\n
+\n
+• %c[pda_white]Q: Cesty do dalších oblastí jsou zablokované.%c[ui_gray_1]\n
+\n%c[pda_green]A:%c[ui_gray_1] Zapni %c[pda_white]Accessible Zone%c[ui_gray_1] při nové hře, nebo odemykej trasy pomocí map u obchodníků a PDA dokumentů.\n
+    </text>
+</string>
+
+<!--Transmutation-->
+<string id="encyclopedia_anthology_breeder">
+	<text>Transmutátoři artefaktů</text>
+</string>
+
+<string id="encyclopedia_anthology_breeder_text">
+    <text>
+%c[pda_green]Registr transmutátorů%c[ui_gray_1]\n
+\n
+%c[pda_yellow]Typ I anomálií%c[ui_gray_1]\n
+\n• Profesor Plyusnin — základna Jasné oblohy\n
+• Doktor Makoveckij — Zaton (Skadovsk)\n
+• Profesor Panin — Kordon (vozový depozit)\n
+• Asistent Anochin — Jantar (bunkr vědců)\n
+\n
+%c[pda_yellow]Typ II anomálií%c[ui_gray_1]\n
+\n• Doktor Brunko — Jupiter (stanice Yanov)\n
+• „Chmurný“ — Armádní sklady (základna Svobody)\n
+• Docent Loskutov — Rostok\n
+• Profesor Zelenkov — okraj Výzkumného institutu\n
+\n
+%c[pda_yellow]Typ III anomálií%c[ui_gray_1]\n
+\n• Profesor Boževskij — Jupiter (bunkr vědců)\n
+\n
+%c[pda_yellow]Univerzální operátoři (Typy I-IV)%c[ui_gray_1]\n
+\n• Doktor Kravčenko — vědecká stanice (bunkr vědců)\n
+• Profesor Skorik — anomální les (tábor vědců)\n
+• Docent Bezgodko — okrajové oblasti (tábor vědců)\n
+• Docent Škrekov — anomální pole (tábor vědců)\n
+    </text>
+</string>
+
+
+<string id="encyclopedia_ant_guide_toxic_air">
+	<text>Toxický vzduch</text>
+</string>
+
+<string id="encyclopedia_ant_guide_toxic_air_text">
+    <text>
+%c[pda_green]Toxic Air 0.73 - Přežití v kontaminovaném vzduchu + Drunk's Enhanced Toxic Air%c[pda_white]\n
+\nTento mod zavádí nebezpečný kontaminovaný vzduch do Zóny, který ovlivňuje pouze podzemní oblasti. K přežití je nutná plynová maska a kyslíkové lahve. Dodržuj následující pokyny:\n
+\n%c[pda_green]Používání plynových masek a filtrů:%c[pda_white]\n
+- Vždy noste plynovou masku a připojte filtr před vstupem do kontaminovaných podzemních oblastí.\n
+- Filtry mají omezenou životnost; pravidelně je vyměňujte.\n
+- Kyslíkové lahve poskytují dodatečný čas dýchání v silně kontaminovaných zónách.\n
+- Poznámka: plynové masky a respirátory již nechrání před radiací bez filtru nebo kyslíkové lahve.\n
+\n%c[pda_green]Kontaminované podzemní oblasti:%c[pda_white]\n
+\n%c[ui_gray_1]• Zemědělská podzemní laboratoř - %c[pda_green]lehké%c[ui_gray_1]\n
+\n%c[ui_gray_1]• Laboratoř X18 - %c[pda_green]lehké%c[ui_gray_1]\n
+\n%c[ui_gray_1]• Laboratoř X16 - %c[pda_green]lehké%c[ui_gray_1]\n
+\n%c[ui_gray_1]• Jupiter podzemní zařízení - %c[pda_green]lehké%c[ui_gray_1]\n
+\n%c[ui_gray_1]• Bunkr 10 - %c[pda_yellow]střední%c[ui_gray_1]\n
+\n%c[ui_gray_1]• Laboratoř X8 - %c[pda_green]lehké%c[ui_gray_1]\n
+\n%c[ui_gray_1]• Laboratoř řízení Monolitu - %c[pda_yellow]střední%c[ui_gray_1]\n
+\n%c[ui_gray_1]• Laboratoř Sarkofágu - %c[pda_red]těžké%c[ui_gray_1]\n
+\n%c[ui_gray_1]• Válečná laboratoř - %c[pda_yellow]střední%c[ui_gray_1]\n
+\n%c[ui_gray_1]• Laboratoř X5 - %c[pda_green]lehké%c[ui_gray_1]\n
+\n%c[ui_gray_1]• Laboratoř X14 - %c[pda_green]lehké%c[ui_gray_1]\n
+\n%c[ui_gray_1]• Laboratoř X27 - %c[pda_yellow]střední%c[ui_gray_1]\n
+\n%c[ui_gray_1]• Laboratoř X7 - %c[pda_green]lehké%c[ui_gray_1]\n
+\n%c[ui_gray_1]• Pripyat podzemní zařízení - %c[pda_yellow]střední%c[ui_gray_1]\n
+\n%c[ui_gray_1]• Laboratoř Audron - %c[pda_green]lehké%c[ui_gray_1]\n
+\n%c[ui_gray_1]• Koliderová laboratoř - %c[pda_red]těžké%c[ui_gray_1]\n
+\n%c[ui_gray_1]• Laboratoř X2 - %c[pda_green]lehké%c[ui_gray_1]\n
+\n%c[ui_gray_1]• Laboratoř X3 - %c[pda_green]lehké%c[ui_gray_1]\n
+\n%c[ui_gray_1]• Laboratoř X6 - %c[pda_yellow]střední%c[ui_gray_1]\n
+\n%c[ui_gray_1]• Laboratoř X11 - %c[pda_red]těžké%c[ui_gray_1]\n
+\n%c[pda_green]Nové filtry a kyslíkové lahve:%c[pda_white]\n
+- GP-5, M10, CBRN-70: vyváženy pro lepší ochranu v kontaminovaných sektorech.\n
+- R18 NBC: špičkový filtr žoldáků, vzácný a nevyrobitelný.\n
+- DP-1: nízkotierový filtr Renegátů, loot nebo obchod.\n
+- MOF-6: střední filtr Banditů, dostupný u obchodníků Banditů.\n
+- MS-4: nízkotierový polský civilní filtr, u obchodníků žoldáků.\n
+- Upravený M.58: vzácný nízkotierový filtr Ekologů, mizí po obchodní úrovni 1.\n
+- NBC-77 SOF: vzácný UNISG filtr, startovní výbava nebo loot pouze pro UNISG.\n
+- M10 „Protector“ varianta: exkluzivní pro Duty, těžší, ale ochrannější.\n
+- FG-130 sovětská kyslíková nádoba: poskytuje malou chemickou ochranu, slotově specifická.\n
+- Nouzový filtr: dočasná ochrana, craft nebo loot.\n
+\n%c[pda_green]MCM konfigurace:%c[pda_white]\n
+- Otevři MCM menu (Toxic Air) pro úpravu životnosti filtrů, účinnosti kyslíku a alarmů při nízké hladině.\n
+\n%c[pda_green]Tipy k přežití:%c[pda_white]\n
+- Vždy noste náhradní filtry a kyslíkové lahve.\n
+- Plánujte trasy tak, abyste minimalizovali čas v kontaminovaných oblastech.\n
+- V nouzi může alkohol dočasně snížit účinky znečištění.\n
+\n%c[pda_green]Kredity:%c[pda_white]\n
+- Toxic Air od %c[pda_green]xcvb%c[pda_white]\n
+- Drunk's Enhanced Toxic Air od %c[pda_green]Drunk's%c[pda_white]\n
+\nPro více informací navštiv oficiální stránky modu:\n
+\n- [Toxic Air 0.73](https://www.moddb.com/mods/stalker-anomaly/addons/toxic-air-01)\n
+\n- [Drunk's Enhanced Toxic Air 1.5.2](https://www.moddb.com/mods/stalker-anomaly/addons/drunks-enhanced-toxic-air-152)\n
+    </text>
+</string>
+
+
+
+
+
+<!--Magazines redux - Original text from st_items_maganizes.xml-->
+<string id="encyclopedia_article_mags">
+    <text>Magazines Redux</text>
+</string>
+
+<string id="encyclopedia_article_mags_text">
+    <text>
+%c[pda_green]Průvodce Mags Redux%c[ui_gray_1]\n
+\n
+Tento průvodce vysvětluje základní mechaniky systému Mags Redux.\n
+Pokud jsi používal starší Anomaly Magazines (Wuut), většina chování ti bude povědomá.\n
+\n
+%c[pda_green]NABÍJENÍ ZBRANÍ%c[ui_gray_1]\n
+• Zbraně, které v realitě používají zásobníky, je vyžadují i ve hře\n
+• Ostatní zbraně (brokovnice, revolvery, některé kulovnice) fungují jako ve vanilla verzi\n
+• Munice musí být ručně nabita do zásobníků (přetáhni munici na zásobník)\n
+• Nabíjení probíhá po nábojích; kliknutím lze kdykoliv zrušit\n
+\n
+%c[pda_green]SYSTÉM VÝBAVY%c[ui_gray_1]\n
+• Pravé tlačítko na zásobník - „Přidat do výbavy“\n
+• Zásobníky ve výbavě se automaticky používají při přebíjení kompatibilních zbraní\n
+• Systém prioritizuje:\n
+  - zásobník s nejvyšší kapacitou\n
+  - odpovídající typ munice\n
+• Zásobníky lze ručně vložit nebo vyjmout přes kontextové menu zbraně\n
+• Kolečko munice umožňuje rychlé přepínání zásobníků (seřazeno podle horního náboje)\n
+\n
+%c[pda_green]ZÍSKÁVÁNÍ%c[ui_gray_1]\n
+• Obchodníci, kteří prodávají zbraně, prodávají i zásobníky\n
+• NPC nosí zásobníky s omezenou municí\n
+• Vysoce postavené NPC mohou odhazovat vylepšené zásobníky s:\n
+  - rychlejším přebíjením\n
+  - vyšší kapacitou\n
+  - nebo obojím\n
+\n
+%c[pda_green]NASTAVENÍ MCM%c[ui_gray_1]\n
+• Kvalita lupu — ovlivňuje výskyt a stav zásobníků\n
+• Rychlost nabíjení/vybíjení — upravuje čas přebíjení\n
+• Rychlé nabíjení — instantní manipulace se zásobníky ve skladu\n
+• Jeden v komoře — zachová náboj v komoře při výměně\n
+    </text>
+</string>
+
+
+<!--Weapon Parts overhaul - Original text from ui_st_jamming.xml-->
+<string id="encyclopedia_article_wpo">
+    <text>Údržba zbraní</text>
+</string>
+
+<string id="encyclopedia_article_wpo_text">
+    <text>
+%c[pda_green]Weapon Parts Overhaul — rychlé FAQ%c[ui_gray_1]\n
+\n
+1. %c[pda_white]Proč se mi zbraň zasekává na 100%?%c[ui_gray_1]\n
+A: Součástky jsou poškozené i přes celkový stav. Zkontroluj jednotlivé komponenty.\n
+\n
+2. %c[pda_white]Jak zbraň odjistit (unjam)?%c[ui_gray_1]\n
+A: Dvojitý stisk klávesy USE nebo pravým klikem na zbraň v inventáři a zvol „odstranit zaseknutí“.\n
+\n
+3. %c[pda_white]Proč klesá stav při výměně dílů?%c[ui_gray_1]\n
+A: Zbraň vyžaduje opětovné promazání nad 60% stavu. Použij Leatherman pro menší ztrátu nebo pracovní stůl pro její odstranění.\n
+\n
+4. %c[pda_white]Mohou technici opravovat díly?%c[ui_gray_1]\n
+A: Ano. V Anthology mohou technici opravovat jednotlivé díly přes menu opravy zbraní.\n
+\n
+%c[pda_green]PŘEHLED SYSTÉMU%c[ui_gray_1]\n
+Weapon Parts Overhaul mění systém údržby a degradace zbraní.\n
+\n
+%c[pda_green]DÍLY A ÚDRŽBA%c[ui_gray_1]\n
+• Celkový stav zbraně se lépe opravuje (nižší náklady)\n
+• Díly vyžadují individuální údržbu\n
+• Přejetím myší se zobrazí stav dílu\n
+\n
+Stavy:\n
+%c[d_red]• Chybí%c[ui_gray_1]\n
+%c[d_orange]• Poškozené (nelze vyčistit)%c[ui_gray_1]\n
+%c[pda_yellow]• Špinavé (lze vyčistit)%c[ui_gray_1]\n
+%c[d_green]• Funkční%c[ui_gray_1]\n
+\n
+• Díly lze demontovat (field stripping) kromě hlavně a spouště\n
+• Díly lze měnit drag & drop (nad 60% dochází k opotřebení bez mazání)\n
+• Pracovní stůl umožňuje kompletní výměnu s odpovídajícími sadami\n
+\n
+%c[pda_green]ZASEKNUTÍ A POŠKOZENÍ%c[ui_gray_1]\n
+• Stavy poškození: rozbitý, poškozený, opotřebený, špinavý, funkční\n
+• Horší stav = vyšší šance selhání\n
+• Selhání: selhání výstřelu, zaseknutí, těžké zaseknutí\n
+\n
+Pravidla odstranění:\n
+• Selhání / zaseknutí — akce odjištění\n
+• Těžké zaseknutí — nejdřív musí být vyjmut zásobník\n
+\n
+• Hlaveň neovlivňuje zasekávání, ale snižuje poškození při znečištění\n
+• Střelba pod 85% stavu může poškodit díly\n
+• Déšť zrychluje degradaci\n
+\n
+%c[pda_green]EKONOMIKA A OPRAVY%c[ui_gray_1]\n
+• Čisticí sady obnovují špinavé díly (+10%)\n
+• Opravné sady obnovují díly (+25% díl / +10% zbraň)\n
+• Technici prodávají díly s vysokou přirážkou\n
+• Nástroje (pilníky, vytěráky, multitooly) opravují díly nad 60%\n
+• Pokročilé sady opravují díly nad 10%\n
+    </text>
+</string>
+
+<string id="encyclopedia_ant_guide_cold_system">
+		<text>Cold System</text>
+	</string>
+
+<string id="encyclopedia_ant_guide_cold_system_text">
+    <text>
+%c[pda_green]Cold System 0.72 - Průvodce přežitím%c[pda_white]\n
+Tento mod přidává realistický systém chladu, který ovlivňuje zdraví, výdrž a celkový výkon postavy. Dodržuj tyto tipy pro přežití v náročných podmínkách:\n
+\n%c[pda_green]Řízení chladu:%c[pda_white]\n
+- Chlad se zvyšuje při větru, dešti a v noci. Noste vhodné oblečení pro snížení expozice.\n
+- Neustálý pohyb generuje tělesné teplo.\n
+- Používej ohně, sluneční světlo a artefakty vyzařující teplo, kdykoliv je to možné.\n
+- Spánek s dekou v inventáři snižuje chlad efektivněji (+50% účinnost).\n
+\n%c[pda_green]Jídlo a pití:%c[pda_white]\n
+- Uvařené jídlo zůstává teplé přibližně 6 herních hodin. Sleduj teplotu v tooltipu.\n
+- Alkohol dočasně snižuje účinky chladu, ale používej ho opatrně.\n
+\n%c[pda_green]Systém horečky (v0.5+):%c[pda_white]\n
+- Vysoká expozice chladu může způsobit horečku, která snižuje zdraví, regeneraci a rychlost pohybu.\n
+- Léčba horečky: spánek, antibiotika nebo specifické léky podle účinnosti.\n
+\n%c[pda_green]Nastavení:%c[pda_white]\n
+- Otevři MCM menu (Cold System) pro konfiguraci všech parametrů systému chladu.\n
+\n%c[pda_green]Tipy:%c[pda_white]\n
+- Pravidelně sleduj tělesnou teplotu a teplotu jídla.\n
+- Plánuj trasy a vyhýbej se dlouhodobému vystavení špatnému počasí.\n
+- Kombinuj oblečení, pohyb a zdroje tepla pro efektivní udržení tepla.\n
+\nPro detailní instrukce a aktualizace navštiv oficiální stránku modu: [Cold System 0.72](https://www.moddb.com/mods/stalker-anomaly/addons/cold-system-01)\n
+    </text>
+</string>
+
+
+
+
+
+
+
+
+
+
+
+<!--
+
+NOT USED ANYMORE
+
+-->
+
+
+
+
+
+
+
+
+
+
+<!--FATAL ERROR-->
+<string id="encyclopedia_guide_fatal_error">
+    <text>Fatal Error (by Ncenka)</text>
+</string>
+
+<string id="encyclopedia_guide_fatal_error_text">
+    <text>
+%c[pda_green]Fatal Error v1.7.9 (by Ncenka)%c[ui_gray_1]\n
+\n
+This addon is a comprehensive gameplay overhaul for S.T.A.L.K.E.R. Anomaly, expanding PDA and electronic device management, realism, and survival mechanics.\n
+\n%c[pda_green]Key Features:%c[ui_gray_1]\n
+\n%c[pda_green]Expanded PDA Tiers & Rework:%c[pda_white]\n
+- New PDA models (Generations I-VI), including GETAC PS535E, MilDEF DB6M, Advantech P37B, MT-55 Kulon.\n
+- Each PDA has distinct properties: battery type, durability, supported features (Taskboard, Interactive, Autocomplete, PAW), map visibility, and resistance to Zone hazards.\n
+\n%c[pda_green]Device Degradation & Failure:\n 
+\n%c[pda_white]- PDAs, headlamps, and detectors can break or get damaged from:\n
+  • Emissions and Psy-Storms;\n
+  • Radiation exposure (cumulative);\n
+  • Electrical anomalies;\n
+  • Physical damage (e.g., hits to the head).\n
+- Broken devices are unusable until repaired; damaged PDA screens display visible cracks.\n
+\n%c[pda_green]Battery Power System:%c[pda_white]\n
+- Implements realistic batteries (AAA, AA, C, D, F, UPD, Car Battery) with different capacities.\n
+- Devices require specific battery types; UPD allows charging and power transfer.\n
+\n%c[pda_green]BIOS Configuration Menu:%c[pda_white]\n
+- In-game BIOS access for PDAs.\n
+- Modify system settings: beep alerts, overclocking, UI themes.\n
+\n%c[pda_green]Fatal Errors & System Failures:%c[pda_white]\n
+- PDAs may experience BSOD, temporary shutdowns, or forced reboots in emissions or hostile areas.\n
+- Reboot takes configurable time (default 30-60 seconds).\n
+- Technicians can decrypt PDAs, repair devices, fix BSOD, and replace screens.\n
+\n%c[pda_green]MCM Configuration:%c[pda_white]\n
+- Adjust failure chances for PDA tiers and devices.\n
+- Tweak timers for reboots, shutdowns, radiation checks.\n
+- Customize beep alert radius and assign reboot key.\n
+\n%c[pda_green]Compatibility & Integration:%c[pda_white]\n
+- Compatible with popular modpacks like G.A.M.M.A.\n
+- Patches included for Devices of Anomaly Redone, Powered Exoskeletons, Beef's NVGs Improved.\n
+- Respects other mods PDA functionality.\n
+\n%c[pda_green]Quality of Life & Immersion:%c[pda_white]\n
+- Beep alerts for nearby stalkers (configurable).\n
+- Overclocking boosts PDA performance but increases power consumption and failure risk.\n
+- Unlock different visual PDA themes.\n
+\n%c[pda_green]Summary:%c[pda_white]\n
+Fatal Error transforms electronic devices into dynamic, fragile tools that require maintenance, power, and careful management. It adds depth, challenge, and role-playing elements to the S.T.A.L.K.E.R. experience, making every emission, anomaly encounter, and firefight a potential threat to your equipment.\n
+\n%c[pda_green]Credits:%c[ui_gray_1]\n
+• Concept and scripting — %c[pda_white]Ncenka%c[ui_gray_1]\n
+• 3D PDA models and UI design — %c[pda_white]DAR213%c[ui_gray_1]\n
+\n%c[pda_white]More info:%c[ui_gray_1] https://www.moddb.com/mods/stalker-anomaly/addons/fatal-error-by-ncenka
+    </text>
+</string>
+
+
+
+
+
+
+
+<!--TROUBLESHOOTING PLACEHOLDER-->
+<string id="encyclopedia_ant_guide_troubleshooting">
+    <text>Troubleshooting</text>
+</string>
+
+<string id="encyclopedia_ant_guide_troubleshooting_text">
+    <text>
+%c[pda_green]Troubleshooting%c[pda_white]\n
+This section will be updated once the most frequently reported issues after version 2.1 have been collected.\n
+It will include solutions, tips, and guidance to help you resolve common problems in Anthology.\n
+    </text>
+</string>
+
+<!--Mod Authors-->
+<string id="encyclopedia_ant_guide_mod_credits">
+    <text>Addons Credits</text>
+</string>
+
+<string id="encyclopedia_ant_guide_mod_credits_text">
+    <text>
+%c[pda_green]Addons Credits%c[pda_white]\n
+This section will be finalized after the beta release of Anthology.\n
+    </text>
+</string>
+
+
+
+<!--Added 12.11.2025-->
+<string id="encyclopedia_ant_guide_lootboxes">
+    <text>Anomaly Lootboxes</text>
+</string>    
+<string id="encyclopedia_ant_guide_lootboxes_text">
+    <text>
+%c[pda_green]Anomaly Lootboxes 2.1 - Randomized Rewards + Gameplay Enhancements%c[pda_white]\n
+\nThis mod introduces lootboxes throughout the Zone, adding randomized rewards to stashes and dead stalkers. Players must use lockpicks to open them, with difficulty based on the number of lockpicks required.\n
+\n%c[pda_green]Using Lootboxes:%c[pda_white]\n
+- Lootboxes appear in stashes, underground areas, and on dead stalkers.\n
+- Drag lockpicks onto the box to unlock it; difficulty depends on box type.\n
+- Technicians can open boxes for a cost, bypassing manual lockpicking.\n
+- Boxes now have weight based on contents; item condition affects selection.\n
+\n%c[pda_green]Types of Lootboxes:%c[pda_white]\n
+- Toolbox\n
+- Munitions Case\n
+- Food Storage Box\n
+- Scavenger's Junkbox\n
+- Medical Storage Case\n
+- Field Equipment Case\n
+- Competition Rifle Case\n
+- Additional random boxes appear in underground areas\n
+\n%c[pda_green]Lootbox Mechanics:%c[pda_white]\n
+- Lockpick sets are no longer required; individual lockpicks can be used immediately.\n
+- Randomized loot now spreads more dynamically across the Zone.\n
+- Money drops from lootboxes in usable stacks.\n
+- PDA spawns are based on box location rather than opening location.\n
+- Supports integration with other mods; custom items can appear in lootboxes.\n
+\n%c[pda_green]Gameplay Tips:%c[pda_white]\n
+- Always carry extra lockpicks.\n
+- Prioritize boxes in high-risk areas for better rewards.\n
+- Check underground levels for unique boxes.\n
+- Combine this system with faction missions to maximize rewards.\n
+\n%c[pda_green]Credits:%c[pda_white]\n
+- Anomaly Lootboxes by %c[pda_green]ahuyn%c[pda_white]\n
+- ModDB page: Anomaly Lootboxes https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-lootboxes\n
+    </text>
+</string>
+
+<string id="encyclopedia_ant_guide_placeable_campfires">
+    <text>Campfires Placeable</text>
+</string>
+<string id="encyclopedia_ant_guide_placeable_campfires_text">
+    <text>
+%c[pda_green]Campfires Placeable 0.22 - Create Your Own Campfires in the Zone%c[pda_white]\n
+\nThis addon allows you to deploy a fully functional campfire almost anywhere in the Zone. Buy or gather firewood, place a fire, use it to save, cook food, or rest and survive.\n
+\n%c[pda_green]How it works:%c[pda_white]\n- Acquire Firewood item from traders.\n- Use firewood from your inventory to place a campfire on a suitable surface.\n- Make sure the placement surface is flat; adjust the radius in MCM if placement fails.\n- Once placed, the campfire works like a standard fire: save the game, cook food, rest.\n
+\n%c[pda_green]Additional Features:%c[pda_white]\n- Chopping wood: if you have an axe, right-click to gather wood. Degrades axe and adds hunger/thirst/fatigue penalties.\n- Designed to be compatible with most mods.\n
+\n%c[pda_green]Gameplay Tips:%c[pda_white]\n- Place campfires on safe flat surfaces.\n- Use them as mobile safe-zones to avoid fixed save points.\n- Carry extra firewood or an axe for longer expeditions.\n- Combine with cooking or survival mods for strategic placement.\n
+\n%c[pda_green]Credits:%c[pda_white]\n- Campfires Placeable by %c[pda_green]bvcx%c[pda_white]\n- ModDB page: https://www.moddb.com/mods/stalker-anomaly/addons/campfires-placeable-01\n
+    </text>
+</string>
+
+
+</string_table>

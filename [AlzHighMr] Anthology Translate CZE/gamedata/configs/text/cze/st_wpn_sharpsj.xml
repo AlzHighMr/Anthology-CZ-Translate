@@ -1,0 +1,19 @@
+<string_table>
+<string id="st_wpn_sharps_j">
+	<text>Sharps 1874</text>
+</string>
+
+<string id="st_wpn_sharps_j_descr">
+	<text>Puška Sharps 1874, legendární jednoranová palná zbraò známá svou pøesností a dostøelem, je symbolem amerického øemeslného zpracování konce 19. století. Pùvodnì navrená pro lov na dlouhou vzdálenost a sportovní støelbu, tato puška má robustní falling-block závìr a tìkou oktagonální hlaveò, co zajišuje vysokou pøesnost a spolehlivost. Jednou z jejích charakteristickıch vlastností je monost montáe optiky, která dále zvyšuje její ji tak vynikající pøesnost pro sportovní støelce i profesionální ostrostøelce. Historickı vıznam a vıkon Sharps 1874 z ní uèinily oblíbenou volbu mezi lovci bizonù a soutìními støelci, èím si zajistila své místo v historii palnıch zbraní.
+		\n \n %c[ui_gray_2]PØÍSLUŠENSTVÍ: \n %c[d_purple] - %c[ui_gray_2] ZF-4 zamìøovaè\n \n</text>
+</string>
+
+<string id="st_ammo_5090sharps">
+	<text>.50-90 Sharps munice</text>
+</string>
+
+<string id="st_ammo_5090sharps_descr">
+	<text>.50-90 Sharps munice, zavedená na konci 19. století, je silnı náboj urèenı pro pušku Sharps 1874. S kulkou ráe .50 a 90 grány èerného prachu vyniká pøi lovu velké zvìøe, je schopná zastavit velká zvíøata na dlouhou vzdálenost a má legendární status v historii americkıch palnıch zbraní.\n \n</text>
+</string>
+	
+</string_table>

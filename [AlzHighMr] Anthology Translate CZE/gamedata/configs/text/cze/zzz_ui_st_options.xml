@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+<string id="ui_mm_menu_mcm">
+	<text>Menu konfigurací modů</text>
+</string>
+<string id="ui_mm_originals">
+	<text>Originální hry</text>
+</string>
+
+
+<string id="ui_mm_disclaimer">
+	<text>A.N.T.H.O.L.O.G.Y. je unikátní fanouškovský projekt. Díky rozsáhlým příběhovým liniím, vylepšené hratelnosti a grafice
+	\n a široké škále nových funkcí je tato modifikace skutečným darem pro všechny fanoušky S.T.A.L.K.E.R.</text>
+</string>
+
+</string_table>

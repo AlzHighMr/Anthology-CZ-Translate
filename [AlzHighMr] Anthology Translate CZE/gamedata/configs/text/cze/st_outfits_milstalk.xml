@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+<!-- Bomber Combat Suit -->
+<string id="st_bomber_outfit_name">
+    <text>Bomber bojová kombinéza</text>
+</string>
+<string id="st_bomber_outfit_description">
+    <text>Lehká taktická bomber kombinéza určená pro rychlé útočné operace. Zesílená flexibilními pancéřovými pláty poskytuje vyváženou ochranu bez omezení pohybu.</text>
+</string>
+
+<!-- MilStalk Standard Outfit -->
+<string id="milstalk_outfit_name">
+    <text>MilStalk standardní bojová uniforma</text>
+</string>
+<string id="milstalk_outfit_description">
+    <text>Standardní bojová uniforma jednotek MilStalk, poskytující spolehlivou balistickou ochranu a odolnost vůči drsným podmínkám prostředí.</text>
+</string>
+
+<!-- MilStalk SpecOps Suit -->
+<string id="milstalk_specops_outfit_name">
+    <text>MilStalk speciální operační oblek</text>
+</string>
+<string id="milstalk_specops_outfit_description">
+    <text>Elitní speciální bojový oblek s zesílenými pancéřovými vrstvami, taktickým maskováním a vylepšenými schopnostmi stealth pro vysoce rizikové mise.</text>
+</string>
+
+<!-- MilStalk Military Suit -->
+<string id="milstalk_military_outfit_name">
+    <text>MilStalk zesílené vojenské brnění</text>
+</string>
+<string id="milstalk_military_outfit_description">
+    <text>Fortifikovaný vojenský oblek používaný frontovými jednotkami MilStalk. Poskytuje zvýšenou balistickou odolnost a dodatečnou ochranu proti anomáliím.</text>
+</string>
+
+<!-- MilStalk Proto Exo -->
+<string id="milstalk_proto_exo_outfit_name">
+    <text>MilStalk prototyp exoskeletu</text>
+</string>
+<string id="milstalk_proto_exo_outfit_description">
+    <text>Raný prototyp exoskeletu poskytující zvýšenou sílu a solidní ochranu. Méně propracovaný než plné exosuity, ale v poli velmi efektivní.</text>
+</string>
+
+<!-- MilStalk Exoskeleton -->
+<string id="milstalk_exo_outfit_name">
+    <text>MilStalk těžký exoskelet</text>
+</string>
+<string id="milstalk_exo_outfit_description">
+    <text>Plně poháněný vojenský exoskelet navržený pro maximální přežití. Zesílená konstrukce poskytuje výjimečnou ochranu a vysokou nosnost.</text>
+</string>
+
+<!-- MilStalk Nosorog -->
+<string id="milstalk_nosorog_outfit_name">
+    <text>MilStalk Nosorog útočné brnění</text>
+</string>
+<string id="nosorog_outfit_description">
+    <text>Pokročilá varianta brnění „Nosorog“ s kompozitním pancířem a exoskeletální podporou. Vyvažuje mobilitu a mimořádnou obrannou kapacitu pro elitní jednotky.</text>
+</string>
+
+</string_table>
